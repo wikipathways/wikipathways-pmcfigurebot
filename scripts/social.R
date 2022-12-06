@@ -3,29 +3,57 @@ library(dplyr)
 library(yaml)
 install.packages("rtoot")
 library(rtoot)
+install.packages("tidyverse")
+library(tidyverse)
 
+###############################
 ## Read in yaml files from inbox
-setwd("./inbox")
+setwd("/Users/kristinahanspers/Dropbox (Gladstone)/Work/github/wikipathways-pmcpaperbot/inbox")
 files <- list.files(pattern = "\\.yml$")
 
 ## for testing
 #testfile = "PMC9616486__gr4_lrg.yml"
 
-yamlreader <- function(x){
-  yamlfile <- read_yaml(x)
+yaml.df <- data.frame()
+
+for (f in files){
+  yaml <- read_yaml(f)
+  image_filename <- yaml[[1]]
+  article_title <- yaml[[2]]
+  citation <- yaml[[3]]
+  doi <- paste("https://doi.org/",yaml[[4]], sep="")
+  journal <- yaml[[5]]
+  keywords <- formatKeywords(yaml$keywords[1:3]) ##store only first three and formatå
+  yaml.df <- rbind(yaml.df, data.frame(image_filename, article_title, doi, keywords))
+}
+   
+###############################
+## Construct tweet / toot
+
+social.df <- yaml.df %>%
+  dplyr::mutate(status = paste(article_title, doi, keywords, sep = '\n'))
+
+###############################
+## Post to social (Mastodon)
+
+#Authentication
+#auth_setup()
+
+#Loop through all yaml/image file
+for (i in 1:nrow(social.df)){
+  print(social.df$Status)
+  
+  ## post toot
+  #post_toot(status,media = social.df$image_filename,alt_text = "network image")
+
 }
 
-pubslist <- lapply(files, yamlreader)
-pubs.df <- as.data.frame(do.call(rbind, pubslist))
+################################
 
-## Construct tweet / toot
-social.df <- pubs.df %>%
-  dplyr::mutate(doi = paste("https://",doi, sep="")) %>%
-  dplyr::select(-"citation") %>%
-  dplyr::select(-"journal")
-
-social.df <- social.df %>%
-  dplyr::mutate(status = paste(article_title,doi,keywords, sep = "\n"))
-
-## Post to social
-## Mastodon
+formatKeywords <- function(keywords){
+  kw <- paste("#",keywords, sep ="") ##Add hashtag
+  kw <- str_to_title(kw)  ##First letter uppercase
+  kw <- gsub(" ","", kw, ignore.case = T) ##remove spaces
+  kw <- paste(kw, collapse=' ')
+  return(kw)
+}
