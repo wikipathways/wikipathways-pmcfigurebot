@@ -54,7 +54,7 @@ for (i in 1:nrow(social.df)){
 ###############################
 ## Move to outbox
 
-for (f in list.files("./inbox")){
+for (f in list.files("./inbox", pattern=".jpeg|.yml")){
   file.rename(from = file.path("./inbox",f),
             to = file.path("./outbox",f))
 }
