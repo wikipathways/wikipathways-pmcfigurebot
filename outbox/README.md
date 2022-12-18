@@ -1,0 +1,1 @@
+This dir temporarily holds processed yml and image files 

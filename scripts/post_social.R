@@ -51,6 +51,14 @@ for (i in 1:nrow(social.df)){
 
 }
 
+###############################
+## Move to outbox
+
+for (f in list.files("./inbox")){
+  file.rename(from = file.path("./inbox",f),
+            to = file.path("./outbox",f))
+}
+
 ################################
 
 formatKeywords <- function(keywords){
