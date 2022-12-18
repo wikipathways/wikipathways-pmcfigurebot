@@ -1,4 +1,5 @@
 ## This script takes in a set of yaml files and image files, constructs and posts tweets/toots.
+
 library(dplyr)
 library(yaml)
 install.packages("rtoot")
@@ -8,9 +9,7 @@ library(tidyverse)
 
 ###############################
 ## Read in yaml files from inbox
-setwd("/Users/kristinahanspers/Dropbox (Gladstone)/Work/github/wikipathways-pmcpaperbot/inbox")
-# setwd("inbox") 
-files <- list.files(pattern = "\\.yml$")
+files <- list.files("./inbox", pattern = "\\.yml$")
 
 ## for testing
 #testfile = "PMC9616486__gr4_lrg.yml"
