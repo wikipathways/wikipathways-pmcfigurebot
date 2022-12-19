@@ -1,0 +1,161 @@
+## fetch figures and metadata from PMC
+
+## NOTE: query qualifier for figure captions [CAPT] is clearly broken and only hits on a fraction of caption titles.
+##  the "imagesdocsum" report type does a better job of actually searching captions, e.g.:
+# https://www.ncbi.nlm.nih.gov/pmc/?term=(signaling+pathway)+AND+(2019+[pdat])&report=imagesdocsum&dispmax=100 
+## (11349 hits with "signaling pathway" in every caption title or caption body)
+# https://www.ncbi.nlm.nih.gov/pmc/?term=(signaling+pathway[CAPT])+AND+(2019+[pdat])&report=imagesdocsum&dispmax=100
+## (244 hits with "signaling pathway" ONLY in caption titles)
+# https://www.ncbi.nlm.nih.gov/pmc/?term=(signaling+pathway[CAPT])+AND+(2019+[pdat])
+## (2775 hits when "report=imagesdocsum" is excluded)
+
+## NOTE: the imagesdocsum" report is not supported by NCBI's eutils, so we'll have to go with HTML scraping. 
+##  The pagination of pmc output is not apparent, however...
+
+## Example queries for what is possible
+# https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=asthma[mesh]+AND+leukotrienes[mesh]+AND+2009[pdat]&usehistory=y&retmax=500&retStart=0
+# https://www.ncbi.nlm.nih.gov/pmc/?term=signaling+pathway+AND+2018+[pdat]&report=imagesdocsum&dispmax=100
+# https://www.ncbi.nlm.nih.gov/pmc/?term=((((((((((signaling+pathway)+OR+regulatory+pathway)+OR+disease+pathway)+OR+drug+pathway)+OR+metabolic+pathway)+OR+biosynthetic+pathway)+OR+synthesis+pathway)+OR+cancer+pathway)+OR+response+pathway)+OR+cycle+pathway)+AND+(\%222019/01/01\%22[PUBDATE]+%3A+\%223000\%22[PUBDATE])&report=imagesdocsum&dispmax=100#
+## Network query:
+# https://www.ncbi.nlm.nih.gov/pmc/?term=((network)+OR+PPI)+AND+(%222019/01/01%22[PUBDATE]+%3A+%223000%22[PUBDATE])&report=imagesdocsum&dispmax=100
+## WikiPathways social media post:
+# https://www.ncbi.nlm.nih.gov/pmc/?term=(wikipathways+OR+pathvisio)+AND+(%222022/10/01%22[PUBDATE]+%3A+%223000/01/01%22[PUBDATE])&report=imagesdocsum&dispmax=100
+
+library(utils)
+library(rvest)
+library(xml2)
+library(dplyr)
+library(magrittr)
+library(stringr)
+library(purrr)
+library(yaml)
+library(httr)
+
+##################
+## QUERY BUILDER
+##################
+
+## Pathway types:
+query.terms <- c("wikipathways",
+                 "pathvisio"
+)
+
+query.date.from <- format(Sys.Date() - months(1), "%Y/%m/%d") #one month ago
+query.date.to <- format(Sys.Date(), "%Y/%m/%d") #today
+
+term <- paste0("term=(",paste(query.terms, collapse = "+OR+"),
+')+AND+("',query.date.from,'"[PUBDATE]+%3A+"',query.date.to,'"[PUBDATE])')
+
+query.url <- paste0("https://www.ncbi.nlm.nih.gov/pmc/?",
+                    term,
+                    "&report=imagesdocsum",
+                    "&dispmax=100")
+
+
+################
+## PMC SCRAPER
+################
+
+cat(query.url, file="inbox/fetch.log")
+
+## Parse page
+page.source <- xml2::read_html(query.url) 
+image_filename <- page.source %>%
+  rvest::html_nodes(".rprt_img") %>%
+  rvest::html_node("img") %>%
+  rvest::html_attr("src-large") %>%
+  stringr::str_match("bin/(.*\\.jpg)") %>%
+  as.data.frame() %>%
+  dplyr::select(2) %>%
+  as.matrix() %>%
+  as.character()
+# check for results
+if(!length(image_filename2) > 0){
+  cat("\n0 results", file="inbox/fetch.log", append = T)
+} else {
+  titles <- page.source %>%
+    rvest::html_nodes(".rprt_img") %>%
+    rvest::html_node(xpath='..') %>%
+    rvest::html_node(".rprt_cont") %>%
+    rvest::html_node(".title") %>%
+    rvest::html_text() %>%
+    stringr::str_split("\\s+From: ", simplify = TRUE)
+  article_title <- titles[,2] %>% 
+    stringr::str_trim()
+  citation <- page.source %>%
+    rvest::html_nodes(".rprt_img") %>%
+    rvest::html_node(xpath='..') %>%
+    rvest::html_node(".rprt_cont") %>%
+    rvest::html_node(".aux") %>%
+    rvest::html_text() %>%
+    stringr::str_remove(fixed("CitationFull text"))
+  pmcid <- page.source %>%
+    rvest::html_nodes(".rprt_img") %>%
+    rvest::html_node(xpath='..') %>%
+    rvest::html_node(".rprt_cont") %>%
+    rvest::html_node(".title") %>%
+    rvest::html_node("a") %>%
+    rvest::html_attr("href") %>%
+    stringr::str_match("PMC\\d+") %>%
+    as.character()
+  
+  ## Prepare df and write to R.object and tsv
+  df <- data.frame(pmcid, image_filename,  article_title, citation) 
+  df <- unique(df)
+  # saveRDS(df, file = "pmc.df.all.rds")
+  
+  cat(paste("\n",nrow(df), "results"), file="inbox/fetch.log", append = T)
+  
+  ## Submit to inbox
+  for (a in 1:nrow(df)){
+    article.data <- df[a,]
+    fn <- paste(article.data$pmcid,
+                gsub(".jpg$","",article.data$image_filename),
+                sep = "__")
+    md.query <- paste0("https://www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi?verb=GetRecord&identifier=oai:pubmedcentral.nih.gov:",gsub("PMC","", article.data$pmcid),"&metadataPrefix=pmc_fm")
+    md.source <- xml2::read_html(md.query) 
+    doi <- md.source %>%
+      rvest::html_node(xpath=".//article-id[contains(@pub-id-type, 'doi')]") %>%
+      rvest::html_text()
+    journal_title <- md.source %>%
+      rvest::html_node(xpath=".//journal-title") %>%
+      rvest::html_text()
+    journal_nlm_ta <- md.source %>%
+      rvest::html_node(xpath=".//journal-id[contains(@journal-id-type, 'nlm-ta')]") %>%
+      rvest::html_text()
+    journal_iso_abbrev <- md.source %>%
+      rvest::html_node(xpath=".//journal-id[contains(@journal-id-type, 'iso-abbrev')]") %>%
+      rvest::html_text()
+    publisher_name <- md.source %>%
+      rvest::html_node(xpath=".//publisher-name") %>%
+      rvest::html_text()
+    keywords <- md.source %>% 
+      rvest::html_nodes(xpath=".//kwd") %>% 
+      purrr::map(~rvest::html_text(.)) %>%
+      unlist() %>% 
+      unique()
+    
+    md.data <- data.frame(doi,journal_title, journal_nlm_ta, publisher_name)
+    
+    ## write yml
+    yml.path = file.path('inbox',paste(fn, "yml", sep = "."))
+    write("---", yml.path, append = F)
+    write(yaml::as.yaml(article.data), yml.path, append = T)
+    write(yaml::as.yaml(md.data), yml.path, append = T)
+    write("keywords:", yml.path, append = T)
+    write(yaml::as.yaml(keywords), yml.path, append = T)
+    write("---", yml.path, append = T)
+    
+    ## download image from PMC, politely
+    img.from.path = paste0("https://www.ncbi.nlm.nih.gov/pmc/articles/",
+                           article.data$pmcid,
+                           "/bin/",article.data$image_filename)
+    img.to.path = file.path('inbox',paste(fn, "jpg", sep = "."))
+    headers = c(
+      `user-agent` = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36'
+    )
+    res <- httr::GET(url = img.from.path, httr::add_headers(.headers=headers))
+    jpg <- jpeg::readJPEG(res$content)
+    jpeg::writeJPEG(jpg, img.to.path)
+  }
+}
