@@ -10,7 +10,7 @@ concurrency:
   cancel-in-progress: true
 
 jobs:      
-  stats-update:
+  fetch-pmc:
     runs-on: ubuntu-20.04
     steps:
       - name: Checkout
@@ -25,9 +25,9 @@ jobs:
 
       - name: Install packages
         run: |
-          Rscript -e 'install.packages(c("utils","rvest","xml2","dplyr","magrittr","stringr","purrr","yaml","httr"))'
+          Rscript -e 'install.packages(c("utils","httr","xml2","dplyr","magrittr","stringr","purrr","yaml","rvest"))'
 
-      - name: Run stats.Rmd
+      - name: Run fetch_pmc.R
         run: |
           Rscript -e "source('scripts/fetch_pmc.R')"
 

@@ -40,7 +40,7 @@ query.terms <- c("wikipathways",
                  "pathvisio"
 )
 
-query.date.from <- format(Sys.Date() - months(1), "%Y/%m/%d") #one month ago
+query.date.from <- format(Sys.Date() - months(3), "%Y/%m/%d") #one month ago
 query.date.to <- format(Sys.Date(), "%Y/%m/%d") #today
 
 term <- paste0("term=(",paste(query.terms, collapse = "+OR+"),
