@@ -32,6 +32,6 @@ jobs:
           Rscript -e "source('scripts/fetch_pmc.R')"
 
       - name: Commit to inbox
-      - uses: stefanzweifel/git-auto-commit-action@v4  
+        uses: stefanzweifel/git-auto-commit-action@v4  
         with:
           commit_message: new content from pmc
