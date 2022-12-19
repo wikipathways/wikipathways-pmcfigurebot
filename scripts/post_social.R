@@ -40,7 +40,7 @@ for (f in files){
   ##TODO: Authentication
   #Authentication
   #auth_setup()
-  rtoot::post_toot(status, media = social.df$image_filename, alt_text = "network image")
+  rtoot::post_toot(status, media = file.path("./inbox",social.df$image_filename), alt_text = "article figure")
 }
  
 ###############################
