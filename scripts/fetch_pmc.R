@@ -71,7 +71,7 @@ image_filename <- page.source %>%
   as.matrix() %>%
   as.character()
 # check for results
-if(!length(image_filename2) > 0){
+if(!length(image_filename) > 0){
   cat("\n0 results", file="inbox/fetch.log", append = T)
 } else {
   titles <- page.source %>%
