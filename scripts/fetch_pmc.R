@@ -30,6 +30,7 @@ library(stringr)
 library(purrr)
 library(yaml)
 library(httr)
+library(jpeg)
 library(lubridate) #for -months() operation
 
 ##################
