@@ -26,7 +26,7 @@ jobs:
       - name: Install packages
         run: |
           sudo apt-get install libcurl4-openssl-dev
-          Rscript -e 'install.packages(c("utils","httr","xml2","dplyr","magrittr","stringr","purrr","yaml","rvest"))'
+          Rscript -e 'install.packages(c("utils","httr","xml2","dplyr","magrittr","stringr","purrr","yaml","rvest","lubridate"))'
 
       - name: Run fetch_pmc.R
         run: |
