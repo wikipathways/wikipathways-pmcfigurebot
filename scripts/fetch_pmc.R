@@ -33,30 +33,45 @@ library(httr)
 library(jpeg)
 library(lubridate) #for -months() operation
 
-##################
-## QUERY BUILDER
-##################
+###############
+## BUILD QUERY 
+###############
 
-## Pathway types:
-query.terms <- c("wikipathways",
-                 "pathvisio"
-)
+config <- yaml::read_yaml("query_config.yml")
+#terms
+query.terms <- gsub(" ", "-", config$terms) #dash indicates phrases
+if (length(query.terms) > 1){
+  query.terms <- paste(query.terms, collapse = "+")
+}
+#date
+query.date <- format(Sys.Date(), "%Y/%m/%d") #today
+if (is.null(config$date_range)){
+  if (is.null(config$last_run)){
+    from.date <- format(Sys.Date() - months(1), "%Y/%m/%d")
+    
+  } else {
+    from.date <- config$last_run
+  }
+  query.date <- paste(c(from.date,query.date), collapse = "[PUBDATE]+%3A+")
+  query.date <- paste0(query.date , "[PUBDATE]")
+} else {
+  query.date <- config$date_range
+  if (length(query.date) > 1){
+    query.date <- paste(query.date, collapse = "[PUBDATE]+%3A+")
+    query.date <- paste0(query.date , "[PUBDATE]")
+  }
+}
 
-query.date.from <- format(Sys.Date() - months(1), "%Y/%m/%d") #one month ago
-query.date.to <- format(Sys.Date(), "%Y/%m/%d") #today
-
-term <- paste0("term=(",paste(query.terms, collapse = "+OR+"),
-')+AND+("',query.date.from,'"[PUBDATE]+%3A+"',query.date.to,'"[PUBDATE])')
+term.arg <- paste0("term=(",query.terms,")+AND+(",query.date,")")
 
 query.url <- paste0("https://www.ncbi.nlm.nih.gov/pmc/?",
-                    term,
+                    term.arg,
                     "&report=imagesdocsum",
                     "&dispmax=100")
 
-
-################
-## PMC SCRAPER
-################
+##############
+## SCRAPE PMC 
+##############
 
 cat(query.url, file="inbox/fetch.log")
 
@@ -104,16 +119,20 @@ if(!length(image_filename) > 0){
   ## Prepare df and write to R.object and tsv
   df <- data.frame(pmcid, image_filename,  article_title, citation) 
   df <- unique(df)
-  # saveRDS(df, file = "pmc.df.all.rds")
-  
+
+  ## Log run and last_run
   cat(paste("\n",nrow(df), "results"), file="inbox/fetch.log", append = T)
+  config$last_run <- format(Sys.Date(), "%Y/%m/%d")
+  yaml::write_yaml(config, "query-config.yml")
   
-  ## Submit to inbox
+  ## For each figure...
   for (a in 1:nrow(df)){
+    
+    #################
+    ## MORE METADATA
+    #################
+    
     article.data <- df[a,]
-    fn <- paste(article.data$pmcid,
-                gsub(".jpg$","",article.data$image_filename),
-                sep = "__")
     md.query <- paste0("https://www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi?verb=GetRecord&identifier=oai:pubmedcentral.nih.gov:",gsub("PMC","", article.data$pmcid),"&metadataPrefix=pmc_fm")
     md.source <- xml2::read_html(md.query) 
     doi <- md.source %>%
@@ -138,8 +157,15 @@ if(!length(image_filename) > 0){
       unique()
     
     md.data <- data.frame(doi,journal_title, journal_nlm_ta, publisher_name)
+   
+    #################
+    ## MAKE MEMORIES
+    #################
     
     ## write yml
+    fn <- paste(article.data$pmcid,
+                gsub(".jpg$","",article.data$image_filename),
+                sep = "__")
     yml.path = file.path('inbox',paste(fn, "yml", sep = "."))
     write("---", yml.path, append = F)
     write(yaml::as.yaml(article.data), yml.path, append = T)
