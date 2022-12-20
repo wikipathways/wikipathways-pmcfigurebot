@@ -89,7 +89,7 @@ image_filename <- page.source %>%
 
 ## log last_run
 config$last_run <- format(Sys.Date(), "%Y/%m/%d")
-yaml::write_yaml(config, "query-config.yml")
+yaml::write_yaml(config, "query_config.yml")
 
 ## check for results
 if(!length(image_filename) > 0){
@@ -125,10 +125,8 @@ if(!length(image_filename) > 0){
   df <- data.frame(pmcid, image_filename,  article_title, citation) 
   df <- unique(df)
 
-  ## Log run and last_run
+  ## Log run 
   cat(paste("\n",nrow(df), "results"), file="inbox/fetch.log", append = T)
-  config$last_run <- format(Sys.Date(), "%Y/%m/%d")
-  yaml::write_yaml(config, "query-config.yml")
   
   ## For each figure...
   for (a in 1:nrow(df)){
