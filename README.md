@@ -18,8 +18,7 @@ month if blank; overriden by `date_range`. Format: %Y/%m/%d, *e.g., 2022/10/29*
 
 **date_range** - (Optional) Either a list of two dates (%Y/%m/%d) or a valid
 date string, *e.g,. 2022/10/01[PUBDATE]:2023/01/01[PUBDATE]*
-
-*Important: If used, this field will override the use of `last_run`*
+Important: If used, this field will override the use of `last_run`
 
 ## Social Media Posts
 When files are added to the `inbox` folder, then `scripts/post_social.R` is
