@@ -89,7 +89,7 @@ image_filename <- page.source %>%
 
 ## log last_run
 config$last_run <- format(Sys.Date(), "%Y/%m/%d")
-yaml::write_yaml(config, "query-config.yml")
+yaml::write_yaml(config, "query_config.yml")
 
 ## check for results
 if(!length(image_filename) > 0){
