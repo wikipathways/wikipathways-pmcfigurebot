@@ -86,7 +86,12 @@ image_filename <- page.source %>%
   dplyr::select(2) %>%
   as.matrix() %>%
   as.character()
-# check for results
+
+## log last_run
+config$last_run <- format(Sys.Date(), "%Y/%m/%d")
+yaml::write_yaml(config, "query-config.yml")
+
+## check for results
 if(!length(image_filename) > 0){
   cat("\n0 results", file="inbox/fetch.log", append = T)
 } else {
