@@ -86,7 +86,12 @@ image_filename <- page.source %>%
   dplyr::select(2) %>%
   as.matrix() %>%
   as.character()
-# check for results
+
+## log last_run
+config$last_run <- format(Sys.Date(), "%Y/%m/%d")
+yaml::write_yaml(config, "query-config.yml")
+
+## check for results
 if(!length(image_filename) > 0){
   cat("\n0 results", file="figures/fetch.log", append = T)
 } else {
@@ -120,10 +125,8 @@ if(!length(image_filename) > 0){
   df <- data.frame(pmcid, image_filename,  article_title, citation) 
   df <- unique(df)
   
-  ## Log run and last_run
+  ## Log run
   cat(paste("\n",nrow(df), "results"), file="figures/fetch.log", append = T)
-  config$last_run <- format(Sys.Date(), "%Y/%m/%d")
-  yaml::write_yaml(config, "query-config.yml")
   
   ## For each figure...
   for (a in 1:nrow(df)){
