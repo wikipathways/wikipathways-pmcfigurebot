@@ -1,6 +1,6 @@
 # retrieve secret from environment
-secret <- Sys.getenv("SECRET_MSG")
+secret <- Sys.getenv("TEST_SECRET")
 
 # check that it was retrieved
 if (!is.null(secret))
-  print("I got the secret!")
+  sprintf("I got the secret %i characters long!", nchar(secret))
