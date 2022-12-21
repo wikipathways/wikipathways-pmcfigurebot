@@ -31,7 +31,7 @@ for (f in files){
     dplyr::group_by(across(c(-keywords))) %>%
     dplyr::summarise(keywords = formatKeywords(keywords)) %>%
     dplyr::mutate(doi = paste0("https://doi.org/",doi)) %>%
-    dplyr::mutate(status = as.character(paste(article_title, doi, keywords, sep = "\n"))) %>%
+    dplyr::mutate(status = as.character(paste(article_title, doi, keywords))) %>%
     as.data.frame()
   
   print(social.df$status)
