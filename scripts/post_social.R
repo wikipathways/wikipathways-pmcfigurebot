@@ -21,9 +21,6 @@ formatKeywords <- function(keywords){
 
 files <- list.files("./inbox", pattern = "\\.yml$")
 
-## for testing
-#testfile = "PMC9616486__gr4_lrg.yml"
-
 ##TODO: Consider a smarter way of picking a subset of keywords, for example check against a list
 
 for (f in files){
@@ -32,17 +29,17 @@ for (f in files){
     dplyr::summarise(keywords = formatKeywords(keywords)) %>%
     dplyr::mutate(doi = paste0("https://doi.org/",doi)) %>%
     dplyr::mutate(status = as.character(paste(article_title, doi, keywords))) %>%
+    dplyr::mutate(image_filename = paste0(pmcid,"__",image_filename)) %>%
     as.data.frame()
   
-  print(social.df$status)
+    print(social.df$status)
     
-  ## post toot
-  ##TODO: Authentication
-  #Authentication
-  #auth_setup()
-  rtoot::post_toot(status, media = file.path("./inbox",social.df$image_filename), alt_text = "article figure")
+    ## post toot
+    #rtoot::post_toot(social.df$status, media = file.path("./inbox",social.df$image_filename), alt_text = "article figure")
 }
- 
+
+# ##Test
+# rtoot::post_toot(social.df$status, media = file.path("inbox",social.df$image_filename) , alt_text = "article figure")
 ###############################
 ## Move to outbox
 
