@@ -188,5 +188,7 @@ if(!length(image_filename) > 0){
     res <- httr::GET(url = img.from.path, httr::add_headers(.headers=headers))
     jpg <- jpeg::readJPEG(res$content)
     jpeg::writeJPEG(jpg, img.to.path)
+    
+    Sys.sleep(1) #API rate limit
   }
 }
