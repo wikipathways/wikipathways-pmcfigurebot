@@ -44,7 +44,7 @@ if (length(query.terms) > 1){
   query.terms <- paste(query.terms, collapse = "+")
 }
 #date
-query.date <- format(Sys.Date(), "%Y/%m/%d") #today
+query.date <- ""
 if (is.null(config$date_range)){
   if (is.null(config$last_run)){
     from.date <- format(Sys.Date() - months(1), "%Y/%m/%d")
@@ -52,8 +52,7 @@ if (is.null(config$date_range)){
   } else {
     from.date <- config$last_run
   }
-  query.date <- paste(c(from.date,query.date), collapse = "[PUBDATE]+%3A+")
-  query.date <- paste0(query.date , "[PUBDATE]")
+  query.date <- paste0(from.date,"[PUBDATE]+%3A+3000/01/01[PUBDATE]")
 } else {
   query.date <- config$date_range
   if (length(query.date) > 1){
