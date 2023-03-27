@@ -244,5 +244,6 @@ if(!length(image_filename) > 0){
       jpg <- jpeg::readJPEG(res$content)
       jpeg::writeJPEG(jpg, img.to.path)
     } 
-  }
-}
+    Sys.sleep(1) #API rate limit
+  } #end for each figure
+} #end if results
