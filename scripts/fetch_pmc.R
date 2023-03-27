@@ -203,9 +203,11 @@ if(!length(image_filename) > 0){
       rvest::html_nodes(xpath=".//kwd") %>% 
       purrr::map(~rvest::html_text(.)) %>%
       unlist() %>% 
-      unique()
+      unique() %>%
+      trimws()
     
-    md.data <- data.frame(doi,journal_title, journal_nlm_ta, publisher_name)
+    md.data <- data.frame(doi,journal_title, journal_nlm_ta, publisher_name) %>%
+      mutate_all(~if_else(is.na(.), "", as.character(.)))
     
     #################
     ## MAKE MEMORIES
@@ -220,7 +222,12 @@ if(!length(image_filename) > 0){
     write(yaml::as.yaml(article.data), yml.path, append = T)
     write(yaml::as.yaml(md.data), yml.path, append = T)
     write("keywords:", yml.path, append = T)
-    write(yaml::as.yaml(keywords), yml.path, append = T)
+    if(length(keywords)>1){ # as.yaml makes list
+      write(yaml::as.yaml(keywords), yml.path, append = T)
+    } else if (length(keywords)==1) { # manually make list of one
+      write(paste("-",yaml::as.yaml(keywords)), yml.path, append = T)
+    } else { #leave empty
+    }
     write("---", yml.path, append = T)
     
     ## download image from PMC, politely
@@ -232,7 +239,10 @@ if(!length(image_filename) > 0){
       `user-agent` = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36'
     )
     res <- httr::GET(url = img.from.path, httr::add_headers(.headers=headers))
-    jpg <- jpeg::readJPEG(res$content)
-    jpeg::writeJPEG(jpg, img.to.path)
+    content_type <- headers(res)$`Content-Type`
+    if (content_type == "image/jpeg"){
+      jpg <- jpeg::readJPEG(res$content)
+      jpeg::writeJPEG(jpg, img.to.path)
+    } 
   }
 }
