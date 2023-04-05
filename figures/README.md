@@ -1,2 +1,1 @@
-This folder holds the resulting .jpg and .yml files from a PMC figure query. New
-files will be added by consecutive runs, but the log file is overwritten.
+This dir temporarily holds yml and image files to be processed
