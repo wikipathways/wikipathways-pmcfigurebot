@@ -13,24 +13,23 @@ jobs:
   check-figures:
     runs-on: ubuntu-latest
     outputs:
-      status: ${{ steps.early.outputs.status }}
+      status: ${{ steps.check.outputs.status }}
     steps:
     - name: Checkout
       uses: actions/checkout@v3
 
     - name: Check if there are any .yml files in the figures folder
-      id: early
+      id: check
       run: |
         if [ -n "$(find figures -name '*.yml' -print -quit)" ]; then
-          status="proceed"
+          echo "::set-output name=status::proceed"
         else
-          status="quit"
+          echo "::set-output name=status::quit"
         fi
-        echo "status=$status"
     
   check-posts:
     needs: check-figures
-    if: needs.early.outputs.status == 'proceed'
+    if: ${{needs.check-figures.outputs.status == 'proceed' }}
     runs-on: ubuntu-20.04
     steps:
       - name: Checkout
