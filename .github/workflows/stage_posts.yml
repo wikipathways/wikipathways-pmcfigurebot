@@ -1,4 +1,4 @@
-name: Moves approved posts to inbox for future posting
+name: 3. Moves approved posts to inbox for future posting
 
 on:
   workflow_dispatch:

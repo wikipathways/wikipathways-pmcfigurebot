@@ -1,4 +1,4 @@
-name: Fetch relevant article figures monthly
+name: 1. Fetch relevant article figures monthly
 
 on:
   workflow_dispatch:

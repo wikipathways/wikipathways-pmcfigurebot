@@ -1,4 +1,4 @@
-name: Check posts for bugs and content
+name: 2. Check posts for bugs and content
 
 on:
   workflow_dispatch:

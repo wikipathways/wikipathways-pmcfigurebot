@@ -1,4 +1,4 @@
-name: Make social media posts from staged content
+name: 4. Make social media posts from staged content
 
 on:
   workflow_dispatch:
