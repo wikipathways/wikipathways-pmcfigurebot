@@ -1,0 +1,39 @@
+name: Moves approved posts to inbox for future posting
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.head_ref || github.ref }}
+  cancel-in-progress: true
+
+jobs:      
+  stage-posts:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Read log and move files
+        run: |
+          approved_files=()
+          while IFS= read -r line; do
+            if [[ -n "$line" ]]; then
+              approved_files+=("$line")
+            fi
+          done < figures/approved.log 
+          if [ ${#approved_files[@]} -gt 0 ]; then
+            for file in "${approved_files[@]}"; do
+              mv "figures/$file.jpg" "inbox/"
+              mv "figures/$file.yml" "inbox/"
+            done
+          fi
+          echo "" > figures/approved.log
+      
+      - name: Commit moves
+        uses: stefanzweifel/git-auto-commit-action@v4  
+        with:
+          commit_message: staging posts

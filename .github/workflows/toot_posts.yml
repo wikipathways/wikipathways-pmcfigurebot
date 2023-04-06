@@ -1,0 +1,52 @@
+name: Make social media posts from staged content
+
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: "0 */36 * * *"
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.head_ref || github.ref }}
+  cancel-in-progress: true
+
+jobs:      
+  check-inbox:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check if there are any .yml files in the inbox folder
+      id: check-inbox
+      run: |
+        if [ -n "$(find inbox -name '*.yml' -print -quit)" ]; then
+          echo "::set-output name=status::proceed"
+        else
+          echo "::set-output name=status::quit"
+        fi
+    
+  toot-posts:
+    needs: check-inbox
+    if: ${{ steps.check-inbox.outputs.status == 'proceed' }}
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Setup R
+        uses: r-lib/actions/setup-r@v2
+
+      - name: Install packages
+        run: |
+          sudo apt-get update
+          sudo apt-get install libcurl4-openssl-dev
+          Rscript -e 'install.packages(c("rtoot","yaml"))'
+
+      - name: Run toot_posts.R
+        run: |
+          Rscript -e "source('scripts/toot_posts.R')"
+
+      - name: Commit moves
+        uses: stefanzweifel/git-auto-commit-action@v4  
+        with:
+          commit_message: moving posted content to outbox
