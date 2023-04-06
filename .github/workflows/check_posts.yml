@@ -12,19 +12,25 @@ concurrency:
 jobs:          
   check-figures:
     runs-on: ubuntu-latest
+    outputs:
+      status: ${{ steps.early.outputs.status }}
     steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+
     - name: Check if there are any .yml files in the figures folder
-      id: check-figures
+      id: early
       run: |
         if [ -n "$(find figures -name '*.yml' -print -quit)" ]; then
-          echo "::set-output name=status::proceed"
+          status="proceed"
         else
-          echo "::set-output name=status::quit"
+          status="quit"
         fi
+        echo "status=$status"
     
   check-posts:
     needs: check-figures
-    if: ${{ steps.check-figures.outputs.status == 'proceed' }}
+    if: needs.check.outputs.status == 'proceed'
     runs-on: ubuntu-20.04
     steps:
       - name: Checkout
