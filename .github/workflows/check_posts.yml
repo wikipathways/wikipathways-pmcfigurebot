@@ -22,9 +22,11 @@ jobs:
       id: check
       run: |
         if [ -n "$(find figures -name '*.yml' -print -quit)" ]; then
-          echo "::set-output name=status::proceed"
+          #echo "::set-output name=status::proceed"
+          echo "status=proceed" >> $GITHUB_OUTPUT
         else
-          echo "::set-output name=status::quit"
+          #echo "::set-output name=status::quit"
+          echo "status=quit" >> $GITHUB_OUTPUT
         fi
     
   check-posts:
