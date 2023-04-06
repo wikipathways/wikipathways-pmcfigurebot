@@ -30,7 +30,7 @@ jobs:
     
   check-posts:
     needs: check-figures
-    if: needs.check.outputs.status == 'proceed'
+    if: needs.early.outputs.status == 'proceed'
     runs-on: ubuntu-20.04
     steps:
       - name: Checkout
