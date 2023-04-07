@@ -12,19 +12,21 @@ concurrency:
 jobs:      
   check-inbox:
     runs-on: ubuntu-latest
+    outputs:
+      status: ${{ steps.check.outputs.status }}
     steps:
     - name: Check if there are any .yml files in the inbox folder
-      id: check-inbox
+      id: check
       run: |
         if [ -n "$(find inbox -name '*.yml' -print -quit)" ]; then
-          echo "::set-output name=status::proceed"
+          echo "status=proceed" >> $GITHUB_OUTPUT
         else
-          echo "::set-output name=status::quit"
+          echo "status=quit" >> $GITHUB_OUTPUT
         fi
     
   toot-posts:
     needs: check-inbox
-    if: ${{ steps.check-inbox.outputs.status == 'proceed' }}
+    if: ${{needs.check-inbox.outputs.status == 'proceed' }}
     runs-on: ubuntu-20.04
     env:
       MASTODON_TOKEN: ${{ secrets.MASTODON_TOKEN }}
