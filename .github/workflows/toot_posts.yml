@@ -26,6 +26,8 @@ jobs:
     needs: check-inbox
     if: ${{ steps.check-inbox.outputs.status == 'proceed' }}
     runs-on: ubuntu-20.04
+    env:
+      MASTODON_TOKEN: ${{ secrets.MASTODON_TOKEN }}
     steps:
       - name: Checkout
         uses: actions/checkout@v3
