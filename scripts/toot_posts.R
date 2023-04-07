@@ -4,7 +4,7 @@ library(yaml)
 library(rtoot)
 
 ## Get token
-token <- structure(
+toot_token <- structure(
     list(
       bearer = Sys.getenv("MASTODON_TOKEN"),
       type = "user",
