@@ -4,6 +4,8 @@ library(yaml)
 library(rtoot)
 
 ## Get token
+## This code is based on the example described here: https://lapsedgeographer.london/2022-11/mastodon-switch/
+
 toot_token <- structure(
     list(
       bearer = Sys.getenv("MASTODON_TOKEN"),
