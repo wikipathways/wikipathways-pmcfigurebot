@@ -4,13 +4,14 @@ library(yaml)
 library(rtoot)
 
 ## Get token
-source("mastodon_token.R")
-
-toot_token <- mastodon_token(
-  access_token = Sys.getenv("MASTODON_TOKEN"),
-  type = "user",
-  instance = "fosstodon.org"
-)
+token <- structure(
+    list(
+      bearer = Sys.getenv("MASTODON_TOKEN"),
+      type = "user",
+      instance = "fosstodon.org"
+    ),
+    class = "rtoot_bearer"
+  )
 
 ## Read in approved yaml files from inbox
 yaml_files <- list.files("inbox", pattern = "\\.yml$")
