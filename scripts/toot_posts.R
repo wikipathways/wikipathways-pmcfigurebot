@@ -3,6 +3,15 @@
 library(yaml)
 library(rtoot)
 
+## Get token
+source("scripts/mastodon_token.R")
+
+toot_token <- mastodon_token(
+  access_token = Sys.getenv("MASTODON_TOKEN"),
+  type = "user",
+  instance = "fosstodon.org"
+)
+
 ## Read in approved yaml files from inbox
 yaml_files <- list.files("inbox", pattern = "\\.yml$")
 
@@ -11,7 +20,7 @@ y <- yaml_files[1]
 social.nls <- yaml::read_yaml(file.path("inbox",y))
 rtoot::post_toot(status = social.nls$status, 
                  media = file.path("inbox",social.nls$media), 
-                 alt_text = "article figure")
+                 alt_text = "article figure", token = toot_token)
 
 ## Move yml and jpg to outbox
 file.rename(from = file.path("inbox",y),
