@@ -4,7 +4,7 @@ library(yaml)
 library(rtoot)
 
 ## Get token
-source("scripts/mastodon_token.R")
+source("mastodon_token.R")
 
 toot_token <- mastodon_token(
   access_token = Sys.getenv("MASTODON_TOKEN"),
