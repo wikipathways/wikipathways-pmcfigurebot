@@ -1,2 +1,2 @@
-https://www.ncbi.nlm.nih.gov/pmc/?term=(wikipathways+pathvisio)+AND+(2023/05/01[PUBDATE]+%3A+3000/01/01[PUBDATE])&report=imagesdocsum&dispmax=100
- 1 results
+https://www.ncbi.nlm.nih.gov/pmc/?term=(wikipathways+OR+pathvisio)+AND+(2023/04/01,3000/01/01)&report=imagesdocsum&dispmax=100
+0 results
