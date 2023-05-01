@@ -1,4 +1,3 @@
----
 pmcid: PMC10126683
 image_filename: 10.1177_11795549231168075-fig3.jpg
 figure_link: /pmc/articles/PMC10126683/figure/fig3-11795549231168075/
@@ -13,17 +12,17 @@ caption: Bioinformatics data analysis of SH3BP1 enriched pathways. (A) STRING so
 article_title: SH3BP1 Regulates Melanoma Progression Through Race1/Wace2 Signaling
   Pathway.
 citation: Ting Sun, et al. Clin Med Insights Oncol. 2023;17:11795549231168075.
-
 doi: 10.1177/11795549231168075
 journal_title: Clinical Medicine Insights. Oncology
 journal_nlm_ta: Clin Med Insights Oncol
 publisher_name: SAGE Publications
-
 keywords:
 - Melanoma
 - SH3BP1
 - migration
 - invasion
 - Rac1/Wave2 signaling pathway
-
----
+status: 'SH3BP1 Regulates Melanoma Progression Through Race1/Wace2 Signaling Pathway.
+  https://doi.org/10.1177/11795549231168075 #Melanoma #Sh3bp1 #Migration #Invasion
+  #Rac1/Wave2SignalingPathway'
+media: PMC10126683__10.1177_11795549231168075-fig3.jpg
