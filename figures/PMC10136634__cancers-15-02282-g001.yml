@@ -1,0 +1,45 @@
+---
+pmcid: PMC10136634
+image_filename: cancers-15-02282-g001.jpg
+figure_link: /pmc/articles/PMC10136634/figure/cancers-15-02282-f001/
+number: Figure 1
+figure_title: ''
+caption: Immune function genes from AA and EA breast cancer exosomes show a racial
+  disparity. (A) Nanostring PanCancer Immune gene analysis, which includes 730 immune
+  function genes, showed that, relative to EA breast cancer exosomes, AA breast cancer
+  exosomes had lower expression of overall immune genes as well as innate immune response
+  genes and adaptive immune response genes. (B) A volcano plot showed the differential
+  expression of immune genes in AA and EA breast cancer exosomes, where a few genes
+  such as CD47, CCL5, PPBP, and TGFB1 were increased in AA exosomes, whereas CD24,
+  IL26, CTSL, and GAGE1 were increased in EA exosomes. (C) Cytoscape analysis showed
+  that genes interacting through the chemokine signaling pathway, the cytokine–cytokine
+  receptor pathway, the MAPK signaling pathway, and the NF-kB signaling pathway were
+  upregulated in AA exosomes as compared to EA exosomes (D) Differential expressions
+  of chemokine, cytokine, and interleukin function genes in AA and EA breast cancer
+  exosomes, notably PPBP, CXCL5, CCL5, and TGFB1 (involved in cancer progression)
+  were increased in AA exosomes. (E) Hierarchical clustering showed that T-cell activation
+  genes and CD8+ T cell genes were increased in EA exosomes, whereas macrophage marker
+  genes, especially the expression CD47, were increased in AA exosomes.
+article_title: Immune Profile of Exosomes in African American Breast Cancer Patients
+  Is Mediated by Kaiso/THBS1/CD47 Signaling.
+citation: Md Shakir Uddin Ahmed, et al. Cancers (Basel). 2023 Apr;15(8):2282.
+
+doi: 10.3390/cancers15082282
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- Kaiso
+- breast cancer
+- exosomes
+- immune signaling
+- cancer health disparity
+- tumor microenvironment
+- inflammation
+- African Americans
+- CD47
+- THBS1
+- SIRPA
+
+---

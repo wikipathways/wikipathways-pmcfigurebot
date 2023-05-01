@@ -1,0 +1,44 @@
+---
+pmcid: PMC10136634
+image_filename: cancers-15-02282-g002.jpg
+figure_link: /pmc/articles/PMC10136634/figure/cancers-15-02282-f002/
+number: Figure 2
+figure_title: ''
+caption: Kaiso represses the expression of several immune genes, including THBS1.
+  (A). Hierarchical clustering of differentially expressed genes from PanCancer Nanostring
+  Immune Profiling showed that there were fewer immune genes expressed in sh–Kaiso
+  cells as compared to control sh-Scr cells. (B). Cytoscape analysis shows that genes
+  interact through the chemokine signaling pathway, the cytokine–cytokine receptor
+  pathway, the MAPK signaling pathway, and the NOD–like receptor signaling pathway,
+  and the NF–kappa B signaling pathway was downregulated in sh-Kaiso cells as compared
+  to sh-Scr cells. (C). A Venn diagram shows the association of immune genes between
+  genes that were upregulated in AA exosomes and genes downregulated in sh-Kaiso cells
+  (identified by color code). A total of 31 genes, including CD47 and TGFB1, were
+  common genes among these two groups. (D). Kaiso-depleted cells showed significantly
+  lower expression of CD47 with significantly higher expression of THBS1 as compared
+  to sh–Scr cells. The statistical method used was the two–tailed paired t test. (E).
+  Nanostring immune profiling showed that Kaiso repressed several genes, including
+  THBS1, based on the downregulated gene expression in sh–Scr cells.
+article_title: Immune Profile of Exosomes in African American Breast Cancer Patients
+  Is Mediated by Kaiso/THBS1/CD47 Signaling.
+citation: Md Shakir Uddin Ahmed, et al. Cancers (Basel). 2023 Apr;15(8):2282.
+
+doi: 10.3390/cancers15082282
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- Kaiso
+- breast cancer
+- exosomes
+- immune signaling
+- cancer health disparity
+- tumor microenvironment
+- inflammation
+- African Americans
+- CD47
+- THBS1
+- SIRPA
+
+---
