@@ -41,7 +41,7 @@ config <- yaml::read_yaml("query_config.yml")
 #terms
 query.terms <- gsub(" ", "-", config$terms) #dash indicates phrases
 if (length(query.terms) > 1){
-  query.terms <- paste(query.terms, collapse = "+OR+")
+  query.terms <- paste(query.terms, collapse = "+")
 }
 #date
 query.date <- ""
