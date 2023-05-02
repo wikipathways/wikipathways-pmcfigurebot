@@ -1,4 +1,3 @@
----
 pmcid: PMC10104258
 image_filename: nihpp-rs2688729v1-f0003.jpg
 figure_link: /pmc/articles/PMC10104258/figure/F3/
@@ -15,16 +14,17 @@ article_title: Transcriptional analysis reveals that the intracellular lipid acc
   impairs gene expression profiles involved in insulin response-associated cardiac
   functionality.
 citation: Virginia Actis Dato, et al. Res Sq. 2023 Apr 4:rs.3.rs-2688729.
-
 doi: 10.21203/rs.3.rs-2688729/v1
 journal_title: Research Square
 journal_nlm_ta: Res Sq
 publisher_name: American Journal Experts
-
 keywords:
 - LRP1
 - aggregated low-density lipoprotein
 - transcriptome analysis
 - cardiovascular disease
-
----
+status: 'Transcriptional analysis reveals that the intracellular lipid accumulation
+  impairs gene expression profiles involved in insulin response-associated cardiac
+  functionality. https://doi.org/10.21203/rs.3.rs-2688729/v1 #Lrp1 #AggregatedLowDensityLipoprotein
+  #TranscriptomeAnalysis #CardiovascularDisease'
+media: PMC10104258__nihpp-rs2688729v1-f0003.jpg
