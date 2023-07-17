@@ -40,6 +40,7 @@ library(lubridate) #for -months() operation
 config <- yaml::read_yaml("query_config.yml")
 #terms
 #query.terms <- gsub(" ", "-", config$terms) #dash indicates phrases
+query.terms <- config$terms
 if (length(query.terms) > 1){
   query.terms <- paste(query.terms, collapse = "+")
 }
