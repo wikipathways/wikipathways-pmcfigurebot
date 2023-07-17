@@ -20,6 +20,12 @@ month if blank; overriden by `date_range`. Format: %Y/%m/%d, *e.g., 2022/10/29*
 date string, *e.g,. 2022/10/01[PUBDATE]:2023/01/01[PUBDATE]*
 Important: If used, this field will override the use of `last_run`
 
+## Usage for social media posting
+- The first two workflows, "Fetch relevant article figures monthly" and "Check posts for bugs and content" run monthly on the 1st of the month.
+- Check "approved.log" (in figures) and compare the number of figures to the number of figures in figures dir. If the log file has fewer figures, check the corresponding yml for the ones that are excluded to see why they were excluded. For example, it might be because some fields are missing or because its a preprint. If the exclusion seems to be in error, one can manually update the approved.log and manually compile fields "status" and "media" in the corresponding yml.
+- Once approved.log is complete, run step 3 "Moves approved posts to inbox for future posting".
+- Check that the relevant yamls and jpgs were moved to inbox and then run step 4 "Make social media posts from staged content".
+
 ## Use Cases
 The collected data files can be used in a variety of ways, including to generate
 social media posts, newsletters, feeds, annual reports, etc. See examples in the
