@@ -1,4 +1,3 @@
----
 pmcid: PMC10340580
 image_filename: cancers-15-03316-g008.jpg
 figure_link: /pmc/articles/PMC10340580/figure/cancers-15-03316-f008/
@@ -16,12 +15,10 @@ caption: 'Enrichment pathway analysis of genes with SNVs that were significantly
 article_title: Microbial Communities in Gynecological Cancers and Their Association
   with Tumor Somatic Variation.
 citation: Jesus Gonzalez-Bosquet, et al. Cancers (Basel). 2023 Jul;15(13):3316.
-
 doi: 10.3390/cancers15133316
 journal_title: Cancers
 journal_nlm_ta: Cancers (Basel)
 publisher_name: MDPI
-
 keywords:
 - microbial communities
 - metagenomics
@@ -29,5 +26,7 @@ keywords:
 - endometrioid endometrial cancer
 - bacterial
 - single nucleotide variation
-
----
+status: 'Microbial Communities in Gynecological Cancers and Their Association with
+  Tumor Somatic Variation. https://doi.org/10.3390/cancers15133316 #MicrobialCommunities
+  #Metagenomics #HighGradeSerousOvarianCancer #EndometrioidEndometrialCancer #Bacterial'
+media: PMC10340580__cancers-15-03316-g008.jpg

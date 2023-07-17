@@ -30,7 +30,7 @@ for (f in files){
   jpg_check <- file.exists(file.path("figures",sub("\\.yml","\\.jpg",f)))
   title_check <- nchar(social.nls$article_title) > 5
   doi_check <- startsWith(social.nls$doi, "10")
-  preprint_check <- grepl("rs", social.nls$doi, fixed = TRUE)
+  preprint_check <- grepl("/rs.", social.nls$doi, fixed = TRUE)
   if(jpg_check & title_check & doi_check & !preprint_check) {
     # Construct status
     social.nls$status <- as.character(paste(
