@@ -1,0 +1,38 @@
+---
+pmcid: PMC10201738
+image_filename: 12929_2023_924_Fig1_HTML.jpg
+figure_link: /pmc/articles/PMC10201738/figure/Fig1/
+number: Fig. 1
+figure_title: ''
+caption: 'The dynamic changes of eIF2 O-GlcNAcylation upon ArgS. A A Venn diagram
+  was generated to depict the overlap between 2054 O-GlcNAz-modified proteins that
+  were pulled down (Additional file : Table S4, S5) in different ArgS-induced pathways
+  (as obtained from Reactome.org). B A pathway enrichment analysis was performed on
+  O-GlcNAz-modified proteins (using the WIKIPATHWAYS database) to identify those significantly
+  affected (FDR < 0.05) by ArgS. C The 363 O-GlcNAz-modified proteins identified in
+  the pathway enrichment analysis B were grouped by function using the STRING database.
+  D A heatmap was generated to show the log10 abundance ratio of O-GlcNAz-modified
+  proteins involved in eukaryotic protein translation that were significantly changed
+  (FDR < 0.05) based on proteomics analysis under the indicated conditions. The O-GlcNAz-modified
+  eukaryotic factors/regulators were clustered based on their level changes relative
+  to control, with samples prepared from BT-549 cells (n = 3). The cells were treated
+  with an -Arg medium (or not) and GlcNAz (50 μM) for 48 h prior to collection and
+  protein extraction'
+article_title: Extracellular arginine availability modulates eIF2α O-GlcNAcylation
+  and heme oxygenase 1 translation for cellular homeostasis.
+citation: Yu-Wen Hung, et al. J Biomed Sci. 2023;30:32.
+
+doi: 10.1186/s12929-023-00924-4
+journal_title: Journal of Biomedical Science
+journal_nlm_ta: J Biomed Sci
+publisher_name: BioMed Central
+
+keywords:
+- Arginine
+- O-GlcNAcylation
+- Eukaryotic initiation factor 2α
+- Protein translation
+- Heme oxygenase 1
+- Antioxidant defense
+
+---

@@ -1,0 +1,31 @@
+---
+pmcid: PMC9379366
+image_filename: 2860fig2.jpg
+figure_link: /pmc/articles/PMC9379366/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: Mdm2 deletion in hepatocytes induced p53 activation and liver inflammation
+  accompanied by hepatocyte apoptosis, SASP, and inflammatory cytokine production
+  in LiKM mice. Liver samples were obtained from LiK, LiKM-hetero, and LiKM mice at
+  6 weeks of age. A, Serum ALT (N = 9 per group). B, Serum caspase-3/7 activity (N
+  = 6 per group). C–E, RNA-seq of the liver tissues in control (LiK) and target (LiKM)
+  mice (N = 3 per group). C, Heatmap of DEGs. D, Enrichment analysis of DEGs in LiKM
+  mice by PANTHER pathways and WikiPathways. Pathways noted in red showed inflammation-associated
+  pathways. E, mRNA expression of inflammation-associated molecules. Genes noted in
+  red showed significant expression changes (P < 0.05). F, qPCR analysis of the mRNA
+  expression in whole liver tissue (N = 7–9 per group). G, qPCR analysis of the mRNA
+  expression in hepatocytes and NPCs isolated from the liver (N = 7–10 per group).
+  H, IHC for p53 (×400), p21 (×400), F4/80 (×200), and CD3 (×200), as well as TUNEL
+  staining (×400), and SA-β-gal staining (×400) of the liver and the number of positive
+  hepatocytes (N = 4–7). Arrows, positive hepatocytes. *, P < 0.05.
+article_title: Constitutive Activation of the Tumor Suppressor p53 in Hepatocytes
+  Paradoxically Promotes Non–Cell Autonomous Liver Carcinogenesis.
+citation: Yuki Makino, et al. Cancer Res. 2022 Aug 16;82(16):2860-2873.
+
+doi: 10.1158/0008-5472.CAN-21-4390
+journal_title: Cancer Research
+journal_nlm_ta: Cancer Res
+publisher_name: American Association for Cancer Research
+
+keywords:
+---

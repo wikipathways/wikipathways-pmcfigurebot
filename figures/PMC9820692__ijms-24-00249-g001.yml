@@ -1,0 +1,38 @@
+---
+pmcid: PMC9820692
+image_filename: ijms-24-00249-g001.jpg
+figure_link: /pmc/articles/PMC9820692/figure/ijms-24-00249-f001/
+number: Figure 1
+figure_title: ''
+caption: 'Breast cancer cells undergo both apoptosis and ferroptosis upon nutrient
+  restriction. (a,b) Functional enrichment analysis of microarray data (GSE121378)
+  using Cytoscape software. Wikipathways of the top 200 up-regulated (a) and down-regulated
+  (b) genes (FC > 1.5, FC < 0.5; p < 0.05) are reported. (c) Percentage of dead breast
+  cancer cells after 24 h nutrient restriction (NR: HBSS, 1 g/L glucose, 1% FBS) with
+  or without 1 h pre-treatment with 5 μM ferrostatin-1 (FST-1). (d,e) Western blot
+  analysis of pH2AX, p53, and PARP-1 on MCF7 cells treated with NR. Actin was used
+  as loading control. Immunoblots reported are representative of three independent
+  experiments yielding similar results. (f) RT-qPCR analysis of the mRNA expression
+  of p53 downstream genes BAX, PUMA, CDKN1. (g) Percentage of dead breast cancer cells
+  after 24 h NR with or without 1 h pre-treatment with 10 μM z-VAD-fmk (zVAD) and
+  5 μM FST-1. Data are expressed as mean ± S.D. (n = 3; **** p < 0.0001, ** p < 0.01,
+  * p < 0.05, vs. CTR; ° p < 0.05, °°° p < 0.001 vs. NR; ###p < 0.001 vs. NR and NR
+  + zVAD).'
+article_title: Low Sulfur Amino Acid, High Polyunsaturated Fatty Acid Diet Inhibits
+  Breast Cancer Growth.
+citation: Riccardo Turchi, et al. Int J Mol Sci. 2023 Jan;24(1):249.
+
+doi: 10.3390/ijms24010249
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- NRF2
+- p53
+- lipid peroxidation
+- mitochondria
+- ferrostatin-1
+- ferroptosis
+
+---

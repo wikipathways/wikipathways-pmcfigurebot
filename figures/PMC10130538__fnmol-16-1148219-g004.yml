@@ -1,0 +1,44 @@
+---
+pmcid: PMC10130538
+image_filename: fnmol-16-1148219-g004.jpg
+figure_link: /pmc/articles/PMC10130538/figure/fig4/
+number: Figure 4
+figure_title: ''
+caption: 'Lesion leads to pathway-specific transcriptomic changes in the hippocampal
+  CA1 region. (A) Volcano plot illustrating differential gene expression in the CA1
+  region of non-lesioned cultures vs. 3 days following SCL (ncontrol = 5 cultures,
+  nSCL = 4 cultures). The significance threshold [padj. < −log10(0.05)] is indicated
+  by a dashed line. Significantly regulated genes are marked in orange and the top-10
+  regulated genes are labeled. (B) Volcano plot illustrating differential gene expression
+  in the CA1 region of control cultures vs. 3 days following ECL (ncontrol = 5 cultures,
+  nECL = 4 cultures). The significance threshold [padj. < −log10(0.05)] is indicated
+  by a dashed line. Significantly regulated genes are marked in orange and the top-10
+  regulated genes are labeled. (C) VENN-diagram to illustrate commonalities and differences
+  in ECL-and SCL-induced differential gene expression. Although a substantial amount
+  of commonly regulated genes could be identified, lesion-specificity became evident.
+  (D) XY-plot of log2FC values from differentially expressed genes in both groups
+  (‘common’). Notably, we exclusively found concordantly up- (red) and downregulated
+  (blue) genes. (E) Functional enrichment analysis of common differentially expressed
+  genes using the web-based g:Profiler platform [gene ontologies: CC - cellular compartment
+  (TOP-6), MG - molecular function (TOP-6), and WP - wikipathways (all enrichments
+  illustrated)]. (F) Functional enrichment analysis of lesion-specific differentially
+  expressed genes. Notably, enrichment of differentially expressed synaptic gene sets
+  was exclusively found after ECL.'
+article_title: Denervated mouse CA1 pyramidal neurons express homeostatic synaptic
+  plasticity following entorhinal cortex lesion.
+citation: Maximilian Lenz, et al. Front Mol Neurosci. 2023;16:1148219.
+
+doi: 10.3389/fnmol.2023.1148219
+journal_title: Frontiers in Molecular Neuroscience
+journal_nlm_ta: Front Mol Neurosci
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- entorhinal cortex lesion
+- Schaffer collateral lesion
+- transcriptome analysis
+- microglia
+- RNA oxidation
+- synaptic plasticity
+
+---

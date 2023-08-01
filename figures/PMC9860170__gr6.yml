@@ -1,0 +1,35 @@
+---
+pmcid: PMC9860170
+image_filename: gr6.jpg
+figure_link: /pmc/articles/PMC9860170/figure/fig6/
+number: Figure 6
+figure_title: ''
+caption: 'Sox2ot case study(A) Expression of Sox2ot in mouse brain, determined by
+  ISH. Data from Allen Brain Atlas.(B) Expression of Sox2ot in different cell types.
+  Data from Mouse Organogenesis Cell Atlas.(C) EnrichR output for WikiPathways 2019
+  Mouse (left) and WikiPathways 2021 Human (right), for genes with overrepresented
+  binding sites in the mouse or human Sox2ot promoters. Binding site identified by
+  PSCAN p < 0.05.(D) Selected roles of 10 V-SVZ NSC-enriched lncRNAs. These are not
+  necessarily the only roles of these lncRNAs or the exact mechanism of their action
+  within NSCs. (Clockwise) Eldr (CO: 4 NSC, 5 TAP), Gas5 (CO: 4 NSC, 5 NB, 6 TAP),
+  Airn (CO: 3 NSC, 3 aNSC), Evf2/Dlx6os1 (CO: 6 NB, 4 TAP), Kcnq1ot1 (CO: 3 Neuroblasts,
+  2 qNSC), Meg3 (CO: 9 NB), Miat (CO: 5 NSC, 7 NB, 4 TAP), Rian/Meg8 (CO: 4 NB), Sox2ot
+  (CO: 5 NSC, 7 NB, 4 TAP), Snhg14 (CO: 4 NSC, 5 TAP).'
+article_title: What has single-cell transcriptomics taught us about long non-coding
+  RNAs in the ventricular-subventricular zone?.
+citation: Jemima Becker, et al. Stem Cell Reports. 2023 Jan 10;18(1):354-376.
+
+doi: 10.1016/j.stemcr.2022.11.011
+journal_title: Stem Cell Reports
+journal_nlm_ta: Stem Cell Reports
+publisher_name: Elsevier
+
+keywords:
+- V-SVZ
+- lncRNA
+- scRNA-seq
+- neural stem cells
+- adult neurogenesis
+- epigenetics
+
+---

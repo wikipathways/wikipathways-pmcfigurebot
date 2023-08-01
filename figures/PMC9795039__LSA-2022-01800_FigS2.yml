@@ -1,0 +1,25 @@
+---
+pmcid: PMC9795039
+image_filename: LSA-2022-01800_FigS2.jpg
+figure_link: /pmc/articles/PMC9795039/figure/figS2/
+number: Figure S2
+figure_title: Gene ontology (GO) enrichment analysis performed against all preys identified
+  as high-confidence proximal interactors for kindlin2 bait in the proximity-dependent
+  biotinylation labeling
+caption: 'GO enrichment was analyzed for three GO ontologies: Biological Process (BP),
+  Cellular Compartment (CC), and Molecular Function (MF); for three biological pathways:
+  KEGG, Reactome (REAC), and WikiPathways (WP); for two regulatory motifs in DNA:
+  TRANSFAC (TF) and miRTarBase (miRNA); for two protein databases: Human Protein Atlas
+  (HPA) and CORUM; and for a Human Phenotype Ontology (HP). These analyses were performed
+  using g:Profiler as described in the Materials and Methods section.'
+article_title: Kindlin2 enables EphB/ephrinB bi-directional signaling to support vascular
+  development.
+citation: Wenqing Li, et al. Life Sci Alliance. 2023 Mar;6(3):e202201800.
+
+doi: 10.26508/lsa.202201800
+journal_title: Life Science Alliance
+journal_nlm_ta: Life Sci Alliance
+publisher_name: Life Science Alliance LLC
+
+keywords:
+---

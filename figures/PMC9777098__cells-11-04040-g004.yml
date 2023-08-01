@@ -1,0 +1,42 @@
+---
+pmcid: PMC9777098
+image_filename: cells-11-04040-g004.jpg
+figure_link: /pmc/articles/PMC9777098/figure/cells-11-04040-f004/
+number: Figure 4
+figure_title: ''
+caption: 'Network representation of enriched GO terms/pathways obtained from the differentially
+  expressed genes in hEDS/HSD. Functionally grouped clusters based on “Biological
+  Process” and “Molecular Function” GO categories and WikiPathways, KEGG and Reactome
+  pathways with terms as nodes linked based on their κ score level = 0.7 through Cytoscape.
+  The GO terms “fusion” and “all experimental evidence” were selected to create the
+  network. Two-sided hypergeometric test and Benjamini–Hochberg statistical correction
+  were applied and only enriched pathways with a p-value ≤ 0.01 were selected. Other
+  considered parameters were minimum and maximum tree GO interval values of 3–8, with
+  a minimum number of three genes and 7% of genes selected for GO terms. Different
+  node colors represent different GO categories/enriched pathways: green identify
+  downregulated clusters, red upregulated ones. The increase in green and red color
+  gradient represents higher amounts of the contribution of up- and downregulated
+  genes, respectively. The size of the nodes is indicative of their statistical significance
+  of the terms.'
+article_title: RNA-Seq of Dermal Fibroblasts from Patients with Hypermobile Ehlers–Danlos
+  Syndrome and Hypermobility Spectrum Disorders Supports Their Categorization as a
+  Single Entity with Involvement of Extracellular Matrix Degrading and Proinflammatory
+  Pathomechanisms.
+citation: Marco Ritelli, et al. Cells. 2022 Dec;11(24):4040.
+
+doi: 10.3390/cells11244040
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- cytokines
+- extracellular matrix
+- hypermobile Ehlers–Danlos syndrome
+- hypermobility spectrum disorders
+- inflammation
+- matrix metalloproteinases
+- myofibroblasts
+- RNA-seq
+
+---

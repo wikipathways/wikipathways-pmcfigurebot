@@ -1,0 +1,34 @@
+---
+pmcid: PMC9763328
+image_filename: 41419_2022_5503_Fig8_HTML.jpg
+figure_link: /pmc/articles/PMC9763328/figure/Fig8/
+number: Fig. 8
+figure_title: Detection of miR-378 target genes and related autophagy and cancer progression
+  signaling via bioinformatics analysis
+caption: 'A Target genes of miR-378i and miR-378a-3p were predicted using the TargetScan
+  (green) and DIANA-microT (red) databases and are shown as Venn plots. B The identified
+  target genes were organized into a gene regulatory network using Cytoscape. Red
+  circles: miR-378a-3p and miR-378i; red lines represent the connection of the specific
+  miR to its corresponding target genes. To further highlight associations between
+  miR-378i and miR-378a-3p target genes and signaling chains, the comprehensive gene
+  set enrichment analysis web server Enrichr (https://maayanlab.cloud/Enrichr/enrich)
+  was used to analyze gene sets in different databases. C Gene Ontology (GO) enrichment
+  analysis was performed. BP biological process, CC cellular component, MF molecular
+  function. D Likewise, Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway analysis
+  was conducted. E The WikiPathways database of biological pathways was screened.'
+article_title: Glucocorticoid-induced microRNA-378 signaling mediates the progression
+  of pancreatic cancer by enhancing autophagy.
+citation: Li Liu, et al. Cell Death Dis. 2022 Dec;13(12):1052.
+
+doi: 10.1038/s41419-022-05503-3
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Gastrointestinal cancer
+- Translational research
+- Preclinical research
+- Transcription
+
+---

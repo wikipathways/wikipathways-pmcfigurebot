@@ -1,0 +1,34 @@
+---
+pmcid: PMC10290716
+image_filename: 41597_2023_2321_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC10290716/figure/Fig3/
+number: Fig. 3
+figure_title: ''
+caption: Characteristics of the KE annotation. (a) Stacked bar plot representing the
+  proportion of annotation types by KE level. Total height of the bar reflects the
+  number of KEs in each level of biological organisation. Dark brown (no annotation)
+  stack corresponds to the number of KEs with no associated gene sets, while the different
+  annotation types are represented proportionally to their use in each level. HPO = Human
+  Phenotype Ontology, WP = WikiPathways, GO_BP = Gene Ontology Biological Process,
+  GO_CC = Gene Ontology Cellular Component, GO_MF = Gene Ontology Molecular Function.
+  (b) The density distribution of the number of KEs associated with each gene. Median
+  of the distribution is indicated with a dashed brown line and the rug below x-axis
+  is used to support the interpretation of the distribution. (c) Number of different
+  tissues/organs (turquoise) and cell types (dark green) under each system-level annotation.
+  (d) Total number of KEs by system level annotation. The system “other” includes
+  KEs assigned a cell type applicable for a range of tissues and/or systems, and those
+  for which no system could be defined.
+article_title: A curated gene and biological system annotation of adverse outcome
+  pathways related to human health.
+citation: Laura Aliisa Saarimäki, et al. Sci Data. 2023;10:409.
+
+doi: 10.1038/s41597-023-02321-w
+journal_title: Scientific Data
+journal_nlm_ta: Sci Data
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Data integration
+- Toxicology
+
+---

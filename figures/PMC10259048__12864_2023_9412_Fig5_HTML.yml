@@ -1,0 +1,33 @@
+---
+pmcid: PMC10259048
+image_filename: 12864_2023_9412_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC10259048/figure/Fig5/
+number: Fig. 5
+figure_title: ''
+caption: Manhattan showed the natural selection signatures and enrichment analysis.
+  (A) p-values of XPEHH for Zhuang and Dong people using southern Hans as the reference
+  population. Positive selection signals for genes screened for the intersection of
+  Fst, XPEHH and iHS. (B) Overlap among three gene lists based on gene level and shared
+  term level, where purple curves link genes that belong to the same enriched ontology
+  term. (C) Top 20 of the GO-BP, KEGG, Reactome Gene Sets, WikiPathways and Canonical
+  Pathways. (D) Network of enriched terms coloured by cluster-ID. The respective colour
+  represents its cluster identity, and the size of a node is proportional to the number
+  of input genes that fall into that term. Terms with a similarity score > 0.3 are
+  linked by an edge (the thickness of the edge represents the similarity score)
+article_title: Extensive genetic admixture between Tai-Kadai-speaking people and their
+  neighbours in the northeastern region of the Yungui Plateau inferred from genome-wide
+  variations.
+citation: Jiawen Wang, et al. BMC Genomics. 2023;24:317.
+
+doi: 10.1186/s12864-023-09412-3
+journal_title: BMC Genomics
+journal_nlm_ta: BMC Genomics
+publisher_name: BioMed Central
+
+keywords:
+- Biological adaptation
+- Genome-wide SNPs
+- Genetic admixture model
+- TK people
+
+---

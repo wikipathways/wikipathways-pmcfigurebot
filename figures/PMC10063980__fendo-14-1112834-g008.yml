@@ -1,0 +1,39 @@
+---
+pmcid: PMC10063980
+image_filename: fendo-14-1112834-g008.jpg
+figure_link: /pmc/articles/PMC10063980/figure/f8/
+number: Figure 8
+figure_title: ''
+caption: Characterization of in vitro D30 vs. in vivo 36.5 dpp gene lists. (A) Manhattan
+  plot illustrating the functional enrichment analysis on in vitro D30 (n=4) vs. in
+  vivo 36.5 dpp (n=3) input gene list. The x-axis represents functional terms that
+  are grouped and colour-coded by data sources. The circle sizes are in accordance
+  with the corresponding term size (i.e., larger terms have larger circles). The GO
+  Terms locations on the x-axis is fixed and GO Terms from the same GO subtree are
+  located closer to each other. The GO Terms lists were presented as -log10(padj)
+  enrichment score calculated using the formula log10 (FDR). (B) Pie chart representation
+  of D30 vs. 36.5 dpp GO Terms (B1, molecular function; B2, biological process; B3,
+  cellular component), reactome (B4), and WikiPathways (B5) data sources. GO Terms
+  with the highest padj are located at noon. The surface taken by GO Terms is relative
+  to the proportion of the number of times they were related within DEGs studied.
+  The data can be consulted at https://biit.cs.ut.ee/gplink/l/humNT-dmTT. dpp, days
+  postpartum; FDR, false discovery rate; GO, gene onthology.
+article_title: 'Throughout in vitro first spermatogenic wave: Next-generation sequencing
+  gene expression patterns of fresh and cryopreserved prepubertal mice testicular
+  tissue explants.'
+citation: Ludovic Dumont, et al. Front Endocrinol (Lausanne). 2023;14:1112834.
+
+doi: 10.3389/fendo.2023.1112834
+journal_title: Frontiers in Endocrinology
+journal_nlm_ta: Front Endocrinol (Lausanne)
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- cryopreservation
+- in vitro spermatogenesis
+- mice
+- RNA-Seq
+- testis
+- transcriptomic
+
+---

@@ -1,0 +1,33 @@
+---
+pmcid: PMC9851399
+image_filename: 1129f03.jpg
+figure_link: /pmc/articles/PMC9851399/figure/GAD350145BIDF3/
+number: Figure 3
+figure_title: ''
+caption: Loss of Gata4 down-regulates lipid metabolism pathways in fasting and in
+  feeding conditions. RNA-seq of Gata4LKO and control liver samples fasted for 12
+  h or refed for 12 h with HS diet after 12 h fasting. (A) Bioplanet pathway enrichment
+  analysis of down-regulated genes in refed Gata4LKO liver RNA-seq compared with refed
+  control livers. (B) Heat map of the expression of selected genes involved in the
+  indicated metabolic processes, which are down-regulated in fasted or refed Gata4LKO
+  livers compared with their respective controls. (C) KEGG pathway enrichment analysis
+  of down-regulated genes in Gata4LKO livers in only the fasted or refed conditions
+  or in both. (D,E) Gene set enrichment analysis (GSEA) of the GO biological pathway
+  cholesterol efflux pathway (D) and the Wikipathways glycolysis and gluconeogenesis
+  gene set (E) among all expressed genes ranked for their fold change and P-value
+  in Gata4LKO versus control livers in the refed condition.
+article_title: Hepatic GATA4 regulates cholesterol and triglyceride homeostasis in
+  collaboration with LXRs.
+citation: Lara Bideyan, et al. Genes Dev. 2022 Nov-Dec;36(21-24):1129-1144.
+
+doi: 10.1101/gad.350145.122
+journal_title: Genes & Development
+journal_nlm_ta: Genes Dev
+publisher_name: Cold Spring Harbor Laboratory Press
+
+keywords:
+- LXR
+- lipid metabolism
+- transcription factor
+
+---

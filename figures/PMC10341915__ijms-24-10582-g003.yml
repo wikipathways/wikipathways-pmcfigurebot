@@ -1,0 +1,36 @@
+---
+pmcid: PMC10341915
+image_filename: ijms-24-10582-g003.jpg
+figure_link: /pmc/articles/PMC10341915/figure/ijms-24-10582-f003/
+number: Figure 3
+figure_title: ''
+caption: Predicted gene pathways of altered miRNAs in ME/CFS plasma. (a) Potential
+  pathways affected by miR-127, miR-140, miR-142, miR-143, miR-150, and miR-448; miRNAs
+  are represented in blue circles, target genes are represented in yellow circles,
+  each blue line represents a miRNA-gene interaction. (b) Main target genes involved
+  in detected pathways; the top ten target genes resulted from the analysis and the
+  number of miRNAs targeting them are presented. The color code reflects the adjusted
+  p-values for multiple testing (False Discovery Rate, FDR), increasing from red to
+  blue. (c) Functional enrichment analysis based on WikiPathways; colors from red
+  to blue of the dots represent the adjusted p-values (FDR), whereas the size of the
+  dots represents the gene ratio (n° of miRNA targets found in each category/n° of
+  total miRNA targets). Analyses and graphical representations were obtained using
+  the MIENTURNET tool [].
+article_title: Circulating miRNAs Expression in Myalgic Encephalomyelitis/Chronic
+  Fatigue Syndrome.
+citation: Irene Soffritti, et al. Int J Mol Sci. 2023 Jul;24(13):10582.
+
+doi: 10.3390/ijms241310582
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- myalgic encephalomyelitis
+- chronic fatigue syndrome
+- microRNA
+- HHV-6A
+- HHV-6B
+- biomarkers
+
+---

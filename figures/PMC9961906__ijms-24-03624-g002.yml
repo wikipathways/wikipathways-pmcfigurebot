@@ -1,0 +1,41 @@
+---
+pmcid: PMC9961906
+image_filename: ijms-24-03624-g002.jpg
+figure_link: /pmc/articles/PMC9961906/figure/ijms-24-03624-f002/
+number: Figure 2
+figure_title: ''
+caption: 'TFIIIC binds close to promoters of stem cells genes and neuronal genes.
+  (A) Average levels and heatmap for H3K18ac, TFIIIC, p300 and H3K27ac in H9 hESCs.
+  The panels on top of the heatmaps show the enrichment of the indicated factors at
+  TFIIIC peaks, as seen in the corresponding heatmaps (medium panels). Note that H3K18ac
+  and H3K27ac loci positive for TFIIIC are devoid of p300. The lower panels are heatmaps
+  showing the enrichment of the indicated factors for a random set of peaks. (B) g:Profiler
+  analysis [] of TFIIIC peaks in H9 hESCs, showing GO terms enriched for cellular
+  components and Wikipathways. The p-value for enrichment is shown as a color code.
+  (C) Genome browser examples of H3K18as and H3K27ac peaks in H9 hESCs, NECs and IMR90
+  fibroblasts: stem cell-associated genes such as CHD1, HELLS, KLF4 and the fibroblast-expressed
+  marker COL6A3 gene are shown. These stem cell loci are devoid of p300 but associated
+  with TFIIIC in H9 hESCs (the grey bars indicate TFIIIC peaks within the promoter
+  regions of these genes). In contrast, COL6A3 is associated with p300/CBP in IMR90
+  cells. At the promoters of KLF4 and HELLS, the TFIIIC peaks are also visible in
+  serum-starved IMR90 cells (–S). (D,E) GIGGLE score analysis for all TFIIIC peaks
+  (D) and TFIIIC peaks overlapping H3K18ac peaks (E) in hESCs [].'
+article_title: TFIIIC as a Potential Epigenetic Modulator of Histone Acetylation in
+  Human Stem Cells.
+citation: Marco Vezzoli, et al. Int J Mol Sci. 2023 Feb;24(4):3624.
+
+doi: 10.3390/ijms24043624
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- TFIIIC
+- acetylation
+- H3K18ac
+- neurogenesis
+- H3K27ac
+- hESCs
+- p300
+
+---

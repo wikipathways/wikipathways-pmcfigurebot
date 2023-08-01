@@ -1,0 +1,39 @@
+---
+pmcid: PMC10033153
+image_filename: gr5_lrg.jpg
+figure_link: /pmc/articles/PMC10033153/figure/f0025/
+number: Fig. 5
+figure_title: ''
+caption: 'RNA-sequencing reveals potential pathways for defibrotide regulation of
+  COVID-19-associated pulmonary injury and COVID-19 plasma-induced MVEC activation
+  and injuryA. A spatial tissue atlas providing single cell RNAseq data of MVEC (capillary)
+  genes from autopsy lung tissue of acute COVID-19 patients was used to generate a
+  gene enrichment set for transcripts differentially upregulated or downregulated
+  in pulmonary capillary EC vs. control tissue.B. Three distinct pathway analyses
+  using KEGG, Gene Ontology (GO), and WikiPathways databases were used to generate
+  heatmaps of transcripts prominently involved in defibrotide modulation of COVID-19
+  plasma-induced changes in MVEC in vitro.C. Heatmaps of the six cellular mechanisms
+  most prominently altered by defibrotide in our COVID-19 plasma-exposed MVEC cultures:
+  TNF-α signaling; IL-17 signaling; ECM-EC and platelet receptor interactions; ECM
+  formation; endothelin synthesis and activity; and fibrosis. Up-regulated transcripts
+  are shown in red and down-regulated transcripts are shown in blue. (For interpretation
+  of the references to color in this figure legend, the reader is referred to the
+  web version of this article.)'
+article_title: Defibrotide mitigates endothelial cell injury induced by plasmas from
+  patients with COVID-19 and related vasculopathies.
+citation: Sonia Elhadad, et al. Thromb Res. 2023 Mar 23 ;225:47-56.
+
+doi: 10.1016/j.thromres.2023.03.009
+journal_title: Thrombosis Research
+journal_nlm_ta: Thromb Res
+publisher_name: Elsevier Ltd.
+
+keywords:
+- COVID-19
+- Defibrotide
+- Endothelial cell
+- Long COVID
+- Thrombosis
+- Vasculopathy
+
+---

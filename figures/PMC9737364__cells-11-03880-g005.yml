@@ -1,0 +1,40 @@
+---
+pmcid: PMC9737364
+image_filename: cells-11-03880-g005.jpg
+figure_link: /pmc/articles/PMC9737364/figure/cells-11-03880-f005/
+number: Figure 5
+figure_title: ''
+caption: DUSP4 overexpression downregulates DEGs in female 5xFAD, notably in ERK/MAPK,
+  interferon, neuroinflammation and PD-L1/PD-1 pathways. (A,B) Volcano plot representation
+  of female 5xFAD-GFP vs. WT-GFP, and 5xFAD-DUSP4 vs. 5xFAD-GFP. n = 5 mice per group.
+  Threshold for DEGs represented is FDR < 0.05 (orange and blue dots). Enrichment
+  analysis, by wikipathways mouse, of DEGs from (C) female 5xFA-GFP vs. WT-GFP, and
+  (D) female 5xFAD-DUSP4 vs. 5xFAD-GFP. (E) Venn diagram shows the number of DEGs
+  shared in common among 5xFAD-GFP vs. WT-GFP and 5xFAD-DUSP4 vs. 5xFAD-GFP. (F) Canonical
+  pathways predicted by IPA based on DEGs of female 5xFAD-DUSP4 vs. 5xFAD-GFP, and
+  5xFAD-GFP vs. WT-GFP. (G) DEGs that are involved in ERK/MAPK, interferon, neuroinflammation
+  and PD-L1/PD-1 pathways predicted by IPA. (H) RT-PCR analysis of the genes in the
+  predicted pathways, n = 4–6 mice per group. * p < 0.05, ** p < 0.01, *** p < 0.001,
+  **** p < 0.0001; ns nonsignificant. (I) Crosstalk between neurons and microglia
+  via an unknown mechanism (?) is postulated to be impacted by neuronal DUSP4 overexpression,
+  resulting in suppression of neuroinflammatory and IFNγ signaling (red dashed line)
+  in microglia, leading to reduced expression of cytokines, chemokines and IFNγ. (Created
+  with BioRender.com (accessed on 9 August 2022)).
+article_title: Dual-Specificity Protein Phosphatase 4 (DUSP4) Overexpression Improves
+  Learning Behavior Selectively in Female 5xFAD Mice, and Reduces β-Amyloid Load in
+  Males and Females.
+citation: Allen L. Pan, et al. Cells. 2022 Dec;11(23):3880.
+
+doi: 10.3390/cells11233880
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- Alzheimer’s disease
+- dual-specificity protein phosphatase 4
+- disease-associated microglia
+- mitogen-activated protein kinase
+- neuroinflammation
+
+---

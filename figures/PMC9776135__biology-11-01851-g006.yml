@@ -1,0 +1,31 @@
+---
+pmcid: PMC9776135
+image_filename: biology-11-01851-g006.jpg
+figure_link: /pmc/articles/PMC9776135/figure/biology-11-01851-f006/
+number: Figure 6
+figure_title: ''
+caption: 'Gene ontology was constructed by integrating WikiPathways, Reactome, and
+  KEGG. Each node shows a pathway or term and the percentage of visible shared genes
+  between pathways or terms and edges present relationships between pathways: (A)
+  relationship between enriched pathways and genes in CM (core module); (B) relationship
+  between enriched pathways and genes in CN (core nodes); (C) relationship between
+  enriched pathways and genes in DN (driver nodes).'
+article_title: 'Identify Biomarkers and Design Effective Multi-Target Drugs in Ovarian
+  Cancer: Hit Network-Target Sets Model Optimizing.'
+citation: Amir Abbas Esmaeilzadeh, et al. Biology (Basel). 2022 Dec;11(12):1851.
+
+doi: 10.3390/biology11121851
+journal_title: Biology
+journal_nlm_ta: Biology (Basel)
+publisher_name: MDPI
+
+keywords:
+- network control
+- hit network-target sets
+- driver genes
+- core module
+- epithelial ovarian cancer
+- core nodes
+- EOC
+
+---

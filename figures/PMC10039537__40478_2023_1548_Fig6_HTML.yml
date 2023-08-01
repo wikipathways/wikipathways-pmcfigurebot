@@ -1,0 +1,38 @@
+---
+pmcid: PMC10039537
+image_filename: 40478_2023_1548_Fig6_HTML.jpg
+figure_link: /pmc/articles/PMC10039537/figure/Fig6/
+number: Fig. 6
+figure_title: ''
+caption: Ganglioglioma-associated myeloid cells. A Myeloid supercluster feature plots
+  of RNA concentrations (log1p, base 2) for key general myeloid (PTPRC, ITGAM, CD14),
+  microglia (P2RY12, TYROBP, SALL1, SPI1), macrophage (CD44, SIGLEC1), classical proinflammatory
+  (IL1A, TNF, CD40; no expression for IL6, so not shown), anti-inflammatory (IL10,
+  TGFB1), tissue reparative M2 (CD163, MSR1, MRC1, CD68), and M1 proinflammatory (TLR2,
+  CD86, HLA-DRA, NOS2) markers as well as C1QB and SPP1. B Microglia feature plot
+  of cellular hierarchy by CellRank/CytoTRACE pseudotime. C Heatmap of microglia expression
+  of transcripts encoding lymphocyte stimulatory and inhibitory ligands of interest
+  a priori. D Hierarchy plots of CellChat results showing significant involvement
+  of microglia in TGFB and CSF pathways. Lines weighted by interaction significance.
+  E Most (top 10 or fewer if Bonferroni-adjusted-p-value > 0.05) activated or suppressed
+  Wikipathways compared to the bulk ganglioglioma population for each of the microglial
+  clusters
+article_title: Ganglioglioma deep transcriptomics reveals primitive neuroectoderm
+  neural precursor-like population.
+citation: Joshua A. Regal, et al. Acta Neuropathol Commun. 2023;11:50.
+
+doi: 10.1186/s40478-023-01548-3
+journal_title: Acta Neuropathologica Communications
+journal_nlm_ta: Acta Neuropathol Commun
+publisher_name: BioMed Central
+
+keywords:
+- Single cell RNA-sequencing
+- CITE-seq
+- Spatial transcriptomics
+- Ganglioglioma
+- Glioneuronal tumors
+- Brain tumors
+- Genetic signatures
+
+---

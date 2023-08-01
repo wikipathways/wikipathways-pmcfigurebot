@@ -1,0 +1,30 @@
+---
+pmcid: PMC10104258
+image_filename: nihpp-rs2688729v1-f0003.jpg
+figure_link: /pmc/articles/PMC10104258/figure/F3/
+number: Figure 3
+figure_title: ''
+caption: Network diagram of the main intracellular processes affected. Genes involved
+  in different intracellular processes are shown as rectangles in red (upregulated)
+  or blue (downregulated) according to their expression from RNA-Seq profiles under
+  different conditions, insulin 100 nM for 2 h or aggregated LDL 100 μg/ml for 8 h.
+  Conditions are displayed at the top of each rectangle as black (insulin) or white
+  (aggLDL) squares. The network was manually adjusted to show the main genes obtained
+  in the unsupervised GO enrichment and WikiPathways analysis.
+article_title: Transcriptional analysis reveals that the intracellular lipid accumulation
+  impairs gene expression profiles involved in insulin response-associated cardiac
+  functionality.
+citation: Virginia Actis Dato, et al. Res Sq. 2023 Apr 4:rs.3.rs-2688729.
+
+doi: 10.21203/rs.3.rs-2688729/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+
+keywords:
+- LRP1
+- aggregated low-density lipoprotein
+- transcriptome analysis
+- cardiovascular disease
+
+---

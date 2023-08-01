@@ -1,0 +1,29 @@
+---
+pmcid: PMC10018165
+image_filename: fneur-14-1130378-g0002.jpg
+figure_link: /pmc/articles/PMC10018165/figure/F2/
+number: Figure 2
+figure_title: ''
+caption: Identification of the DEGs in the GSE135917 dataset, GSEA analysis, and GSVA
+  heatmap analysis. (A) Heatmap plot of the DEGs for OSAS vs. controls. (B, C) GSEA
+  and GSVA analysis in wikipathways for OSAS vs. controls. (|NES| > 1, FDR < 0.1,
+  P-value < 0.05). (D) Ferroptosis genes ring heatmap.
+article_title: Identification and validation of ferroptosis-related hub genes in obstructive
+  sleep apnea syndrome.
+citation: Peijun Liu, et al. Front Neurol. 2023;14:1130378.
+
+doi: 10.3389/fneur.2023.1130378
+journal_title: Frontiers in Neurology
+journal_nlm_ta: Front Neurol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- OSAS
+- THCA
+- ferroptosis
+- CIH
+- HIF1A
+- ATM
+- immune infiltration
+
+---

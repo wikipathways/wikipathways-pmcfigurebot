@@ -1,0 +1,39 @@
+---
+pmcid: PMC10030164
+image_filename: nihms-1772370-f0003.jpg
+figure_link: /pmc/articles/PMC10030164/figure/F3/
+number: Figure 3
+figure_title: Silencing of KDM6A is linked to enrichment of TGF-β signature and cell
+  migration and invasion pathways in MCF10A cells
+caption: (A). Western blotting showing KDM6A expression in a single clone. sgCtrl,
+  non-targeted sgRNA control; sgKDM6A, sgRNA targeting KDM6A. (B). Volcano plot showing
+  significant upregulation of 599 genes and downregulation of 547 genes after silencing
+  of KDM6A in MCF10A cells. Cut-off value for expression at X-axis is log2 Fold_change
+  (sgKDM6A vs. sgCtrl) ≤ −0.58 or log2 Fold_change (sgKDM6A vs. sgCtrl) ≥ 0.58. For
+  the Y-axis, the cut-off value is −log10FDR >1. (C). Gene ontology (GO), KEGG, Wikipathways
+  and NetPath pathway analysis of the differentially expressed genes from KDM6A-silenced
+  vs. non-targeted control. (D). Gene set enrichment analysis (GSEA) shows significantly
+  enriched gene expression signatures in MCF10A cells after silencing of KDM6A. NES,
+  normalized enrichment score. Statistical significance is shown by p value. (E).
+  Expression levels of featuring genes involved in tight junction, ETS (erythroblast
+  transformation-specific), TGF-β signaling, metastasis and inflammation. Expression
+  level is indicated with log2FPKM(Fold_change) ± S.D.; n=2.
+article_title: KDM6A depletion in breast epithelial cells leads to reduced sensitivity
+  to anticancer agents and increased TGF-β activity.
+citation: Jin-Fen Xiao, et al. Mol Cancer Res. ;20(4):637-649.
+
+doi: 10.1158/1541-7786.MCR-21-0402
+journal_title: 'Molecular cancer research : MCR'
+journal_nlm_ta: Mol Cancer Res
+publisher_name: ''
+
+keywords:
+- KDM6A
+- drug resistance
+- TGF-β
+- CD8+ T cells
+- metastasis
+- epithelial-mesenchymal transition
+- triple-negative breast cancer
+
+---

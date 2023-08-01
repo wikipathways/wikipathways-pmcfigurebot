@@ -1,0 +1,39 @@
+---
+pmcid: PMC9833115
+image_filename: jop-164-e77-g007.jpg
+figure_link: /pmc/articles/PMC9833115/figure/F7/
+number: Figure 7
+figure_title: ''
+caption: BMCE treatment partially restores the serum proteomic profile in PSNL mice.
+  (A) Volcano plots showing the differential abundances of total proteins in BMCE-treated
+  PSNL serum compared with saline-treated PSNL serum. (B–C) Network analysis of enriched
+  pathways from Gene Ontology (GO), Kyoto Encyclopedia of Genes and Genomes (KEGG),
+  REACTOME, and WikiPathways, shown as a connectivity map of a subset of terms selected
+  with the best P-values from each cluster. Analysis was performed with all significantly
+  changing DEPs (upregulated and downregulated) in BMCE-treated PSNL serum compared
+  with saline-treated PSNL serum. The size of each node represents the number of DEPs
+  represented within that enriched term. (B) Network plot where each node represents
+  an enriched term and is colored by cluster ID, where nodes sharing the same cluster
+  ID would be closer to each other. (C) The same network plot where each node is colored
+  by P-value, where terms containing more genes would have a more significant P-value.
+  (D) Log10 P-values and numbers of DEPs for each pathway cluster represented in the
+  connectivity map. The vertical dashed line represents the position of P-value of
+  0.05. n = 5 animals/group. BMCE, bone marrow cell extracts; PSNL, partial sciatic
+  nerve ligation.
+article_title: Unbiased proteomic analysis detects painful systemic inflammatory profile
+  in the serum of nerve-injured mice.
+citation: Wen Bo Sam Zhou, et al. Pain. 2023 Feb;164(2):e77-e90.
+
+doi: 10.1097/j.pain.0000000000002695
+journal_title: Pain
+journal_nlm_ta: Pain
+publisher_name: Wolters Kluwer
+
+keywords:
+- Nerve injury
+- Neuropathic pain
+- Systemic inflammation
+- Proteomics
+- Serum transfer
+
+---

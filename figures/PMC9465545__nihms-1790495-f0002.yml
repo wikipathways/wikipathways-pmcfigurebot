@@ -1,0 +1,35 @@
+---
+pmcid: PMC9465545
+image_filename: nihms-1790495-f0002.jpg
+figure_link: /pmc/articles/PMC9465545/figure/F2/
+number: Figure 2
+figure_title: FUS::DDIT3-mediated sequestration of CEBPB from the genome inhibits
+  BAF complex activity over CEBPB target sites and attenuates adipogenic gene activation
+caption: A. Venn diagram reflecting CEBPB MACS-called peaks in shSCR and shDDIT3 conditions
+  in MLPS-1765-92. B. CEBPB occupancy at sites that retain, gain, or lose SMARCC1
+  occupancy in shSCR and shDDIT3 conditions C. Venn diagram reflecting overlap of
+  gained CEBPB and SMARCC1 sites upon FUS::DDIT3 knockdown. D. Heatmap of CEBPB, SMARCC1,
+  H3K27ac, and ATAC-seq peaks over sites that dually gain CEBPB and SMARCC1 upon FUS::DDIT3
+  knockdown. E. (left) Immunoblots reflecting total nuclear BAF complex subunit, DDIT3,
+  CEBPB, and GAPDH control levels in MLS-1765-92 cells treated with either shSCR or
+  shDDIT3. (right) Bar graph indicating GAPDH-normalized densitometry of CEBPB immunoblots
+  (n=3 experimental replicates). F. Volcano plot of differentially expressed genes
+  (DEGs), with those near dually-gained sites marked in red (upregulated) and blue
+  (downregulated). G. Gene ontology analysis of upregulated genes that are near dually-gained
+  sites across WikiPathways genesets (WP=WikiPathways). H. Z-score heatmap of genes
+  associated with gene ontology terms related to development, differentiation, and
+  apoptosis that are upregulated and near dually-gained sites upon knockdown. Gene
+  names in red are represented in track examples in (I). I. Tracks and RPKM gene expression
+  bar graphs for upregulated genes near dually-gained sites upon FUS::DDIT3 knockdown
+  (FOXO3, SOD2, LPIN1, DMD, AEBP1, IRS1). See also .
+article_title: The FUS::DDIT3 fusion oncoprotein inhibits BAF complex targeting and
+  activity in myxoid liposarcoma.
+citation: Hayley J. Zullow, et al. Mol Cell. ;82(9):1737-1750.e8.
+
+doi: 10.1016/j.molcel.2022.03.019
+journal_title: Molecular cell
+journal_nlm_ta: Mol Cell
+publisher_name: ''
+
+keywords:
+---

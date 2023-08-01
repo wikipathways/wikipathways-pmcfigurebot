@@ -1,0 +1,35 @@
+---
+pmcid: PMC9883500
+image_filename: 42003_2023_4504_Fig1_HTML.jpg
+figure_link: /pmc/articles/PMC9883500/figure/Fig1/
+number: Fig. 1
+figure_title: snRNA-seq analysis from human muscle identifies 3 FAP populations
+caption: a Violin plots of logcounts values from well-known marker genes of FAPs (PDGFRA,
+  DCN and CD34) and adipocytes (PLIN1, PPARG and ADIPOQ), color-coded by the identified
+  subpopulations. b TSNE plot of FAP and adipocyte populations from human muscle,
+  color-coded by the identified subpopulations. c TSNE plots of expression levels
+  of marker genes from the different subpopulations, color-coded by logcounts values.
+  d Dot plots showing upregulated or downregulated pathways from GSEA of FAPs 1 vs
+  FAPs 2 (left panel), FAPs 1 vs FAPs 3 (middle panel) or FAPs 2 vs FAPs 3 (right
+  panel). X-axis indicates the normalized enrichment score (NES) for each pathway.
+  Color and size of the dots indicate adjusted p-values (FDR). Significant values
+  are delimited by the red dashed line (Adjusted p < 0.05 or -log10(adjusted p-value)
+  >1.3). e, f Bar plots showing average Z-score of GSVA of adipogenesis pathways from
+  Hallmark (MsigDB) (e) and WikiPathways databases (f). Color-coded by identified
+  FAPs subpopulations. ***p < = 0.001, ****p < = 0.0001.
+article_title: MME+ fibro-adipogenic progenitors are the dominant adipogenic population
+  during fatty infiltration in human skeletal muscle.
+citation: Gillian Fitzgerald, et al. Commun Biol. 2023;6:111.
+
+doi: 10.1038/s42003-023-04504-y
+journal_title: Communications Biology
+journal_nlm_ta: Commun Biol
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Mesenchymal stem cells
+- Cell biology
+- RNA sequencing
+- Diseases
+
+---

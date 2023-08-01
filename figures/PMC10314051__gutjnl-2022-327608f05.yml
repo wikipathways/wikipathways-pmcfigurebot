@@ -1,0 +1,35 @@
+---
+pmcid: PMC10314051
+image_filename: gutjnl-2022-327608f05.jpg
+figure_link: /pmc/articles/PMC10314051/figure/F5/
+number: Figure 5
+figure_title: ''
+caption: Immune-related alterations in relation to CRC histology. (A) Boxplots of
+  deconvoluted abundancies of distinct immune cell populations across histologies
+  in the Vimentin segment. (B) Forest plot of Spearman’s Rho and corresponding 95%
+  CI for the correlation between enrichment score of immune-related pathways from
+  WikiPathways and histology as ordinal variable. Correlation was assessed in PanCK
+  and Vimentin segments separately. (C) Expression of immunomodulators across distinct
+  regions in the Vimentin segment. AOIs (columns) are ordered by histology and subsequently
+  by sample ID. Expression z-score was calculated in epithelial and stromal segments
+  separately. Type of immunomodulator, either inhibitory or stimulatory, is indicated.
+  An unsupervised version of the heatmap with PanCK and Vimentin regions combined,
+  using unsupervised clustering for both rows and columns, is included as . (D) Line
+  graphs of expression of CD47 and SIRPA during tumourigenesis. Mean enrichment score
+  and corresponding 95% CI are indicated. CRC, colorectal cancer; log2FC, log2 fold
+  change; PanCK, pan-cytokeratin; ROI, region of interest.
+article_title: Transcriptomic and immunophenotypic profiling reveals molecular and
+  immunological hallmarks of colorectal cancer tumourigenesis.
+citation: Jessica Roelands, et al. Gut. 2023 Jul;72(7):1326-1339.
+
+doi: 10.1136/gutjnl-2022-327608
+journal_title: Gut
+journal_nlm_ta: Gut
+publisher_name: BMJ Publishing Group
+
+keywords:
+- colorectal neogenesis
+- immunogenetics
+- gene expression
+
+---
