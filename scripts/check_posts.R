@@ -28,7 +28,6 @@ for (f in files){
   
   # Check for empty fields and missing files, and check if figure is from a preprint
   jpg_check <- file.exists(file.path("figures",sub("\\.yml","\\.jpg",f)))
-  jpg_check <- file.exists(file.path("figures",sub("\\.yml","\\.jpeg",f))) ##covers both cases
   title_check <- nchar(social.nls$article_title) > 5
   doi_check <- startsWith(social.nls$doi, "10")
   preprint_check <- grepl("/rs.", social.nls$doi, fixed = TRUE)
