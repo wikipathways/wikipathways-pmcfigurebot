@@ -1,4 +1,3 @@
----
 pmcid: PMC9833115
 image_filename: jop-164-e77-g007.jpg
 figure_link: /pmc/articles/PMC9833115/figure/F7/
@@ -23,17 +22,17 @@ caption: BMCE treatment partially restores the serum proteomic profile in PSNL m
 article_title: Unbiased proteomic analysis detects painful systemic inflammatory profile
   in the serum of nerve-injured mice.
 citation: Wen Bo Sam Zhou, et al. Pain. 2023 Feb;164(2):e77-e90.
-
 doi: 10.1097/j.pain.0000000000002695
 journal_title: Pain
 journal_nlm_ta: Pain
 publisher_name: Wolters Kluwer
-
 keywords:
 - Nerve injury
 - Neuropathic pain
 - Systemic inflammation
 - Proteomics
 - Serum transfer
-
----
+status: 'Unbiased proteomic analysis detects painful systemic inflammatory profile
+  in the serum of nerve-injured mice. https://doi.org/10.1097/j.pain.0000000000002695
+  #NerveInjury #NeuropathicPain #SystemicInflammation #Proteomics #SerumTransfer'
+media: PMC9833115__jop-164-e77-g007.jpg

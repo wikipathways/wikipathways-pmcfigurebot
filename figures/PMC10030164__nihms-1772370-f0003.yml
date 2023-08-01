@@ -1,4 +1,3 @@
----
 pmcid: PMC10030164
 image_filename: nihms-1772370-f0003.jpg
 figure_link: /pmc/articles/PMC10030164/figure/F3/
@@ -21,12 +20,10 @@ caption: (A). Western blotting showing KDM6A expression in a single clone. sgCtr
 article_title: KDM6A depletion in breast epithelial cells leads to reduced sensitivity
   to anticancer agents and increased TGF-β activity.
 citation: Jin-Fen Xiao, et al. Mol Cancer Res. ;20(4):637-649.
-
 doi: 10.1158/1541-7786.MCR-21-0402
 journal_title: 'Molecular cancer research : MCR'
 journal_nlm_ta: Mol Cancer Res
 publisher_name: ''
-
 keywords:
 - KDM6A
 - drug resistance
@@ -35,5 +32,7 @@ keywords:
 - metastasis
 - epithelial-mesenchymal transition
 - triple-negative breast cancer
-
----
+status: 'KDM6A depletion in breast epithelial cells leads to reduced sensitivity to
+  anticancer agents and increased TGF-β activity. https://doi.org/10.1158/1541-7786.MCR-21-0402
+  #Kdm6a #DrugResistance #TgfΒ #Cd8+TCells #Metastasis'
+media: PMC10030164__nihms-1772370-f0003.jpg

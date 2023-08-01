@@ -1,4 +1,3 @@
----
 pmcid: PMC9465545
 image_filename: nihms-1790495-f0002.jpg
 figure_link: /pmc/articles/PMC9465545/figure/F2/
@@ -25,11 +24,11 @@ caption: A. Venn diagram reflecting CEBPB MACS-called peaks in shSCR and shDDIT3
 article_title: The FUS::DDIT3 fusion oncoprotein inhibits BAF complex targeting and
   activity in myxoid liposarcoma.
 citation: Hayley J. Zullow, et al. Mol Cell. ;82(9):1737-1750.e8.
-
 doi: 10.1016/j.molcel.2022.03.019
 journal_title: Molecular cell
 journal_nlm_ta: Mol Cell
 publisher_name: ''
-
-keywords:
----
+keywords: ~
+status: 'The FUS::DDIT3 fusion oncoprotein inhibits BAF complex targeting and activity
+  in myxoid liposarcoma. https://doi.org/10.1016/j.molcel.2022.03.019 '
+media: PMC9465545__nihms-1790495-f0002.jpg

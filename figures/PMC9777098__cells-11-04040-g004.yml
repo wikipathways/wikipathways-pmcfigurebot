@@ -1,4 +1,3 @@
----
 pmcid: PMC9777098
 image_filename: cells-11-04040-g004.jpg
 figure_link: /pmc/articles/PMC9777098/figure/cells-11-04040-f004/
@@ -23,12 +22,10 @@ article_title: RNA-Seq of Dermal Fibroblasts from Patients with Hypermobile Ehle
   Single Entity with Involvement of Extracellular Matrix Degrading and Proinflammatory
   Pathomechanisms.
 citation: Marco Ritelli, et al. Cells. 2022 Dec;11(24):4040.
-
 doi: 10.3390/cells11244040
 journal_title: Cells
 journal_nlm_ta: Cells
 publisher_name: MDPI
-
 keywords:
 - cytokines
 - extracellular matrix
@@ -38,5 +35,9 @@ keywords:
 - matrix metalloproteinases
 - myofibroblasts
 - RNA-seq
-
----
+status: 'RNA-Seq of Dermal Fibroblasts from Patients with Hypermobile Ehlers–Danlos
+  Syndrome and Hypermobility Spectrum Disorders Supports Their Categorization as a
+  Single Entity with Involvement of Extracellular Matrix Degrading and Proinflammatory
+  Pathomechanisms. https://doi.org/10.3390/cells11244040 #Cytokines #ExtracellularMatrix
+  #HypermobileEhlers–DanlosSyndrome #HypermobilitySpectrumDisorders #Inflammation'
+media: PMC9777098__cells-11-04040-g004.jpg

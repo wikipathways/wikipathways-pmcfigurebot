@@ -1,4 +1,3 @@
----
 pmcid: PMC9722939
 image_filename: 41467_2022_34460_Fig3_HTML.jpg
 figure_link: /pmc/articles/PMC9722939/figure/Fig3/
@@ -20,16 +19,16 @@ caption: a Decomposition of four mutational signatures from the tRCC cohort. b C
 article_title: Proteogenomic characterization of MiT family translocation renal cell
   carcinoma.
 citation: Yuanyuan Qu, et al. Nat Commun. 2022;13:7494.
-
 doi: 10.1038/s41467-022-34460-w
 journal_title: Nature Communications
 journal_nlm_ta: Nat Commun
 publisher_name: Nature Publishing Group UK
-
 keywords:
 - Tumour heterogeneity
 - Renal cancer
 - Proteomics
 - Renal cell carcinoma
-
----
+status: 'Proteogenomic characterization of MiT family translocation renal cell carcinoma.
+  https://doi.org/10.1038/s41467-022-34460-w #TumourHeterogeneity #RenalCancer #Proteomics
+  #RenalCellCarcinoma'
+media: PMC9722939__41467_2022_34460_Fig3_HTML.jpg

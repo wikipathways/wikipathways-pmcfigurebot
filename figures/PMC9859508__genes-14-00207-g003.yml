@@ -1,4 +1,3 @@
----
 pmcid: PMC9859508
 image_filename: genes-14-00207-g003.jpg
 figure_link: /pmc/articles/PMC9859508/figure/genes-14-00207-f003/
@@ -14,12 +13,10 @@ caption: PTB and LNTB risk associated SNP related genes enrich in different path
 article_title: Comparative Genetic Association Analysis of Human Genetic Susceptibility
   to Pulmonary and Lymph Node Tuberculosis.
 citation: Abhimanyu , et al. Genes (Basel). 2023 Jan;14(1):207.
-
 doi: 10.3390/genes14010207
 journal_title: Genes
 journal_nlm_ta: Genes (Basel)
 publisher_name: MDPI
-
 keywords:
 - pulmonary tuberculosis
 - lymph node tuberculosis
@@ -30,5 +27,8 @@ keywords:
 - genetic association
 - genotype
 - serum
-
----
+status: 'Comparative Genetic Association Analysis of Human Genetic Susceptibility
+  to Pulmonary and Lymph Node Tuberculosis. https://doi.org/10.3390/genes14010207
+  #PulmonaryTuberculosis #LymphNodeTuberculosis #ExtraPulmonaryTuberculosis #SingleNucleotidePolymorphisms
+  #Cytokine'
+media: PMC9859508__genes-14-00207-g003.jpg

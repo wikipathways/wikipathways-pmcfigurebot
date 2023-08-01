@@ -1,4 +1,3 @@
----
 pmcid: PMC9820692
 image_filename: ijms-24-00249-g001.jpg
 figure_link: /pmc/articles/PMC9820692/figure/ijms-24-00249-f001/
@@ -21,12 +20,10 @@ caption: 'Breast cancer cells undergo both apoptosis and ferroptosis upon nutrie
 article_title: Low Sulfur Amino Acid, High Polyunsaturated Fatty Acid Diet Inhibits
   Breast Cancer Growth.
 citation: Riccardo Turchi, et al. Int J Mol Sci. 2023 Jan;24(1):249.
-
 doi: 10.3390/ijms24010249
 journal_title: International Journal of Molecular Sciences
 journal_nlm_ta: Int J Mol Sci
 publisher_name: MDPI
-
 keywords:
 - NRF2
 - p53
@@ -34,5 +31,7 @@ keywords:
 - mitochondria
 - ferrostatin-1
 - ferroptosis
-
----
+status: 'Low Sulfur Amino Acid, High Polyunsaturated Fatty Acid Diet Inhibits Breast
+  Cancer Growth. https://doi.org/10.3390/ijms24010249 #Nrf2 #P53 #LipidPeroxidation
+  #Mitochondria #Ferrostatin1'
+media: PMC9820692__ijms-24-00249-g001.jpg

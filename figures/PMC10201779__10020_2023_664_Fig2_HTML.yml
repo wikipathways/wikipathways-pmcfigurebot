@@ -1,4 +1,3 @@
----
 pmcid: PMC10201779
 image_filename: 10020_2023_664_Fig2_HTML.jpg
 figure_link: /pmc/articles/PMC10201779/figure/Fig2/
@@ -17,12 +16,10 @@ caption: Pathway enrichment of pre-cystic and cystic transcriptomic signatures. 
 article_title: Prioritized polycystic kidney disease drug targets and repurposing
   candidates from pre-cystic and cystic mouse Pkd2 model gene expression reversion.
 citation: Elizabeth J. Wilk, et al. Mol Med. 2023;29:67.
-
 doi: 10.1186/s10020-023-00664-z
 journal_title: Molecular Medicine
 journal_nlm_ta: Mol Med
 publisher_name: BioMed Central
-
 keywords:
 - Polycystic kidney disease
 - PKD
@@ -31,5 +28,7 @@ keywords:
 - Signature reversion
 - LINCS
 - Drug prioritization
-
----
+status: 'Prioritized polycystic kidney disease drug targets and repurposing candidates
+  from pre-cystic and cystic mouse Pkd2 model gene expression reversion. https://doi.org/10.1186/s10020-023-00664-z
+  #PolycysticKidneyDisease #Pkd #Adpkd #DrugRepurposing #SignatureReversion'
+media: PMC10201779__10020_2023_664_Fig2_HTML.jpg

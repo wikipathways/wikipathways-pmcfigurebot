@@ -1,4 +1,3 @@
----
 pmcid: PMC9860170
 image_filename: gr6.jpg
 figure_link: /pmc/articles/PMC9860170/figure/fig6/
@@ -18,12 +17,10 @@ caption: 'Sox2ot case study(A) Expression of Sox2ot in mouse brain, determined b
 article_title: What has single-cell transcriptomics taught us about long non-coding
   RNAs in the ventricular-subventricular zone?.
 citation: Jemima Becker, et al. Stem Cell Reports. 2023 Jan 10;18(1):354-376.
-
 doi: 10.1016/j.stemcr.2022.11.011
 journal_title: Stem Cell Reports
 journal_nlm_ta: Stem Cell Reports
 publisher_name: Elsevier
-
 keywords:
 - V-SVZ
 - lncRNA
@@ -31,5 +28,7 @@ keywords:
 - neural stem cells
 - adult neurogenesis
 - epigenetics
-
----
+status: 'What has single-cell transcriptomics taught us about long non-coding RNAs
+  in the ventricular-subventricular zone?. https://doi.org/10.1016/j.stemcr.2022.11.011
+  #VSvz #Lncrna #ScrnaSeq #NeuralStemCells #AdultNeurogenesis'
+media: PMC9860170__gr6.jpg

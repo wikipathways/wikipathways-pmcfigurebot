@@ -1,4 +1,3 @@
----
 pmcid: PMC9883500
 image_filename: 42003_2023_4504_Fig1_HTML.jpg
 figure_link: /pmc/articles/PMC9883500/figure/Fig1/
@@ -20,16 +19,16 @@ caption: a Violin plots of logcounts values from well-known marker genes of FAPs
 article_title: MME+ fibro-adipogenic progenitors are the dominant adipogenic population
   during fatty infiltration in human skeletal muscle.
 citation: Gillian Fitzgerald, et al. Commun Biol. 2023;6:111.
-
 doi: 10.1038/s42003-023-04504-y
 journal_title: Communications Biology
 journal_nlm_ta: Commun Biol
 publisher_name: Nature Publishing Group UK
-
 keywords:
 - Mesenchymal stem cells
 - Cell biology
 - RNA sequencing
 - Diseases
-
----
+status: 'MME+ fibro-adipogenic progenitors are the dominant adipogenic population
+  during fatty infiltration in human skeletal muscle. https://doi.org/10.1038/s42003-023-04504-y
+  #MesenchymalStemCells #CellBiology #RnaSequencing #Diseases'
+media: PMC9883500__42003_2023_4504_Fig1_HTML.jpg

@@ -1,4 +1,3 @@
----
 pmcid: PMC9957298
 image_filename: genes-14-00495-g004a.jpg
 figure_link: .na.character
@@ -14,12 +13,10 @@ caption: Pathway enrichment from POAG/PACG candidate genes. The interactions of 
 article_title: Whole Exome Sequencing Reveals Novel Candidate Genes in Familial Forms
   of Glaucomatous Neurodegeneration.
 citation: Kiran Narta, et al. Genes (Basel). 2023 Feb;14(2):495.
-
 doi: 10.3390/genes14020495
 journal_title: Genes
 journal_nlm_ta: Genes (Basel)
 publisher_name: MDPI
-
 keywords:
 - blindness
 - exome sequencing
@@ -29,5 +26,7 @@ keywords:
 - PACG
 - POAG
 - SRFBP1
-
----
+status: 'Whole Exome Sequencing Reveals Novel Candidate Genes in Familial Forms of
+  Glaucomatous Neurodegeneration. https://doi.org/10.3390/genes14020495 #Blindness
+  #ExomeSequencing #Genetics #Genomics #Glaucoma'
+media: PMC9957298__genes-14-00495-g004a.jpg

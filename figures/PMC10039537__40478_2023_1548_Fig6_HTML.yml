@@ -1,4 +1,3 @@
----
 pmcid: PMC10039537
 image_filename: 40478_2023_1548_Fig6_HTML.jpg
 figure_link: /pmc/articles/PMC10039537/figure/Fig6/
@@ -20,12 +19,10 @@ caption: Ganglioglioma-associated myeloid cells. A Myeloid supercluster feature 
 article_title: Ganglioglioma deep transcriptomics reveals primitive neuroectoderm
   neural precursor-like population.
 citation: Joshua A. Regal, et al. Acta Neuropathol Commun. 2023;11:50.
-
 doi: 10.1186/s40478-023-01548-3
 journal_title: Acta Neuropathologica Communications
 journal_nlm_ta: Acta Neuropathol Commun
 publisher_name: BioMed Central
-
 keywords:
 - Single cell RNA-sequencing
 - CITE-seq
@@ -34,5 +31,7 @@ keywords:
 - Glioneuronal tumors
 - Brain tumors
 - Genetic signatures
-
----
+status: 'Ganglioglioma deep transcriptomics reveals primitive neuroectoderm neural
+  precursor-like population. https://doi.org/10.1186/s40478-023-01548-3 #SingleCellRnaSequencing
+  #CiteSeq #SpatialTranscriptomics #Ganglioglioma #GlioneuronalTumors'
+media: PMC10039537__40478_2023_1548_Fig6_HTML.jpg

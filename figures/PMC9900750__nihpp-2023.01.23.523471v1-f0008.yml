@@ -1,4 +1,3 @@
----
 pmcid: PMC9900750
 image_filename: nihpp-2023.01.23.523471v1-f0008.jpg
 figure_link: /pmc/articles/PMC9900750/figure/F8/
@@ -15,11 +14,11 @@ caption: PolyAMiner-Bulk analysis of bulk RNA-seq dataset of post-mortem prefron
 article_title: 'PolyAMiner-Bulk: A Machine Learning Based Bioinformatics Algorithm
   to Infer and Decode Alternative Polyadenylation Dynamics from bulk RNA-seq data.'
 citation: Venkata Soumith Jonnakuti, et al. bioRxiv. 2023 Jan 24:2023.01.23.523471.
-
 doi: 10.1101/2023.01.23.523471
 journal_title: bioRxiv
 journal_nlm_ta: bioRxiv
 publisher_name: Cold Spring Harbor Laboratory
-
-keywords:
----
+keywords: ~
+status: 'PolyAMiner-Bulk: A Machine Learning Based Bioinformatics Algorithm to Infer
+  and Decode Alternative Polyadenylation Dynamics from bulk RNA-seq data. https://doi.org/10.1101/2023.01.23.523471 '
+media: PMC9900750__nihpp-2023.01.23.523471v1-f0008.jpg

@@ -1,4 +1,3 @@
----
 pmcid: PMC10290716
 image_filename: 41597_2023_2321_Fig3_HTML.jpg
 figure_link: /pmc/articles/PMC10290716/figure/Fig3/
@@ -21,14 +20,14 @@ caption: Characteristics of the KE annotation. (a) Stacked bar plot representing
 article_title: A curated gene and biological system annotation of adverse outcome
   pathways related to human health.
 citation: Laura Aliisa Saarimäki, et al. Sci Data. 2023;10:409.
-
 doi: 10.1038/s41597-023-02321-w
 journal_title: Scientific Data
 journal_nlm_ta: Sci Data
 publisher_name: Nature Publishing Group UK
-
 keywords:
 - Data integration
 - Toxicology
-
----
+status: 'A curated gene and biological system annotation of adverse outcome pathways
+  related to human health. https://doi.org/10.1038/s41597-023-02321-w #DataIntegration
+  #Toxicology'
+media: PMC10290716__41597_2023_2321_Fig3_HTML.jpg

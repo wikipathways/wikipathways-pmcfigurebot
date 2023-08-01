@@ -1,4 +1,3 @@
----
 pmcid: PMC9779348
 image_filename: ijms-23-15698-g003.jpg
 figure_link: /pmc/articles/PMC9779348/figure/ijms-23-15698-f003/
@@ -12,12 +11,10 @@ caption: Common genes-based GO and pathway analysis sorted by adjusted p-values.
 article_title: Integrated Analysis of Bulk RNA-Seq and Single-Cell RNA-Seq Unravels
   the Influences of SARS-CoV-2 Infections to Cancer Patients.
 citation: Yu Chen, et al. Int J Mol Sci. 2022 Dec;23(24):15698.
-
 doi: 10.3390/ijms232415698
 journal_title: International Journal of Molecular Sciences
 journal_nlm_ta: Int J Mol Sci
 publisher_name: MDPI
-
 keywords:
 - SARS-CoV-2
 - cancer
@@ -29,5 +26,7 @@ keywords:
 - immunity
 - monocyte
 - m6A
-
----
+status: 'Integrated Analysis of Bulk RNA-Seq and Single-Cell RNA-Seq Unravels the
+  Influences of SARS-CoV-2 Infections to Cancer Patients. https://doi.org/10.3390/ijms232415698
+  #SarsCov2 #Cancer #PulmonaryFibrosis #AcuteRespiratoryDistress #Ppi'
+media: PMC9779348__ijms-23-15698-g003.jpg

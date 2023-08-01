@@ -1,4 +1,3 @@
----
 pmcid: PMC10070855
 image_filename: fimmu-14-961642-g004.jpg
 figure_link: /pmc/articles/PMC10070855/figure/f4/
@@ -13,12 +12,10 @@ caption: 'Bar graphs showing pathway enrichment analysis of DEGs shared by SARS-
 article_title: Identification of common molecular signatures of SARS-CoV-2 infection
   and its influence on acute kidney injury and chronic kidney disease.
 citation: Weiwei Zhang, et al. Front Immunol. 2023;14:961642.
-
 doi: 10.3389/fimmu.2023.961642
 journal_title: Frontiers in Immunology
 journal_nlm_ta: Front Immunol
 publisher_name: Frontiers Media S.A.
-
 keywords:
 - SARS-CoV-2
 - acute kidney injury
@@ -28,5 +25,8 @@ keywords:
 - protein-protein interaction
 - hub gene
 - drug molecule
-
----
+status: 'Identification of common molecular signatures of SARS-CoV-2 infection and
+  its influence on acute kidney injury and chronic kidney disease. https://doi.org/10.3389/fimmu.2023.961642
+  #SarsCov2 #AcuteKidneyInjury #ChronicKidneyDisease #DifferentiallyExpressedGenes
+  #GeneOntology'
+media: PMC10070855__fimmu-14-961642-g004.jpg

@@ -1,4 +1,3 @@
----
 pmcid: PMC10063980
 image_filename: fendo-14-1112834-g008.jpg
 figure_link: /pmc/articles/PMC10063980/figure/f8/
@@ -22,12 +21,10 @@ article_title: 'Throughout in vitro first spermatogenic wave: Next-generation se
   gene expression patterns of fresh and cryopreserved prepubertal mice testicular
   tissue explants.'
 citation: Ludovic Dumont, et al. Front Endocrinol (Lausanne). 2023;14:1112834.
-
 doi: 10.3389/fendo.2023.1112834
 journal_title: Frontiers in Endocrinology
 journal_nlm_ta: Front Endocrinol (Lausanne)
 publisher_name: Frontiers Media S.A.
-
 keywords:
 - cryopreservation
 - in vitro spermatogenesis
@@ -35,5 +32,8 @@ keywords:
 - RNA-Seq
 - testis
 - transcriptomic
-
----
+status: 'Throughout in vitro first spermatogenic wave: Next-generation sequencing
+  gene expression patterns of fresh and cryopreserved prepubertal mice testicular
+  tissue explants. https://doi.org/10.3389/fendo.2023.1112834 #Cryopreservation #InVitroSpermatogenesis
+  #Mice #RnaSeq #Testis'
+media: PMC10063980__fendo-14-1112834-g008.jpg
