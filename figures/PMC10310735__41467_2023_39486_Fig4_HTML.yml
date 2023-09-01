@@ -1,0 +1,43 @@
+---
+pmcid: PMC10310735
+image_filename: 41467_2023_39486_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC10310735/figure/Fig4/
+number: Fig. 4
+figure_title: Characterisation of the immune profiles of dedifferentiated liposarcoma
+  (DDLPS) and undifferentiated pleomorphic sarcoma (UPS)
+caption: 'a Representative images of high and low CD3+ tumour infiltrating lymphocyte
+  (TIL) staining from an exemplar in DDLPS (green) and UPS (purple) cases in the cohort.
+  Samples were stratified as high and low based on median TIL counts (107 cells/mm2).
+  b Kaplan–Meier plot of overall survival (OS) in CD3+ TIL-high and -low patients
+  (n = 82). Hazard ratio (HR), 95% confidence intervals (CI) and p-value determined
+  by univariable Cox regression. c Boxplots comparing expression of 21 immune-related
+  genes in CD3+ TIL-high and -low cases. Boxplots indicate 25th, 50th, and 75th percentile,
+  with whiskers extending from 25th percentile−(1.5*IQR) to 75th percentile+(1.5*IQR),
+  and outliers plotted as points. p values determined by Kruskal–Wallis tests and
+  adjusted to false discovery rate (FDR). d Gene set enrichment analysis (GSEA) results
+  showing the top 15 gene sets enriched in CD3+ TIL-high and and-low cases based on
+  normalised enrichment score (NES) with gene sets related to complement activity
+  (blue) and coagulation processes (orange) highlighted. e To inspect the proteins
+  contributing to the enrichment of complement and coagulation cascades in these tumours,
+  protein-protein interaction (PPI) networks were constructed based on the Kyoto Encyclopaedia
+  of Genes and Genomics (KEGG) and WikiPathways databases. Node colour indicates Log2(Fold
+  Change CD3+ TIL low: CD3+ TIL high) protein expression. Grey indicates nodes that
+  are not in the proteomic data. This analysis highlighted the serpin family of serine
+  proteases to be strongly upregulated in low CD3+ TIL patients (SERPINA1/A5/C1/D1/F2/G1).
+  Several complement proteins were also upregulated in low CD3+ TIL patients, including
+  those of the membrane attack complex (MAC).'
+article_title: The proteomic landscape of soft tissue sarcomas.
+citation: Jessica Burns, et al. Nat Commun. 2023;14:3834.
+
+doi: 10.1038/s41467-023-39486-2
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Sarcoma
+- Proteomic analysis
+- Cancer genomics
+- Tumour biomarkers
+
+---

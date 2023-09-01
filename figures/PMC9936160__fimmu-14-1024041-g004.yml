@@ -1,3 +1,4 @@
+---
 pmcid: PMC9936160
 image_filename: fimmu-14-1024041-g004.jpg
 figure_link: /pmc/articles/PMC9936160/figure/f4/
@@ -9,10 +10,12 @@ caption: The bar graphs of the pathway enrichment analysis of the shared DEGs be
 article_title: Comprehensive analysis to identify the influences of SARS-CoV-2 infections
   to inflammatory bowel disease.
 citation: Chengyan Zhang, et al. Front Immunol. 2023;14:1024041.
+
 doi: 10.3389/fimmu.2023.1024041
 journal_title: Frontiers in Immunology
 journal_nlm_ta: Front Immunol
 publisher_name: Frontiers Media S.A.
+
 keywords:
 - IBD
 - COVID-19
@@ -20,7 +23,5 @@ keywords:
 - differentially expressed genes
 - single cell atlas
 - inflammation-related genes
-status: 'Comprehensive analysis to identify the influences of SARS-CoV-2 infections
-  to inflammatory bowel disease. https://doi.org/10.3389/fimmu.2023.1024041 #Ibd #Covid19
-  #HubGenes #DifferentiallyExpressedGenes #SingleCellAtlas'
-media: PMC9936160__fimmu-14-1024041-g004.jpg
+
+---

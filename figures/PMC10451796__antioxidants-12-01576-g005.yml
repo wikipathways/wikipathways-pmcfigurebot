@@ -1,0 +1,36 @@
+---
+pmcid: PMC10451796
+image_filename: antioxidants-12-01576-g005.jpg
+figure_link: /pmc/articles/PMC10451796/figure/antioxidants-12-01576-f005/
+number: Figure 5
+figure_title: ''
+caption: Transcriptome analysis of the effect of gRc in H2O2-treated C2C12 myotubes.
+  (A) Normalized enrichment score (NES) of the gene set enrichment analysis (GSEA)
+  results of H2O2 treatment compared to vehicle and the H2O2 + gRc treatment compared
+  to the H2O2 treatment. The pathway terms were sourced from Gene Ontology—Biological
+  Process (“Regulation of Oxidative Stress Induced Cell Death”, “Positive Regulation
+  of Striated Muscle Cell Differentiation”, “ATP Synthesis Coupled Electron Transport”,
+  “Muscle Cell Proliferation, Cellular Respiration”, and “Positive Regulation of Muscle
+  Hypertrophy”), Gene Ontology—Cellular Component (“Mitochondrial Protein Containing
+  Complex” and “Inner Mitochondrial Membrane Protein Complex”), Reactome (“Apoptosis”
+  and “Myogenesis”), and WikiPathways (“Electron Transport Chain Oxphos System in
+  Mitochondria”). * p < 0.05, ** p < 0.01. (B) The selected GSEA plots of H2O2 treatment
+  compared to vehicle (top) and the H2O2 + gRc treatment compared to the H2O2 treatment
+  (bottom).
+article_title: Ginsenoside Rc, an Active Component of Panax ginseng, Alleviates Oxidative
+  Stress-Induced Muscle Atrophy via Improvement of Mitochondrial Biogenesis.
+citation: Aeyung Kim, et al. Antioxidants (Basel). 2023 Aug;12(8):1576.
+
+doi: 10.3390/antiox12081576
+journal_title: Antioxidants
+journal_nlm_ta: Antioxidants (Basel)
+publisher_name: MDPI
+
+keywords:
+- ginsenoside Rc
+- skeletal muscle
+- oxidative stress
+- mitochondrial biogenesis
+- muscle atrophy
+
+---
