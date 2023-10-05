@@ -1,0 +1,44 @@
+---
+pmcid: PMC10545883
+image_filename: fbioe-11-1256825-g002.jpg
+figure_link: /pmc/articles/PMC10545883/figure/F2/
+number: FIGURE 2
+figure_title: ''
+caption: Workflows applied in this systematic review. (A) PRISMA2020 flow diagram
+  for the whole process of study selection according to  and . (B) Over representation
+  and network analysis of gene lists derived from the review process. Gene lists were
+  compiled, listing examined genes, proteins or metabolites showing differential gene
+  expression after FSS application in primary human or mouse cell lines (, ). From
+  these, differential expressed gene (DEG) lists were generated according to the specified
+  criteria. For both human and mouse DEG lists protein-protein interaction (PPI) networks
+  were constructed using STRING-DB () (). Pathway analysis was done using “GeneOntology/Biological
+  Process” (), KEGG (), and WikiPathways () (). Subnetworks were identified in both
+  PPI networks using the “GLay community detection algorithm” implemented in clusterMaker2
+  () (, ). Essential nodes, so-called “hub genes”, were detected using cytoHubba ()
+  (, ). Altogether 5 high-throughput gene expression studies applying microarray or
+  RNA-seq methodology were identified studying the effect of FSS on either human MSCs
+  or the mouse osteocyte cell line MLO-Y4. Raw data were downloaded from the respective
+  repositories and individually processed using bioinformatics workflows. Pre-ranked
+  gene lists were generated, and gene set enrichment analysis (GSEA) was applied to
+  each using easyGSEA (). Cell-type specific comparisons were done using easyVizR
+  () (, ).
+article_title: 'Fluid flow shear stress and tissue remodeling—an orthodontic perspective:
+  evidence synthesis and differential gene expression network analysis.'
+citation: Mustafa Nile, et al. Front Bioeng Biotechnol. 2023;11:1256825.
+
+doi: 10.3389/fbioe.2023.1256825
+journal_title: Frontiers in Bioengineering and Biotechnology
+journal_nlm_ta: Front Bioeng Biotechnol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- periodontal ligament cells
+- osteoblasts
+- osteocytes
+- mesenchymal stem cells
+- tissue remodeling
+- fluid flow shear stress
+- mechanobiology
+- In vitro models
+
+---

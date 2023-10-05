@@ -1,0 +1,47 @@
+---
+pmcid: PMC10546779
+image_filename: 13195_2023_1311_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC10546779/figure/Fig4/
+number: Fig. 4
+figure_title: ''
+caption: 'Identification of 326 phagocytic AD MG DEGs and relevant function. A Functional-validated
+  human Aβ phagocytic AD MG DEGs. The embedded dashed box shows identification of
+  184 upregulated and 193 downregulated Aβ + MG DEGs in GSE165306. MG were isolated
+  from the Cerebrum of AD 5xFAD tg mice injected with florescent Methoxy-X04 (MeX04)
+  that labels Aβ plaque and sorted for Aβ + and Aβ − populations for further scRNA-seq
+  analysis. The Aβ + MG DEGs were identified with FC ≥ 1.5 and adjusted p-value < 0.05
+  and overlapped with the previously identified functional-validated human AD MG DEGs.
+  B The functional-validated mouse Aβ phagocytic AD MG DEGs were identified by overlapping
+  the Aβ + MG DEG with the previously identified mouse AD MG DEGs using the same strategy
+  in A. C Identification of phagocytic modifier AD MG DEGs. MG genetic modifiers of
+  phagocytosis were identified by conducting a phagocytic genetic modifier screening
+  using CRISPR-Cas9 for knockout of genes encoding membrane proteins, drug targets,
+  kinases, or phosphatases in the BV2 cell line derived from phagocytic microglia
+  (PMID: 30,944,478). The Venn diagram shows the overlap of BV2 cell phagocytic modifier
+  genes with AD MG DEGs of human and mouse. D Gene sets related to endocytosis. A
+  total of 2172 genes involved in biological processes of endocytosis, exocytosis,
+  and transcytosis were collected from GO, KEGG, Reactome, and WikiPathways. E Overlapped
+  endocytosis-related AD MG DEGs. The overlap analysis of 2172 endocytosis-related
+  genes with 409 human and 777 mouse AD MG DEGs identified 16 overlapped endocytosis-related
+  AD MG DEGs in human and mouse. F Total phagocytic AD MG DEG is summarized. Aβ, amyloid
+  beta; AD, Alzheimer’s disease; DEG, differentially expressed gene; FC, fold change;
+  i, inhibit; i.p., intraperitoneally; MeX04, Methoxy-X04; MG, microglia; MIF, macrophage
+  migration inhibitory factor; p, promote; SC, single cell; TGN, trans-Golgi-network'
+article_title: Identification of methylation-regulated genes modulating microglial
+  phagocytosis in hyperhomocysteinemia-exacerbated Alzheimer’s disease.
+citation: Xianwei Wang, et al. Alzheimers Res Ther. 2023;15:164.
+
+doi: 10.1186/s13195-023-01311-9
+journal_title: Alzheimer's Research & Therapy
+journal_nlm_ta: Alzheimers Res Ther
+publisher_name: BioMed Central
+
+keywords:
+- Alzheimer’s
+- Hyperhomocysteinemia
+- Microglia
+- Phagocytosis
+- Hypomethylation
+- Amyloid β
+
+---

@@ -1,0 +1,41 @@
+---
+pmcid: PMC10541912
+image_filename: 41523_2023_582_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC10541912/figure/Fig5/
+number: Fig. 5
+figure_title: The Hippo/YAP/TAZ pathway is strongly associated with invasiveness of
+  cells expressing different p53 mutants
+caption: a Biplots for a PLSR model trained on ssGSEA scores of the entire pathway
+  terms in WikiPathways database and the vector of invasiveness is shown. The model
+  was based on top 5 pathway terms that were identified by cross-validated forward
+  feature selection. Cell lines (colored by invasiveness) were transformed and projected
+  on a 2-component space, and the explained variance of invasiveness by each component
+  is shown in the axis labels. The loadings of pathway terms were scaled to fit the
+  data range and displayed as green lines. b Biplot for a PLSR model trained on expression
+  values of genes in the Hippo-YAP Signaling Pathway (WikiPathways) and the vector
+  of invasiveness is shown. Analysis performed as described for Fig. 5a. c In the
+  WikiPathways diagrams for the Hippo/YAP/TAZ pathways, individual genes were color-coded
+  by the Pearson correlations between gene expression levels and invasiveness across
+  the 13 cell lines. d Transcriptional activity of TEAD proteins was measured in the
+  13-cell line panel in triplicates by a cell-based luciferase reporter assay. The
+  luminescence values were normalized to the log2 fold changes over the WTOE values.
+  The difference between a group of two more invasive cells (R273C and Y220C) and
+  four less invasive cells (Y234C, WT, H179R, and G245S) was tested by the two-sided
+  Student’s t-test. Pearson’s correlation between the normalized TEAD activities and
+  the invasiveness across the cell lines was also calculated (bottom box).
+article_title: Multidimensional quantitative phenotypic and molecular analysis reveals
+  neomorphic behaviors of p53 missense mutants.
+citation: Anasuya Pal, et al. NPJ Breast Cancer. 2023;9:78.
+
+doi: 10.1038/s41523-023-00582-7
+journal_title: NPJ Breast Cancer
+journal_nlm_ta: NPJ Breast Cancer
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Breast cancer
+- Oncogenes
+- Mechanisms of disease
+- Tumour heterogeneity
+
+---
