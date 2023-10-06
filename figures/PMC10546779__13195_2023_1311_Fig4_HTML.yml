@@ -1,4 +1,3 @@
----
 pmcid: PMC10546779
 image_filename: 13195_2023_1311_Fig4_HTML.jpg
 figure_link: /pmc/articles/PMC10546779/figure/Fig4/
@@ -30,12 +29,10 @@ caption: 'Identification of 326 phagocytic AD MG DEGs and relevant function. A F
 article_title: Identification of methylation-regulated genes modulating microglial
   phagocytosis in hyperhomocysteinemia-exacerbated Alzheimer’s disease.
 citation: Xianwei Wang, et al. Alzheimers Res Ther. 2023;15:164.
-
 doi: 10.1186/s13195-023-01311-9
 journal_title: Alzheimer's Research & Therapy
 journal_nlm_ta: Alzheimers Res Ther
 publisher_name: BioMed Central
-
 keywords:
 - Alzheimer’s
 - Hyperhomocysteinemia
@@ -43,5 +40,7 @@ keywords:
 - Phagocytosis
 - Hypomethylation
 - Amyloid β
-
----
+status: 'Identification of methylation-regulated genes modulating microglial phagocytosis
+  in hyperhomocysteinemia-exacerbated Alzheimer’s disease. https://doi.org/10.1186/s13195-023-01311-9
+  #Alzheimer’s #Hyperhomocysteinemia #Microglia #Phagocytosis #Hypomethylation'
+media: PMC10546779__13195_2023_1311_Fig4_HTML.jpg
