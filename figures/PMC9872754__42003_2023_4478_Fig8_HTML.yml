@@ -1,4 +1,3 @@
----
 pmcid: PMC9872754
 image_filename: 42003_2023_4478_Fig8_HTML.jpg
 figure_link: /pmc/articles/PMC9872754/figure/Fig8/
@@ -15,14 +14,14 @@ caption: The figures show the enrichment ratio of the same WikiPathway involving
 article_title: Comparative transcriptomics reveals highly conserved regional programs
   between porcine and human colonic enteric nervous system.
 citation: Tao Li, et al. Commun Biol. 2023;6:98.
-
 doi: 10.1038/s42003-023-04478-x
 journal_title: Communications Biology
 journal_nlm_ta: Commun Biol
 publisher_name: Nature Publishing Group UK
-
 keywords:
 - Enteric nervous system
 - Gastrointestinal models
-
----
+status: 'Comparative transcriptomics reveals highly conserved regional programs between
+  porcine and human colonic enteric nervous system. https://doi.org/10.1038/s42003-023-04478-x
+  #EntericNervousSystem #GastrointestinalModels'
+media: PMC9872754__42003_2023_4478_Fig8_HTML.jpg

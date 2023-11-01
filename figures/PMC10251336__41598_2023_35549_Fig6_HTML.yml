@@ -1,4 +1,3 @@
----
 pmcid: PMC10251336
 image_filename: 41598_2023_35549_Fig6_HTML.jpg
 figure_link: /pmc/articles/PMC10251336/figure/Fig6/
@@ -16,14 +15,14 @@ caption: Genes activated in the absence of GR-RNA binding enrich for GR and NR p
 article_title: RNA binding by the glucocorticoid receptor attenuates dexamethasone-induced
   gene activation.
 citation: Nickolaus C. Lammer, et al. Sci Rep. 2023;13:9385.
-
 doi: 10.1038/s41598-023-35549-y
 journal_title: Scientific Reports
 journal_nlm_ta: Sci Rep
 publisher_name: Nature Publishing Group UK
-
 keywords:
 - Computational biology and bioinformatics
 - Molecular biology
-
----
+status: 'RNA binding by the glucocorticoid receptor attenuates dexamethasone-induced
+  gene activation. https://doi.org/10.1038/s41598-023-35549-y #ComputationalBiologyAndBioinformatics
+  #MolecularBiology'
+media: PMC10251336__41598_2023_35549_Fig6_HTML.jpg

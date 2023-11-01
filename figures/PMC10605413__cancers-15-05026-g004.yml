@@ -1,4 +1,3 @@
----
 pmcid: PMC10605413
 image_filename: cancers-15-05026-g004.jpg
 figure_link: /pmc/articles/PMC10605413/figure/cancers-15-05026-f004/
@@ -15,17 +14,17 @@ caption: Differential gene expression analysis between male and female patients 
 article_title: Sex as a Predictor of Response to Immunotherapy in Advanced Cutaneous
   Squamous Cell Carcinoma.
 citation: Nicholas Yeo, et al. Cancers (Basel). 2023 Oct;15(20):5026.
-
 doi: 10.3390/cancers15205026
 journal_title: Cancers
 journal_nlm_ta: Cancers (Basel)
 publisher_name: MDPI
-
 keywords:
 - cutaneous squamous cell cancer
 - immunotherapy
 - sex
 - t-cell
 - biomarkers
-
----
+status: 'Sex as a Predictor of Response to Immunotherapy in Advanced Cutaneous Squamous
+  Cell Carcinoma. https://doi.org/10.3390/cancers15205026 #CutaneousSquamousCellCancer
+  #Immunotherapy #Sex #TCell #Biomarkers'
+media: PMC10605413__cancers-15-05026-g004.jpg

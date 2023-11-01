@@ -1,4 +1,3 @@
----
 pmcid: PMC10068260
 image_filename: gr6.jpg
 figure_link: /pmc/articles/PMC10068260/figure/fig6/
@@ -11,12 +10,10 @@ caption: The Wnt-signaling pathway is downregulated after SD at all ages but mor
   color in this figure legend, the reader is referred to the Web version of this article.)
 article_title: Ontogenesis of the molecular response to sleep loss.
 citation: Christine M. Muheim, et al. Neurobiol Sleep Circadian Rhythms. 2023 May;14:100092.
-
 doi: 10.1016/j.nbscr.2023.100092
 journal_title: Neurobiology of Sleep and Circadian Rhythms
 journal_nlm_ta: Neurobiol Sleep Circadian Rhythms
 publisher_name: Elsevier
-
 keywords:
 - RNA
 - Gene
@@ -24,5 +21,6 @@ keywords:
 - Sleep deprivation
 - Postnatal
 - Sleep regulation
-
----
+status: 'Ontogenesis of the molecular response to sleep loss. https://doi.org/10.1016/j.nbscr.2023.100092
+  #Rna #Gene #Molecular #SleepDeprivation #Postnatal'
+media: PMC10068260__gr6.jpg

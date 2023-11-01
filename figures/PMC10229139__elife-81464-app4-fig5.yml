@@ -1,4 +1,3 @@
----
 pmcid: PMC10229139
 image_filename: elife-81464-app4-fig5.jpg
 figure_link: /pmc/articles/PMC10229139/figure/app4fig5/
@@ -9,12 +8,10 @@ caption: KEGG:01232, WP4290, and WP4022 are enriched in all of the five lung can
   cell lines.
 article_title: Applying causal discovery to single-cell analyses using CausalCell.
 citation: Yujian Wen, et al. eLife. 2023;12:e81464.
-
 doi: 10.7554/eLife.81464
 journal_title: eLife
 journal_nlm_ta: eLife
 publisher_name: eLife Sciences Publications, Ltd
-
 keywords:
 - causal analysis
 - causal relationship
@@ -24,5 +21,6 @@ keywords:
 - single-cell analysis
 - Human
 - Mouse
-
----
+status: 'Applying causal discovery to single-cell analyses using CausalCell. https://doi.org/10.7554/eLife.81464
+  #CausalAnalysis #CausalRelationship #FeatureSelection #NetworkInference #ScrnaSeq'
+media: PMC10229139__elife-81464-app4-fig5.jpg

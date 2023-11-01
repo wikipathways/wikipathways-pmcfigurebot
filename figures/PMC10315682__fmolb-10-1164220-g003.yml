@@ -1,4 +1,3 @@
----
 pmcid: PMC10315682
 image_filename: fmolb-10-1164220-g003.jpg
 figure_link: /pmc/articles/PMC10315682/figure/F3/
@@ -12,17 +11,18 @@ caption: PPI network, analysis of key modules, and identification of hub genes. 
 article_title: Bioinformatic and systems biology approach revealing the shared genes
   and molecular mechanisms between COVID-19 and non-alcoholic hepatitis.
 citation: Huishuang Lu, et al. Front Mol Biosci. 2023;10:1164220.
-
 doi: 10.3389/fmolb.2023.1164220
 journal_title: Frontiers in Molecular Biosciences
 journal_nlm_ta: Front Mol Biosci
 publisher_name: Frontiers Media S.A.
-
 keywords:
 - coronavirus disease 2019
 - non-alcoholic steatohepatitis
 - hub genes
 - network analysis
 - bioinformatics
-
----
+status: 'Bioinformatic and systems biology approach revealing the shared genes and
+  molecular mechanisms between COVID-19 and non-alcoholic hepatitis. https://doi.org/10.3389/fmolb.2023.1164220
+  #CoronavirusDisease2019 #NonAlcoholicSteatohepatitis #HubGenes #NetworkAnalysis
+  #Bioinformatics'
+media: PMC10315682__fmolb-10-1164220-g003.jpg

@@ -1,4 +1,3 @@
----
 pmcid: PMC10157367
 image_filename: 1144fig6.jpg
 figure_link: /pmc/articles/PMC10157367/figure/fig6/
@@ -15,11 +14,11 @@ caption: Evaluation of M+2+6− cells in scRNA-seq datasets of DLBCL. A, Uniform
 article_title: Patterns of Oncogene Coexpression at Single-Cell Resolution Influence
   Survival in Lymphoma.
 citation: Michal Marek Hoppe, et al. Cancer Discov. 2023 May 4;13(5):1144-1163.
-
 doi: 10.1158/2159-8290.CD-22-0998
 journal_title: Cancer Discovery
 journal_nlm_ta: Cancer Discov
 publisher_name: American Association for Cancer Research
-
-keywords:
----
+keywords: ~
+status: 'Patterns of Oncogene Coexpression at Single-Cell Resolution Influence Survival
+  in Lymphoma. https://doi.org/10.1158/2159-8290.CD-22-0998 '
+media: PMC10157367__1144fig6.jpg

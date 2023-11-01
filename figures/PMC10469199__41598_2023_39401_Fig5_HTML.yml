@@ -1,4 +1,3 @@
----
 pmcid: PMC10469199
 image_filename: 41598_2023_39401_Fig5_HTML.jpg
 figure_link: /pmc/articles/PMC10469199/figure/Fig5/
@@ -22,15 +21,15 @@ caption: Integrated multi-omics data analysis and functional enrichment analysis
 article_title: Integrated multi-omics analysis reveals the molecular interplay between
   circadian clocks and cancer pathogenesis.
 citation: Andy Pérez-Villa, et al. Sci Rep. 2023;13:14198.
-
 doi: 10.1038/s41598-023-39401-1
 journal_title: Scientific Reports
 journal_nlm_ta: Sci Rep
 publisher_name: Nature Publishing Group UK
-
 keywords:
 - Cancer genomics
 - Biomarkers
 - Data integration
-
----
+status: 'Integrated multi-omics analysis reveals the molecular interplay between circadian
+  clocks and cancer pathogenesis. https://doi.org/10.1038/s41598-023-39401-1 #CancerGenomics
+  #Biomarkers #DataIntegration'
+media: PMC10469199__41598_2023_39401_Fig5_HTML.jpg

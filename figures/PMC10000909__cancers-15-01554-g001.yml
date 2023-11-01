@@ -1,4 +1,3 @@
----
 pmcid: PMC10000909
 image_filename: cancers-15-01554-g001.jpg
 figure_link: /pmc/articles/PMC10000909/figure/cancers-15-01554-f001/
@@ -13,12 +12,10 @@ caption: Bioinformatics analysis of circRNAs in CLL samples. (A) Heatmap demonst
 article_title: Circular RNA Expression Signatures Provide Promising Diagnostic and
   Therapeutic Biomarkers for Chronic Lymphocytic Leukemia.
 citation: Ehsan Gharib, et al. Cancers (Basel). 2023 Mar;15(5):1554.
-
 doi: 10.3390/cancers15051554
 journal_title: Cancers
 journal_nlm_ta: Cancers (Basel)
 publisher_name: MDPI
-
 keywords:
 - cancer
 - chronic lymphocytic leukemia
@@ -26,5 +23,7 @@ keywords:
 - diagnosis
 - prognosis
 - drug sensitivity prediction
-
----
+status: 'Circular RNA Expression Signatures Provide Promising Diagnostic and Therapeutic
+  Biomarkers for Chronic Lymphocytic Leukemia. https://doi.org/10.3390/cancers15051554
+  #Cancer #ChronicLymphocyticLeukemia #CircularRna #Diagnosis #Prognosis'
+media: PMC10000909__cancers-15-01554-g001.jpg

@@ -1,4 +1,3 @@
----
 pmcid: PMC10558435
 image_filename: 41598_2023_44183_Fig4_HTML.jpg
 figure_link: /pmc/articles/PMC10558435/figure/Fig4/
@@ -16,15 +15,15 @@ caption: Lipid metabolism gene module deconvolution. (A) Heatmap showing the lip
 article_title: Deconvolution reveals cell-type-specific transcriptomic changes in
   the aging mouse brain.
 citation: Yingxue Ren, et al. Sci Rep. 2023;13:16855.
-
 doi: 10.1038/s41598-023-44183-7
 journal_title: Scientific Reports
 journal_nlm_ta: Sci Rep
 publisher_name: Nature Publishing Group UK
-
 keywords:
 - Computational biology and bioinformatics
 - Computational neuroscience
 - Genome informatics
-
----
+status: 'Deconvolution reveals cell-type-specific transcriptomic changes in the aging
+  mouse brain. https://doi.org/10.1038/s41598-023-44183-7 #ComputationalBiologyAndBioinformatics
+  #ComputationalNeuroscience #GenomeInformatics'
+media: PMC10558435__41598_2023_44183_Fig4_HTML.jpg

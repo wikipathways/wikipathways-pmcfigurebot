@@ -1,4 +1,3 @@
----
 pmcid: PMC10573217
 image_filename: ijms-24-14938-g002.jpg
 figure_link: /pmc/articles/PMC10573217/figure/ijms-24-14938-f002/
@@ -18,12 +17,10 @@ article_title: Proteomics Profiling of Bladder Cancer Tissues from Early to Adva
   Stages Reveals NNMT and GALK1 as Biomarkers for Early Detection and Prognosis of
   BCa.
 citation: Katarina Davalieva, et al. Int J Mol Sci. 2023 Oct;24(19):14938.
-
 doi: 10.3390/ijms241914938
 journal_title: International Journal of Molecular Sciences
 journal_nlm_ta: Int J Mol Sci
 publisher_name: MDPI
-
 keywords:
 - bladder cancer
 - tissue
@@ -32,5 +29,7 @@ keywords:
 - LC-MS/MS
 - proteomics
 - ELISA
-
----
+status: 'Proteomics Profiling of Bladder Cancer Tissues from Early to Advanced Stages
+  Reveals NNMT and GALK1 as Biomarkers for Early Detection and Prognosis of BCa. https://doi.org/10.3390/ijms241914938
+  #BladderCancer #Tissue #Urine #Biomarker #LcMs/Ms'
+media: PMC10573217__ijms-24-14938-g002.jpg

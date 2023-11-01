@@ -1,4 +1,3 @@
----
 pmcid: PMC10436058
 image_filename: gr4.jpg
 figure_link: /pmc/articles/PMC10436058/figure/fig4/
@@ -15,12 +14,10 @@ caption: Interrogation of VAE using ridge regression in portal hepatocyte respon
 article_title: Generative modeling of single-cell gene expression for dose-dependent
   chemical perturbations.
 citation: Omar Kana, et al. Patterns (N Y). 2023 Aug 11;4(8):100817.
-
 doi: 10.1016/j.patter.2023.100817
 journal_title: Patterns
 journal_nlm_ta: Patterns (N Y)
 publisher_name: Elsevier
-
 keywords:
 - deep learning
 - variational autoencoders
@@ -32,5 +29,7 @@ keywords:
 - single-cell RNA–seq
 - pharmacology
 - toxicology
-
----
+status: 'Generative modeling of single-cell gene expression for dose-dependent chemical
+  perturbations. https://doi.org/10.1016/j.patter.2023.100817 #DeepLearning #VariationalAutoencoders
+  #ChemicalPerturbation #DoseResponse #RiskAssessment'
+media: PMC10436058__gr4.jpg

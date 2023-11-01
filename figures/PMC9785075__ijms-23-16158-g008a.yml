@@ -1,4 +1,3 @@
----
 pmcid: PMC9785075
 image_filename: ijms-23-16158-g008a.jpg
 figure_link: .na.character
@@ -16,17 +15,16 @@ caption: Functional enrichment analysis with g:Profiler of DMRs obtained by segm
   the −Log10 (p value).
 article_title: Effect of Superovulation Treatment on Oocyte’s DNA Methylation.
 citation: Jordana S. Lopes, et al. Int J Mol Sci. 2022 Dec;23(24):16158.
-
 doi: 10.3390/ijms232416158
 journal_title: International Journal of Molecular Sciences
 journal_nlm_ta: Int J Mol Sci
 publisher_name: MDPI
-
 keywords:
 - oocyte
 - DNA methylation
 - ovarian stimulation
 - ART
 - epigenetics
-
----
+status: 'Effect of Superovulation Treatment on Oocyte’s DNA Methylation. https://doi.org/10.3390/ijms232416158
+  #Oocyte #DnaMethylation #OvarianStimulation #Art #Epigenetics'
+media: PMC9785075__ijms-23-16158-g008a.jpg

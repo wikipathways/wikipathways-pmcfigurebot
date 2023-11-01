@@ -1,4 +1,3 @@
----
 pmcid: PMC9865387
 image_filename: ijms-24-01359-g005.jpg
 figure_link: /pmc/articles/PMC9865387/figure/ijms-24-01359-f005/
@@ -14,12 +13,10 @@ caption: Effects of PERI administration on gene expression of the apoptosis sign
 article_title: Combined BCL-2 and PI3K/AKT Pathway Inhibition in KMT2A-Rearranged
   Acute B-Lymphoblastic Leukemia Cells.
 citation: Clemens Holz, et al. Int J Mol Sci. 2023 Jan;24(2):1359.
-
 doi: 10.3390/ijms24021359
 journal_title: International Journal of Molecular Sciences
 journal_nlm_ta: Int J Mol Sci
 publisher_name: MDPI
-
 keywords:
 - acute lymphoblastic leukemia
 - B-ALL
@@ -32,5 +29,7 @@ keywords:
 - idelalisib
 - MK-2206
 - perifosine
-
----
+status: 'Combined BCL-2 and PI3K/AKT Pathway Inhibition in KMT2A-Rearranged Acute
+  B-Lymphoblastic Leukemia Cells. https://doi.org/10.3390/ijms24021359 #AcuteLymphoblasticLeukemia
+  #BAll #Bcl2 #Venetoclax #Apoptosis'
+media: PMC9865387__ijms-24-01359-g005.jpg

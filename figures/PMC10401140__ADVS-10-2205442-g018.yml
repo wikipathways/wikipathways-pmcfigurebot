@@ -1,4 +1,3 @@
----
 pmcid: PMC10401140
 image_filename: ADVS-10-2205442-g018.jpg
 figure_link: /pmc/articles/PMC10401140/figure/advs5890-fig-0001/
@@ -15,16 +14,16 @@ caption: DEPF architecture. i) Multiple low‐dimensional representations of scR
 article_title: Reliable Identification and Interpretation of Single‐Cell Molecular
   Heterogeneity and Transcriptional Regulation using Dynamic Ensemble Pruning.
 citation: Yi Fan, et al. Adv Sci (Weinh). 2023 Aug;10(22):2205442.
-
 doi: 10.1002/advs.202205442
 journal_title: Advanced Science
 journal_nlm_ta: Adv Sci (Weinh)
 publisher_name: John Wiley and Sons Inc.
-
 keywords:
 - dynamic ensemble pruning
 - optimization direction
 - single‐cell RNA sequencing
 - unsupervised clustering
-
----
+status: 'Reliable Identification and Interpretation of Single‐Cell Molecular Heterogeneity
+  and Transcriptional Regulation using Dynamic Ensemble Pruning. https://doi.org/10.1002/advs.202205442
+  #DynamicEnsemblePruning #OptimizationDirection #Single‐CellRnaSequencing #UnsupervisedClustering'
+media: PMC10401140__ADVS-10-2205442-g018.jpg

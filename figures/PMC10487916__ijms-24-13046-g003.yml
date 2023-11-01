@@ -1,4 +1,3 @@
----
 pmcid: PMC10487916
 image_filename: ijms-24-13046-g003.jpg
 figure_link: /pmc/articles/PMC10487916/figure/ijms-24-13046-f003/
@@ -13,17 +12,17 @@ caption: miRNA–mRNA network based on the target genes of miR-141-3p, miR-150-5
 article_title: Deregulated miRNA Expression in Triple-Negative Breast Cancer of Ancestral
   Genomic-Characterized Latina Patients.
 citation: Maram Almohaywi, et al. Int J Mol Sci. 2023 Sep;24(17):13046.
-
 doi: 10.3390/ijms241713046
 journal_title: International Journal of Molecular Sciences
 journal_nlm_ta: Int J Mol Sci
 publisher_name: MDPI
-
 keywords:
 - triple-negative breast cancer
 - Latinas
 - copy number alterations
 - microRNA
 - miRNA
-
----
+status: 'Deregulated miRNA Expression in Triple-Negative Breast Cancer of Ancestral
+  Genomic-Characterized Latina Patients. https://doi.org/10.3390/ijms241713046 #TripleNegativeBreastCancer
+  #Latinas #CopyNumberAlterations #Microrna #Mirna'
+media: PMC10487916__ijms-24-13046-g003.jpg

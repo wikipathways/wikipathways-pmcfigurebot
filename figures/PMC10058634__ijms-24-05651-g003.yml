@@ -1,4 +1,3 @@
----
 pmcid: PMC10058634
 image_filename: ijms-24-05651-g003.jpg
 figure_link: /pmc/articles/PMC10058634/figure/ijms-24-05651-f003/
@@ -10,12 +9,10 @@ article_title: 'Shared Genes of PPARG and NOS2 in Alzheimer’s Disease and Ulce
   Colitis Drive Macrophages and Microglia Polarization: Evidence from Bioinformatics
   Analysis and Following Validation.'
 citation: Longcong Dong, et al. Int J Mol Sci. 2023 Mar;24(6):5651.
-
 doi: 10.3390/ijms24065651
 journal_title: International Journal of Molecular Sciences
 journal_nlm_ta: Int J Mol Sci
 publisher_name: MDPI
-
 keywords:
 - Alzheimer’s disease
 - ulcerative colitis
@@ -23,5 +20,8 @@ keywords:
 - NOS2
 - shared gene
 - bioinformatics
-
----
+status: 'Shared Genes of PPARG and NOS2 in Alzheimer’s Disease and Ulcerative Colitis
+  Drive Macrophages and Microglia Polarization: Evidence from Bioinformatics Analysis
+  and Following Validation. https://doi.org/10.3390/ijms24065651 #Alzheimer’sDisease
+  #UlcerativeColitis #Pparg #Nos2 #SharedGene'
+media: PMC10058634__ijms-24-05651-g003.jpg

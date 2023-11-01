@@ -1,4 +1,3 @@
----
 pmcid: PMC10491796
 image_filename: gr5.jpg
 figure_link: /pmc/articles/PMC10491796/figure/fig5/
@@ -15,12 +14,10 @@ article_title: Oxidative stress mediates the inhibitory effects of Manzamine A o
   uterine leiomyoma cell proliferation and extracellular matrix deposition via SOAT
   inhibition.
 citation: Li-Chun Lin, et al. Redox Biol. 2023 Oct;66:102861.
-
 doi: 10.1016/j.redox.2023.102861
 journal_title: Redox Biology
 journal_nlm_ta: Redox Biol
 publisher_name: Elsevier
-
 keywords:
 - Manzamine A
 - Uterine fibroid
@@ -28,5 +25,8 @@ keywords:
 - Cholesterol esterification
 - Oxidative stress
 - ER stress
-
----
+status: 'Oxidative stress mediates the inhibitory effects of Manzamine A on uterine
+  leiomyoma cell proliferation and extracellular matrix deposition via SOAT inhibition.
+  https://doi.org/10.1016/j.redox.2023.102861 #ManzamineA #UterineFibroid #Soat #CholesterolEsterification
+  #OxidativeStress'
+media: PMC10491796__gr5.jpg
