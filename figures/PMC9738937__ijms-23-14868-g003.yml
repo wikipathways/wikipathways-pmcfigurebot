@@ -1,0 +1,40 @@
+---
+pmcid: PMC9738937
+image_filename: ijms-23-14868-g003.jpg
+figure_link: /pmc/articles/PMC9738937/figure/ijms-23-14868-f003/
+number: Figure 3
+figure_title: ''
+caption: 'GO annotation and WikiPathways analysis of DEGs. (A–C) Dot plots including
+  GO molecular functions associated with the 20 most significant DEGs in the CC during
+  demyelination: (A) Comparison of controls to 4-week cuprizone-treated mice, and
+  from early demyelination or late demyelination to remyelination; (B) 2-week-treated
+  mice compared to remyelination; (C) 4-week-treated mice compared to remyelination.
+  In these graphs, dot size shows the number of DEGs for each GO function, the -log10
+  of the p-value for over-represented significant GO terms is illustrated, and the
+  color gradation expresses the amount of DEGs in the set divided by the total number
+  of genes within the GO term. (D–H) Dot plots of the significantly expressed functions
+  of WikiPathways associated with the DEGs identified in the CC (D) and OPCs after
+  4 weeks of cuprizone treatment (E), and with the common DEGs identified in the CC
+  and OPC analysis (F). Wikipathways associated with DEGs detected in the CC at early
+  and late demyelination compared to remyelinating CC were analyzed for (G) 2-week-treated
+  mice compared to remyelination and (H) 4-week-treated mice compared to remyelination.
+  In these graphs, the x-axis represents the number of DEGs in the differential expression
+  set divided by the number of genes in the pathway. Color scale shows the adjusted
+  p-value. Dot size illustrates the number of genes for each pathway.'
+article_title: Deciphering the Genetic Crosstalk between Microglia and Oligodendrocyte
+  Precursor Cells during Demyelination and Remyelination Using Transcriptomic Data.
+citation: Jennifer Enrich-Bengoa, et al. Int J Mol Sci. 2022 Dec;23(23):14868.
+
+doi: 10.3390/ijms232314868
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- corpus callosum
+- cuprizone
+- demyelination
+- oligodendrocytes
+- microglia
+
+---

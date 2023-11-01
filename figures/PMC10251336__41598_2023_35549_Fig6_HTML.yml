@@ -1,0 +1,29 @@
+---
+pmcid: PMC10251336
+image_filename: 41598_2023_35549_Fig6_HTML.jpg
+figure_link: /pmc/articles/PMC10251336/figure/Fig6/
+number: Figure 6
+figure_title: ''
+caption: Genes activated in the absence of GR-RNA binding enrich for GR and NR pathways
+  or specific chromosomes. (A,B) Enrichr gene set analysis with sets of interest for
+  ChEA TF targets, WikiPathways (A), and chromosome (B). Plotted are the top three
+  terms in each category based on the adjusted p-value. The pathway terms are shortened
+  to fit in the plot. “Activated” refers to genes uniquely activated at 1, 2, or 3 h
+  of 100 nM dexamethasone treatment. The dashed gray line indicates an adjusted p-value = 0.05.
+  (C) Regions of chromosomal enrichment of SoF Dex-ind. genes based on output from
+  the Positional Gene Enrichment tool. Chromosomes 3, 7, and 8 are shown. Blue bars
+  indicate enriched regions and their associated FDR-adjusted p-values are shown.
+article_title: RNA binding by the glucocorticoid receptor attenuates dexamethasone-induced
+  gene activation.
+citation: Nickolaus C. Lammer, et al. Sci Rep. 2023;13:9385.
+
+doi: 10.1038/s41598-023-35549-y
+journal_title: Scientific Reports
+journal_nlm_ta: Sci Rep
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Computational biology and bioinformatics
+- Molecular biology
+
+---

@@ -1,0 +1,30 @@
+---
+pmcid: PMC10500015
+image_filename: 41598_2023_42209_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC10500015/figure/Fig4/
+number: Figure 4
+figure_title: ''
+caption: '(a) The shared terms enriched between up-regulated SDEGs and TFs targeted
+  SDEGs. (b) The shared terms enriched between down-regulated SDEGs and TFs targeted
+  SDEGs. A: Reactome Gene Sets; B: KEGG Pathway; C: WikiPathways; D: Canonical Pathways;
+  ALPHA: adaptive immune response based on somatic recombination of immune receptors
+  built from immunoglobulin superfamily domains; BETA: immune response-regulating
+  cell surface receptor signaling pathway; THETA: immune response-activating cell
+  surface receptor signaling pathway; DELTA: immunoregulatory interactions between
+  a Lymphoid and a non-Lymphoid cell.'
+article_title: Exploration of common genomic signatures of systemic juvenile rheumatoid
+  arthritis and type 1 diabetes.
+citation: Jie Zheng, et al. Sci Rep. 2023;13:15121.
+
+doi: 10.1038/s41598-023-42209-8
+journal_title: Scientific Reports
+journal_nlm_ta: Sci Rep
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Innate immunity
+- Functional clustering
+- Paediatric rheumatic diseases
+- Type 1 diabetes
+
+---

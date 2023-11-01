@@ -1,0 +1,30 @@
+---
+pmcid: PMC10425199
+image_filename: ciad268f6.jpg
+figure_link: /pmc/articles/PMC10425199/figure/ciad268-F6/
+number: Figure 6
+figure_title: ''
+caption: Three extracted subnetworks from the weighted gene coexpression network analysis
+  enrichment results. Nodes represent the biological function, where edges indicate
+  significant overlap of genes associated with the biological functions. Pathways
+  listed are from Gene Ontology, Reactome, Wikipathways, and Kyoto Encyclopedia of
+  Genes and Genomes. A, Subnetwork of biological pathways related to the defense response
+  to bacteria. B, Subnetwork of responses related to the interaction of the host and
+  symbiont cells. C, Subnetwork of cellular responses to molecules of bacterial origins.
+  D, Barplot of select pathways plotted against their gProfiler P value [].
+article_title: 'Gene Expression in Cord Blood and Tuberculosis in Early Childhood:
+  A Nested Case-Control Study in a South African Birth Cohort.'
+citation: Carly A Bobak, et al. Clin Infect Dis. 2023 Aug 1;77(3):438-449.
+
+doi: 10.1093/cid/ciad268
+journal_title: 'Clinical Infectious Diseases: An Official Publication of the Infectious
+  Diseases Society of America'
+journal_nlm_ta: Clin Infect Dis
+publisher_name: Oxford University Press
+
+keywords:
+- tuberculosis
+- pediatrics
+- transcriptomics
+
+---

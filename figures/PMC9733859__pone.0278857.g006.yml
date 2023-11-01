@@ -1,0 +1,25 @@
+---
+pmcid: PMC9733859
+image_filename: pone.0278857.g006.jpg
+figure_link: /pmc/articles/PMC9733859/figure/pone.0278857.g006/
+number: Fig 6
+figure_title: Functional groups in ClueGO overview
+caption: The pie charts present functional groups for analyzed genes, based on GO,
+  KEGG, Reactome and WikiPathways annotation by ClueGO Cytoscape plug-in, then clustered
+  into STRING action enriched (a), combined score (b), database score (c), and textmining
+  (d) categories. The name of the group is given by the group leading term (the most
+  significant term in the group). The group sections correlate with the number of
+  the terms included in the group. Network structure of functional groups is calculated
+  on kappa Score, which shows the relationships between the terms based on their overlapping
+  genes.
+article_title: 'The impact of modifier genes on cone-rod dystrophy heterogeneity:
+  An explorative familial pilot study and a hypothesis on neurotransmission impairment.'
+citation: Luigi Donato, et al. PLoS One. 2022;17(12):e0278857.
+
+doi: 10.1371/journal.pone.0278857
+journal_title: PLOS ONE
+journal_nlm_ta: PLoS One
+publisher_name: Public Library of Science
+
+keywords:
+---

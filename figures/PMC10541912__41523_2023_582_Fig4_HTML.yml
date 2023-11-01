@@ -1,3 +1,4 @@
+---
 pmcid: PMC10541912
 image_filename: 41523_2023_582_Fig4_HTML.jpg
 figure_link: /pmc/articles/PMC10541912/figure/Fig4/
@@ -13,16 +14,16 @@ caption: For the top 15 phenotype-associated pathways for each phenotype selecte
 article_title: Multidimensional quantitative phenotypic and molecular analysis reveals
   neomorphic behaviors of p53 missense mutants.
 citation: Anasuya Pal, et al. NPJ Breast Cancer. 2023;9:78.
+
 doi: 10.1038/s41523-023-00582-7
 journal_title: NPJ Breast Cancer
 journal_nlm_ta: NPJ Breast Cancer
 publisher_name: Nature Publishing Group UK
+
 keywords:
 - Breast cancer
 - Oncogenes
 - Mechanisms of disease
 - Tumour heterogeneity
-status: 'Multidimensional quantitative phenotypic and molecular analysis reveals neomorphic
-  behaviors of p53 missense mutants. https://doi.org/10.1038/s41523-023-00582-7 #BreastCancer
-  #Oncogenes #MechanismsOfDisease #TumourHeterogeneity'
-media: PMC10541912__41523_2023_582_Fig4_HTML.jpg
+
+---

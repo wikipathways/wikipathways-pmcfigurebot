@@ -1,0 +1,26 @@
+---
+pmcid: PMC10426763
+image_filename: nihms-1915768-f0013.jpg
+figure_link: /pmc/articles/PMC10426763/figure/F13/
+number: Extended Data Fig. 7 |
+figure_title: Macrophage diversity in recovery
+caption: (A) Gene set z-scores for top gene markers for each cell state plotted in
+  the UMAP embedding. (B) Enrich GO using compareclusters from cluster Prolifer across
+  macrophage cell states. P-value calculated using Fisher exact test. (C) WikiPathways
+  enriched in cardiac recovery. P-value calculated using Fisher exact test. (D) Paired
+  comparison of Mac 2 cluster composition at patient level split by U and RR group
+  from biologically independent samples. (E) DoRothEA TF enrichment analysis in U-post
+  and RR-post zoomed in on some key differentially enriched TFs. (F) Overlap between
+  Runx1 target genes and DE genes between U-pre and RR-pre with heatmap of respective
+  genes split by condition.
+article_title: Defining cardiac functional recovery in end-stage heart failure at
+  single-cell resolution.
+citation: Junedh M. Amrute, et al. Nat Cardiovasc Res. ;2(4):399-416.
+
+doi: 10.1038/s44161-023-00260-8
+journal_title: Nature cardiovascular research
+journal_nlm_ta: Nat Cardiovasc Res
+publisher_name: ''
+
+keywords:
+---

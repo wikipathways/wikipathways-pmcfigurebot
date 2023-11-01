@@ -1,0 +1,32 @@
+---
+pmcid: PMC9785075
+image_filename: ijms-23-16158-g008a.jpg
+figure_link: .na.character
+number: ''
+figure_title: Figure 8
+caption: Functional enrichment analysis with g:Profiler of DMRs obtained by segmenting
+  the genome in hypermethylated and hypomethylated domains for two treatments (stimulated
+  and non-stimulated animals). Manhattan plot of g:Profiler enrichment results obtained
+  for unmerged (a) and merged (b) conditions. GO (Molecular Function – MF, red colour;
+  Biological Process – BP, orange colour; and Cellular Component – CC, green colour),
+  KEGG (pink colour), Reactome (navy blue colour), and WikiPathways (light blue colour)
+  databases were used for the analysis. Only terms with a p value < 0.05 are shown
+  in the graph. The table below shows the most representative terms for each analysis
+  group (where applicable), and the statistical value for each term is indicated by
+  the −Log10 (p value).
+article_title: Effect of Superovulation Treatment on Oocyte’s DNA Methylation.
+citation: Jordana S. Lopes, et al. Int J Mol Sci. 2022 Dec;23(24):16158.
+
+doi: 10.3390/ijms232416158
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- oocyte
+- DNA methylation
+- ovarian stimulation
+- ART
+- epigenetics
+
+---

@@ -1,0 +1,29 @@
+---
+pmcid: PMC9727124
+image_filename: 41416_2022_2005_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC9727124/figure/Fig5/
+number: Fig. 5
+figure_title: IIH-FH profile could predict response to CPIs
+caption: 'a Second cohort immune microenvironment description based on combined RNA
+  sequencing and IHC analyses. b Gene Set Enrichment Analysis of IIH-FH and IIL-FL
+  groups according to FDR < 5% (q-value: <0.05). Green: pathways enriched in IIL-FL.
+  Burgundy: pathways enriched in the IIH-FH. c Volcano plot showing differential gene
+  expression analysis between IIH-FH and IIL-FL groups. d Gene Ontology biological
+  process enrichment analysis of the 626 differentially expressed genes recognised
+  between IIH-FH and IIL-FL groups. e Functional enrichment analysis (WikiPathways)
+  of the 626 differentially expressed genes recognised between the IIH-FH and IIL-FL
+  groups.'
+article_title: Integrative immune transcriptomic classification improves patient selection
+  for precision immunotherapy in advanced gastro-oesophageal adenocarcinoma.
+citation: Manuel Cabeza-Segura, et al. Br J Cancer. 2022 Dec 7;127(12):2198-2206.
+
+doi: 10.1038/s41416-022-02005-z
+journal_title: British Journal of Cancer
+journal_nlm_ta: Br J Cancer
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Cancer microenvironment
+- Gastric cancer
+
+---

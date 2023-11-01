@@ -1,0 +1,37 @@
+---
+pmcid: PMC10217403
+image_filename: cells-12-01437-g002.jpg
+figure_link: /pmc/articles/PMC10217403/figure/cells-12-01437-f002/
+number: Figure 2
+figure_title: ''
+caption: 'Functional Enrichment Analysis for RTT and RTT-L Genes: (A) A gene-set-based
+  enrichment analysis results for RTT (N1 = 4) and RTT-L (N2 = 58) genes together
+  using the Gene Ontology (biological process), pathway databases (KEGG, REACTOME,
+  and WIKIPATHWAYS) and regulatory motifs databases (transcription factors and microRNA).
+  The X-axis represents the number of overlapping genes from our given gene sets in
+  each enrichment term. The dot size highlights the enrichment statistics (p-values)
+  for each term, and the dot color represents the source of each term in the respective
+  databases. (B) The RTT and RTT-L genes are highlighted in one of the well-documented
+  WikiPathways (WP4312) for Rett-syndrome-causing genes—Homo sapiens. We identified
+  a total of 5 genes (highlighted in cyan color) that are part of the PPIN, which
+  share common interaction with both RTT and RTT-L genes (as shown in A). Genes such
+  as HDAC1 and CHD4 play a central role in the underline pathway.'
+article_title: Genetic and Protein Network Underlying the Convergence of Rett-Syndrome-like
+  (RTT-L) Phenotype in Neurodevelopmental Disorders.
+citation: Eric Frankel, et al. Cells. 2023 May;12(10):1437.
+
+doi: 10.3390/cells12101437
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- Rett syndrome
+- atypical RTT syndrome
+- Rett-syndrome-like phenotype
+- methyl-CpG-binding protein 2
+- neurodevelopmental disorders
+- overlapping phenotype
+- protein–protein interaction network
+
+---

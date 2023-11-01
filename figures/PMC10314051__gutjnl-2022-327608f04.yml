@@ -1,0 +1,33 @@
+---
+pmcid: PMC10314051
+image_filename: gutjnl-2022-327608f04.jpg
+figure_link: /pmc/articles/PMC10314051/figure/F4/
+number: Figure 4
+figure_title: ''
+caption: Key biological pathways associated with advancing histology in epithelial
+  and stromal compartments. AOIs are ordered by segment, region and by sample ID.
+  Unsupervised clustering of gene set enrichment scores (ssGSEA) calculated using
+  gene sets from the WikiPathways database. All pathways with a significant association
+  with histology, either in PanCK or Vimentin segments, are included (FDR<0.05). Main
+  clusters of identified pathways are indicated with white horizontal lines. The corresponding
+  Spearman correlation coefficient, Rho, between histology as ordinal variable and
+  the enrichment scores are indicated for each pathway in PanCK and Vimentin segments
+  separately (dotted heatmap). FDR is calculated using Benjamini-Hochberg method.
+  An unsupervised version of this heatmap, using unsupervised clustering for both
+  rows and columns, is included as . AOI, area of illumination; FDR, false discovery
+  rate; PanCK, pan-cytokeratin; ssGSEA, single sample gene set enrichment.
+article_title: Transcriptomic and immunophenotypic profiling reveals molecular and
+  immunological hallmarks of colorectal cancer tumourigenesis.
+citation: Jessica Roelands, et al. Gut. 2023 Jul;72(7):1326-1339.
+
+doi: 10.1136/gutjnl-2022-327608
+journal_title: Gut
+journal_nlm_ta: Gut
+publisher_name: BMJ Publishing Group
+
+keywords:
+- colorectal neogenesis
+- immunogenetics
+- gene expression
+
+---

@@ -1,0 +1,33 @@
+---
+pmcid: PMC10340580
+image_filename: cancers-15-03316-g008.jpg
+figure_link: /pmc/articles/PMC10340580/figure/cancers-15-03316-f008/
+number: Figure 8
+figure_title: ''
+caption: 'Enrichment pathway analysis of genes with SNVs that were significantly correlated
+  to 16S rRNA transcripts in HGSC and EEC. (A) Significantly enriched WikiPathways
+  for the genes with differential SNVs in the HGSC database, with predominance of
+  ciliary physiology, immune response to infection, including to E. coli, and signaling
+  pathways. (B) Significantly enriched WikiPathways for the genes with differential
+  SNVs in the EEC database, also with predominance of immune response to infection,
+  including to E. coli, lipid metabolism, and signaling pathways. ID: WikiPathways
+  ID (WP and number); p-value: significant FDR-adjusted p-values < 0.05; geneID: symbols
+  of genes correlated with 16S rRNA transcripts that are located in specified pathways.'
+article_title: Microbial Communities in Gynecological Cancers and Their Association
+  with Tumor Somatic Variation.
+citation: Jesus Gonzalez-Bosquet, et al. Cancers (Basel). 2023 Jul;15(13):3316.
+
+doi: 10.3390/cancers15133316
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- microbial communities
+- metagenomics
+- high grade serous ovarian cancer
+- endometrioid endometrial cancer
+- bacterial
+- single nucleotide variation
+
+---

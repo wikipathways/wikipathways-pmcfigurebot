@@ -1,0 +1,30 @@
+---
+pmcid: PMC10558435
+image_filename: 41598_2023_44183_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC10558435/figure/Fig4/
+number: Figure 4
+figure_title: ''
+caption: Lipid metabolism gene module deconvolution. (A) Heatmap showing the lipid
+  metabolism module genes in the five cell types. (B) Top GOs enriched in AS genes.
+  All 3 GO terms were based on Biological Processes (BP). (C) Top GOs enriched in
+  MG genes. Fatty acid metabolic process and Regulation of cholesterol metabolic process
+  were based on BP, while PPAR signaling pathway was based on WikiPathways. (D) Top
+  GOs enriched in OG genes based on BP. (E) Correlation network of selected module
+  genes from AS, MG and OG. (F) Dot plot showing gene fold changes of old versus young
+  animals from our deconvoluted data, Ximerakis et al., Allen et al., and Lee et al.
+  AS genes are denoted in dark blue, MG genes in pink, and OG genes in gold.
+article_title: Deconvolution reveals cell-type-specific transcriptomic changes in
+  the aging mouse brain.
+citation: Yingxue Ren, et al. Sci Rep. 2023;13:16855.
+
+doi: 10.1038/s41598-023-44183-7
+journal_title: Scientific Reports
+journal_nlm_ta: Sci Rep
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Computational biology and bioinformatics
+- Computational neuroscience
+- Genome informatics
+
+---

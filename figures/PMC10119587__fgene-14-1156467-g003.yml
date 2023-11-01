@@ -1,0 +1,32 @@
+---
+pmcid: PMC10119587
+image_filename: fgene-14-1156467-g003.jpg
+figure_link: /pmc/articles/PMC10119587/figure/F3/
+number: FIGURE 3
+figure_title: ''
+caption: Representative results of functional enrichment analysis enriched by 52 DE-FRGs.
+  (A) GO enrichment analysis. (B) KEGG pathway enrichment analysis. (C) Cellular processes
+  in KEGG pathway enrichment analysis. (D) Reactome pathway enrichment analysis. (E)
+  WikiPathways enrichment analysis. A In GO term, bubbles with square, round, and
+  triangle shapes stand for cellular component, biological process, and molecular
+  function, respectively. (A–E) The size of the bubble shows the number of enriched
+  genes. Red indicates smaller p-values and blue indicates larger p-values. All results
+  satisfy p < 0.05.
+article_title: Exploration and identification of six novel ferroptosis-related hub
+  genes as potential gene signatures for peripheral nerve injury.
+citation: Yifei Zhang, et al. Front Genet. 2023;14:1156467.
+
+doi: 10.3389/fgene.2023.1156467
+journal_title: Frontiers in Genetics
+journal_nlm_ta: Front Genet
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- peripheral nerve regeneration
+- ferroptosis
+- biomarker
+- bioinformatics
+- hub gene
+- peripheral nerve injury
+
+---

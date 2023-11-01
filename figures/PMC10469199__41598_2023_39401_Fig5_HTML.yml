@@ -1,0 +1,36 @@
+---
+pmcid: PMC10469199
+image_filename: 41598_2023_39401_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC10469199/figure/Fig5/
+number: Figure 5
+figure_title: ''
+caption: Integrated multi-omics data analysis and functional enrichment analysis.
+  (A) Heatmap of CR-cancer scores per multi-omics approach to prioritize the 31 essential
+  CR-related proteins significantly involved in cancer (cutoff > 0.9). (B) The functional
+  enrichment analysis displays the most significant annotations (Benjamini–Hochberg
+  FDR < 0.01) related to the GO biological processes (http://geneontology.org/), the
+  Reactome signaling pathways (https://reactome.org/), and the WikiPathways (https://www.wikipathways.org/)
+  on cancer. The results of this enrichment were visualized using a Manhattan plot
+  and were obtained through the g:Profiler software version e101_eg48_p14_baf17f0
+  (https://biit.cs.ut.ee/gprofiler/gost). (C) Overall survival analysis comparing
+  metastatic patients with genomic alterations in 10 essential CR-related genes (n = 15,194)
+  versus unaltered patients (n = 10,465). Unaltered patients had a median month average
+  (55.72) significantly higher than altered patients (31.64) showing a log rank test
+  P < 0.001. CR circadian rhythm, GO gene ontology, WP WikiPathways, BP biological
+  processes, FDR false discovery rate, MSK-MET Memorial Sloan Kettering–Metastatic
+  Events and Tropism, CI confidence intervals.
+article_title: Integrated multi-omics analysis reveals the molecular interplay between
+  circadian clocks and cancer pathogenesis.
+citation: Andy Pérez-Villa, et al. Sci Rep. 2023;13:14198.
+
+doi: 10.1038/s41598-023-39401-1
+journal_title: Scientific Reports
+journal_nlm_ta: Sci Rep
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Cancer genomics
+- Biomarkers
+- Data integration
+
+---

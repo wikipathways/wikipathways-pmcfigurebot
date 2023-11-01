@@ -1,0 +1,36 @@
+---
+pmcid: PMC10436058
+image_filename: gr4.jpg
+figure_link: /pmc/articles/PMC10436058/figure/fig4/
+number: Figure 4
+figure_title: ''
+caption: Interrogation of VAE using ridge regression in portal hepatocyte response
+  prediction(A) Schematic of calculation of latent dimension weights using ridge regression.(B)
+  Bar plot of top 20 genes with the highest scVIDR genes scores.(C) Enrichr analysis
+  of the top 100 genes with respect to the scVIDR gene scores. Bar plot of adjusted
+  p values from statistically significant (adjusted p value < 0.05) enriched pathways
+  from the WikiPathways 2019 Mouse Database.(D) PCA projection of single-cell expression
+  data colored by log dose and fatty acid oxidation pathway score.(E) Logistic fit
+  of median pathway score for each dose value. MAE, mean absolute error.
+article_title: Generative modeling of single-cell gene expression for dose-dependent
+  chemical perturbations.
+citation: Omar Kana, et al. Patterns (N Y). 2023 Aug 11;4(8):100817.
+
+doi: 10.1016/j.patter.2023.100817
+journal_title: Patterns
+journal_nlm_ta: Patterns (N Y)
+publisher_name: Elsevier
+
+keywords:
+- deep learning
+- variational autoencoders
+- chemical perturbation
+- dose response
+- risk assessment
+- computational modeling
+- gene expression
+- single-cell RNA–seq
+- pharmacology
+- toxicology
+
+---

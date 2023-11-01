@@ -1,0 +1,35 @@
+---
+pmcid: PMC10201779
+image_filename: 10020_2023_664_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC10201779/figure/Fig2/
+number: Fig. 2
+figure_title: ''
+caption: Pathway enrichment of pre-cystic and cystic transcriptomic signatures. Bubbleplots
+  of pathway enrichment using GO, Reactome, and WikiPathways of upregulated and downregulated
+  genes from the (A) pre-cystic P70 transcriptomic signature, (B) cystic P21 transcriptomic
+  signature, and (C) cystic P28 transcriptomic signature, with point size dependent
+  on the number of query genes matching to each term and color dependent on the p-value.
+  Treemaps display the enrichment hierarchy, using Wang similarity to reduce GO:BP
+  term redundancy with parent terms consisting of largest boxes and enriched child
+  terms within for each signature, and varying child terms reflecting term size for
+  (D) pre-cystic P70 signature (E) cystic P21 transcriptomic signature, and (F) cystic
+  P28 transcriptomic signature
+article_title: Prioritized polycystic kidney disease drug targets and repurposing
+  candidates from pre-cystic and cystic mouse Pkd2 model gene expression reversion.
+citation: Elizabeth J. Wilk, et al. Mol Med. 2023;29:67.
+
+doi: 10.1186/s10020-023-00664-z
+journal_title: Molecular Medicine
+journal_nlm_ta: Mol Med
+publisher_name: BioMed Central
+
+keywords:
+- Polycystic kidney disease
+- PKD
+- ADPKD
+- Drug repurposing
+- Signature reversion
+- LINCS
+- Drug prioritization
+
+---
