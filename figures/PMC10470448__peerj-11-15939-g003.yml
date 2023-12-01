@@ -1,4 +1,3 @@
----
 pmcid: PMC10470448
 image_filename: peerj-11-15939-g003.jpg
 figure_link: /pmc/articles/PMC10470448/figure/fig-3/
@@ -13,17 +12,17 @@ caption: (A) GSEA classical plots generated based on NES score in canonical Wiki
 article_title: Identification of Zip8-correlated hub genes in pulmonary hypertension
   by informatic analysis.
 citation: FanRong Zhao, et al. PeerJ. 2023;11:e15939.
-
 doi: 10.7717/peerj.15939
 journal_title: PeerJ
 journal_nlm_ta: PeerJ
 publisher_name: PeerJ Inc.
-
 keywords:
 - Zip8
 - Pulmonary hypertension
 - Informatic analysis
 - Differentially expressed genes
 - Fatty acids
-
----
+status: 'Identification of Zip8-correlated hub genes in pulmonary hypertension by
+  informatic analysis. https://doi.org/10.7717/peerj.15939 #Zip8 #PulmonaryHypertension
+  #InformaticAnalysis #DifferentiallyExpressedGenes #FattyAcids'
+media: PMC10470448__peerj-11-15939-g003.jpg

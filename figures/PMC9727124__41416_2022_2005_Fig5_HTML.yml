@@ -1,4 +1,3 @@
----
 pmcid: PMC9727124
 image_filename: 41416_2022_2005_Fig5_HTML.jpg
 figure_link: /pmc/articles/PMC9727124/figure/Fig5/
@@ -16,14 +15,14 @@ caption: 'a Second cohort immune microenvironment description based on combined 
 article_title: Integrative immune transcriptomic classification improves patient selection
   for precision immunotherapy in advanced gastro-oesophageal adenocarcinoma.
 citation: Manuel Cabeza-Segura, et al. Br J Cancer. 2022 Dec 7;127(12):2198-2206.
-
 doi: 10.1038/s41416-022-02005-z
 journal_title: British Journal of Cancer
 journal_nlm_ta: Br J Cancer
 publisher_name: Nature Publishing Group UK
-
 keywords:
 - Cancer microenvironment
 - Gastric cancer
-
----
+status: 'Integrative immune transcriptomic classification improves patient selection
+  for precision immunotherapy in advanced gastro-oesophageal adenocarcinoma. https://doi.org/10.1038/s41416-022-02005-z
+  #CancerMicroenvironment #GastricCancer'
+media: PMC9727124__41416_2022_2005_Fig5_HTML.jpg

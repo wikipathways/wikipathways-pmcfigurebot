@@ -1,4 +1,3 @@
----
 pmcid: PMC10650499
 image_filename: nutrients-15-04651-g003.jpg
 figure_link: /pmc/articles/PMC10650499/figure/nutrients-15-04651-f003/
@@ -14,12 +13,10 @@ article_title: A Metabolomics Study of Feces Revealed That a Disturbance of Sele
   Metabolic Bioprocess Was Involved in Kashin–Beck Disease, an Osteoarthropathy Endemic
   to China.
 citation: Yan Wen, et al. Nutrients. 2023 Nov;15(21):4651.
-
 doi: 10.3390/nu15214651
 journal_title: Nutrients
 journal_nlm_ta: Nutrients
 publisher_name: MDPI
-
 keywords:
 - Kashin–Beck disease (KBD)
 - metabolomics
@@ -28,5 +25,8 @@ keywords:
 - lipid metabolism
 - bile acids and salts
 - free fatty acid
-
----
+status: 'A Metabolomics Study of Feces Revealed That a Disturbance of Selenium-Centered
+  Metabolic Bioprocess Was Involved in Kashin–Beck Disease, an Osteoarthropathy Endemic
+  to China. https://doi.org/10.3390/nu15214651 #Kashin–BeckDisease #Metabolomics #Intestine
+  #Selenium #LipidMetabolism'
+media: PMC10650499__nutrients-15-04651-g003.jpg

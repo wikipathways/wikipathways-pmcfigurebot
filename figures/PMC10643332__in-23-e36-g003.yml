@@ -1,4 +1,3 @@
----
 pmcid: PMC10643332
 image_filename: in-23-e36-g003.jpg
 figure_link: /pmc/articles/PMC10643332/figure/F3/
@@ -14,15 +13,15 @@ caption: S, STRING clusters; R, reactome; G, gene ontology process; K, KEGG; W, 
 article_title: Comprehensive Transcriptomic Analysis for Thymic Epithelial Cells of
   Aged Mice and Humans.
 citation: Sangsin Lee, et al. Immune Netw. 2023 Oct;23(5):e36.
-
 doi: 10.4110/in.2023.23.e36
 journal_title: Immune Network
 journal_nlm_ta: Immune Netw
 publisher_name: The Korean Association of Immunologists
-
 keywords:
 - Thymic epithelial cell (TEC)
 - Transcriptome analysis
 - Aging
-
----
+status: 'Comprehensive Transcriptomic Analysis for Thymic Epithelial Cells of Aged
+  Mice and Humans. https://doi.org/10.4110/in.2023.23.e36 #ThymicEpithelialCell #TranscriptomeAnalysis
+  #Aging'
+media: PMC10643332__in-23-e36-g003.jpg

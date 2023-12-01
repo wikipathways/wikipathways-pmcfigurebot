@@ -1,4 +1,3 @@
----
 pmcid: PMC10676589
 image_filename: 12864_2023_9816_Fig3_HTML.jpg
 figure_link: /pmc/articles/PMC10676589/figure/Fig3/
@@ -16,17 +15,17 @@ caption: Gene importance from random forest breast cancer models built on pathwa
 article_title: Using published pathway figures in enrichment analysis and machine
   learning.
 citation: Min-Gyoung Shin, et al. BMC Genomics. 2023;24:713.
-
 doi: 10.1186/s12864-023-09816-1
 journal_title: BMC Genomics
 journal_nlm_ta: BMC Genomics
 publisher_name: BioMed Central
-
 keywords:
 - Pathway database
 - Database comparison
 - Enrichment analysis
 - Machine learning
 - Disease mechanism
-
----
+status: 'Using published pathway figures in enrichment analysis and machine learning.
+  https://doi.org/10.1186/s12864-023-09816-1 #PathwayDatabase #DatabaseComparison
+  #EnrichmentAnalysis #MachineLearning #DiseaseMechanism'
+media: PMC10676589__12864_2023_9816_Fig3_HTML.jpg

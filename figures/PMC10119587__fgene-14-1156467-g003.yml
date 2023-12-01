@@ -1,4 +1,3 @@
----
 pmcid: PMC10119587
 image_filename: fgene-14-1156467-g003.jpg
 figure_link: /pmc/articles/PMC10119587/figure/F3/
@@ -15,12 +14,10 @@ caption: Representative results of functional enrichment analysis enriched by 52
 article_title: Exploration and identification of six novel ferroptosis-related hub
   genes as potential gene signatures for peripheral nerve injury.
 citation: Yifei Zhang, et al. Front Genet. 2023;14:1156467.
-
 doi: 10.3389/fgene.2023.1156467
 journal_title: Frontiers in Genetics
 journal_nlm_ta: Front Genet
 publisher_name: Frontiers Media S.A.
-
 keywords:
 - peripheral nerve regeneration
 - ferroptosis
@@ -28,5 +25,7 @@ keywords:
 - bioinformatics
 - hub gene
 - peripheral nerve injury
-
----
+status: 'Exploration and identification of six novel ferroptosis-related hub genes
+  as potential gene signatures for peripheral nerve injury. https://doi.org/10.3389/fgene.2023.1156467
+  #PeripheralNerveRegeneration #Ferroptosis #Biomarker #Bioinformatics #HubGene'
+media: PMC10119587__fgene-14-1156467-g003.jpg

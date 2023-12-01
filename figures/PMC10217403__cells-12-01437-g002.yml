@@ -1,4 +1,3 @@
----
 pmcid: PMC10217403
 image_filename: cells-12-01437-g002.jpg
 figure_link: /pmc/articles/PMC10217403/figure/cells-12-01437-f002/
@@ -19,12 +18,10 @@ caption: 'Functional Enrichment Analysis for RTT and RTT-L Genes: (A) A gene-set
 article_title: Genetic and Protein Network Underlying the Convergence of Rett-Syndrome-like
   (RTT-L) Phenotype in Neurodevelopmental Disorders.
 citation: Eric Frankel, et al. Cells. 2023 May;12(10):1437.
-
 doi: 10.3390/cells12101437
 journal_title: Cells
 journal_nlm_ta: Cells
 publisher_name: MDPI
-
 keywords:
 - Rett syndrome
 - atypical RTT syndrome
@@ -33,5 +30,8 @@ keywords:
 - neurodevelopmental disorders
 - overlapping phenotype
 - protein–protein interaction network
-
----
+status: 'Genetic and Protein Network Underlying the Convergence of Rett-Syndrome-like
+  (RTT-L) Phenotype in Neurodevelopmental Disorders. https://doi.org/10.3390/cells12101437
+  #RettSyndrome #AtypicalRttSyndrome #RettSyndromeLikePhenotype #MethylCpgBindingProtein2
+  #NeurodevelopmentalDisorders'
+media: PMC10217403__cells-12-01437-g002.jpg

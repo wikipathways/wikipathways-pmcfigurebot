@@ -1,4 +1,3 @@
----
 pmcid: PMC10417259
 image_filename: cancers-15-03968-g003.jpg
 figure_link: /pmc/articles/PMC10417259/figure/cancers-15-03968-f003/
@@ -14,12 +13,10 @@ caption: (A) Regulatory network of PCa-associated genes and their regulating miR
 article_title: Potential of miRNAs in Plasma Extracellular Vesicle for the Stratification
   of Prostate Cancer in a South African Population.
 citation: Dada Oluwaseyi Temilola, et al. Cancers (Basel). 2023 Aug;15(15):3968.
-
 doi: 10.3390/cancers15153968
 journal_title: Cancers
 journal_nlm_ta: Cancers (Basel)
 publisher_name: MDPI
-
 keywords:
 - prostate cancer
 - extracellular vesicles
@@ -28,5 +25,7 @@ keywords:
 - miR-194-5p
 - miR-16-5p
 - South Africa
-
----
+status: 'Potential of miRNAs in Plasma Extracellular Vesicle for the Stratification
+  of Prostate Cancer in a South African Population. https://doi.org/10.3390/cancers15153968
+  #ProstateCancer #ExtracellularVesicles #Exosomes #Mirna #Mir1945p'
+media: PMC10417259__cancers-15-03968-g003.jpg

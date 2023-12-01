@@ -1,4 +1,3 @@
----
 pmcid: PMC10580329
 image_filename: CNS-29-3339-g001.jpg
 figure_link: /pmc/articles/PMC10580329/figure/cns14263-fig-0003/
@@ -13,17 +12,17 @@ caption: Results of gene set enrichment analysis. (A) Top enriched pathway in Ky
 article_title: Diffusion tensor imaging‐based machine learning for IDH wild‐type glioblastoma
   stratification to reveal the biological underpinning of radiomic features.
 citation: Zilong Wang, et al. CNS Neurosci Ther. 2023 Nov;29(11):3339-3350.
-
 doi: 10.1111/cns.14263
 journal_title: CNS Neuroscience & Therapeutics
 journal_nlm_ta: CNS Neurosci Ther
 publisher_name: John Wiley and Sons Inc.
-
 keywords:
 - biological pathway
 - diffusion tensor imaging
 - glioblastoma
 - machine learning
 - prognosis
-
----
+status: 'Diffusion tensor imaging‐based machine learning for IDH wild‐type glioblastoma
+  stratification to reveal the biological underpinning of radiomic features. https://doi.org/10.1111/cns.14263
+  #BiologicalPathway #DiffusionTensorImaging #Glioblastoma #MachineLearning #Prognosis'
+media: PMC10580329__CNS-29-3339-g001.jpg

@@ -1,4 +1,3 @@
----
 pmcid: PMC9952762
 image_filename: biology-12-00198-g004.jpg
 figure_link: /pmc/articles/PMC9952762/figure/biology-12-00198-f004/
@@ -10,12 +9,10 @@ caption: Results of the metabolic pathway enrichment analysis by RaMP-DB []. Sig
 article_title: Exploiting Multi-Omics Profiling and Systems Biology to Investigate
   Functions of TOMM34.
 citation: Ekaterina V. Poverennaya, et al. Biology (Basel). 2023 Feb;12(2):198.
-
 doi: 10.3390/biology12020198
 journal_title: Biology
 journal_nlm_ta: Biology (Basel)
 publisher_name: MDPI
-
 keywords:
 - TOMM34
 - gene knockout
@@ -23,5 +20,7 @@ keywords:
 - multi-omics profiling
 - pathway analysis
 - de novo network enrichment
-
----
+status: 'Exploiting Multi-Omics Profiling and Systems Biology to Investigate Functions
+  of TOMM34. https://doi.org/10.3390/biology12020198 #Tomm34 #GeneKnockout #Hepg2
+  #MultiOmicsProfiling #PathwayAnalysis'
+media: PMC9952762__biology-12-00198-g004.jpg

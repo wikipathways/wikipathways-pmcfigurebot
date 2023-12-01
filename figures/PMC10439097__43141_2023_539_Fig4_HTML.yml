@@ -1,4 +1,3 @@
----
 pmcid: PMC10439097
 image_filename: 43141_2023_539_Fig4_HTML.jpg
 figure_link: /pmc/articles/PMC10439097/figure/Fig4/
@@ -11,17 +10,18 @@ article_title: 'Early diagnostic and prognostic biomarkers for gastric cancer: s
   molecular basis of subsequent alterations in gastric mucosa from chronic atrophic
   gastritis to gastric cancer.'
 citation: Tamizh G. Selvan, et al. J Genet Eng Biotechnol. 2023 Dec;21:86.
-
 doi: 10.1186/s43141-023-00539-0
 journal_title: Journal of Genetic Engineering & Biotechnology
 journal_nlm_ta: J Genet Eng Biotechnol
 publisher_name: Springer Berlin Heidelberg
-
 keywords:
 - Chronic atrophic gastritis
 - Gastric cancer
 - Systems biology
 - MCM7
 - Functional enrichment
-
----
+status: 'Early diagnostic and prognostic biomarkers for gastric cancer: systems-level
+  molecular basis of subsequent alterations in gastric mucosa from chronic atrophic
+  gastritis to gastric cancer. https://doi.org/10.1186/s43141-023-00539-0 #ChronicAtrophicGastritis
+  #GastricCancer #SystemsBiology #Mcm7 #FunctionalEnrichment'
+media: PMC10439097__43141_2023_539_Fig4_HTML.jpg

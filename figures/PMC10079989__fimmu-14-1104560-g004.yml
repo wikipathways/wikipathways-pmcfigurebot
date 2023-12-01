@@ -1,4 +1,3 @@
----
 pmcid: PMC10079989
 image_filename: fimmu-14-1104560-g004.jpg
 figure_link: /pmc/articles/PMC10079989/figure/f4/
@@ -13,17 +12,18 @@ caption: GSVA analysis of DEGs in the inflammatory DAMPs and nuclear DAMPs subty
 article_title: Damage-associated molecular patterns and sensing receptors based molecular
   subtypes in malignant pleural mesothelioma and implications for immunotherapy.
 citation: Zheng Liu, et al. Front Immunol. 2023;14:1104560.
-
 doi: 10.3389/fimmu.2023.1104560
 journal_title: Frontiers in Immunology
 journal_nlm_ta: Front Immunol
 publisher_name: Frontiers Media S.A.
-
 keywords:
 - malignant mesothelioma
 - damage-associated molecular patterns
 - immunogenic cell death
 - immunotherapy
 - tumor microenvironment
-
----
+status: 'Damage-associated molecular patterns and sensing receptors based molecular
+  subtypes in malignant pleural mesothelioma and implications for immunotherapy. https://doi.org/10.3389/fimmu.2023.1104560
+  #MalignantMesothelioma #DamageAssociatedMolecularPatterns #ImmunogenicCellDeath
+  #Immunotherapy #TumorMicroenvironment'
+media: PMC10079989__fimmu-14-1104560-g004.jpg

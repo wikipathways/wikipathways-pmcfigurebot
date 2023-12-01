@@ -1,4 +1,3 @@
----
 pmcid: PMC9776135
 image_filename: biology-11-01851-g006.jpg
 figure_link: /pmc/articles/PMC9776135/figure/biology-11-01851-f006/
@@ -13,12 +12,10 @@ caption: 'Gene ontology was constructed by integrating WikiPathways, Reactome, a
 article_title: 'Identify Biomarkers and Design Effective Multi-Target Drugs in Ovarian
   Cancer: Hit Network-Target Sets Model Optimizing.'
 citation: Amir Abbas Esmaeilzadeh, et al. Biology (Basel). 2022 Dec;11(12):1851.
-
 doi: 10.3390/biology11121851
 journal_title: Biology
 journal_nlm_ta: Biology (Basel)
 publisher_name: MDPI
-
 keywords:
 - network control
 - hit network-target sets
@@ -27,5 +24,7 @@ keywords:
 - epithelial ovarian cancer
 - core nodes
 - EOC
-
----
+status: 'Identify Biomarkers and Design Effective Multi-Target Drugs in Ovarian Cancer:
+  Hit Network-Target Sets Model Optimizing. https://doi.org/10.3390/biology11121851
+  #NetworkControl #HitNetworkTargetSets #DriverGenes #CoreModule #EpithelialOvarianCancer'
+media: PMC9776135__biology-11-01851-g006.jpg
