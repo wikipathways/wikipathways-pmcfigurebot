@@ -1,0 +1,30 @@
+---
+pmcid: PMC10158013
+image_filename: ijbsv19p1983g005.jpg
+figure_link: /pmc/articles/PMC10158013/figure/F5/
+number: Figure 5
+figure_title: ''
+caption: Pathway analysis of the genes with a reduced AHR binding in the As3+-treated
+  cells. (A) BioPlanet 2019 (top) and WikiPathways 2019 pathway analyses for 507 genes
+  that showed significant reduction of AHR binding in cellular response to As3+. (B)
+  ChIP-seq Enrichment Analysis (ChEA) showed coordinated regulation of the indicated
+  transcription factors for those genes with reduced AHR binding. (C) Genome browser
+  screenshots showing the pattern of AHR enrichment peaks on the gene loci of SLC7A5,
+  SEMA3C and SUSD1 that exhibited reduced AHR binding induced by As3+.
+article_title: Disruption of the tumor suppressor-like activity of aryl hydrocarbon
+  receptor by arsenic in epithelial cells and human lung cancer.
+citation: Yao Fu, et al. Int J Biol Sci. 2023;19(7):1983-2001.
+
+doi: 10.7150/ijbs.81423
+journal_title: International Journal of Biological Sciences
+journal_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+
+keywords:
+- Arsenic
+- AHR
+- tumor suppressor
+- TGFβ
+- lung cancer
+
+---

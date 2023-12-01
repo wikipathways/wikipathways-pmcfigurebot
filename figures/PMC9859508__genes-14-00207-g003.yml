@@ -1,0 +1,34 @@
+---
+pmcid: PMC9859508
+image_filename: genes-14-00207-g003.jpg
+figure_link: /pmc/articles/PMC9859508/figure/genes-14-00207-f003/
+number: Figure 3
+figure_title: ''
+caption: PTB and LNTB risk associated SNP related genes enrich in different pathways.
+  Pathways enriched in PTB (A) and LNTB (B) through a pathway analysis based on the
+  SNPs with significant p-values. The modules obtained from JActivemodules were used
+  for enrichment in ClueGO App in Cytoscape. Two metrics, %Associated genes (proportion
+  of genes in the pathway from the network of all genes) and Term p-value (enrichment
+  p-value) is plotted here to show the abundance of the pathway with all the input
+  genes and the p-value for the GO term obtained from WikiPathways.
+article_title: Comparative Genetic Association Analysis of Human Genetic Susceptibility
+  to Pulmonary and Lymph Node Tuberculosis.
+citation: Abhimanyu , et al. Genes (Basel). 2023 Jan;14(1):207.
+
+doi: 10.3390/genes14010207
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: MDPI
+
+keywords:
+- pulmonary tuberculosis
+- lymph node tuberculosis
+- extra-pulmonary tuberculosis
+- single nucleotide polymorphisms
+- cytokine
+- innate immunity
+- genetic association
+- genotype
+- serum
+
+---

@@ -1,0 +1,33 @@
+---
+pmcid: PMC9953921
+image_filename: cancers-15-01098-g002.jpg
+figure_link: /pmc/articles/PMC9953921/figure/cancers-15-01098-f002/
+number: Figure 2
+figure_title: ''
+caption: Differential gene expression between KRASmut and KRASwt with a p-value <
+  0.05. (A) Heatmap for 92 DEGs of KRASmut (rows) from the NanoString PanCancer progression
+  panel are clustered by statistically significant downregulation (blue) and up regulation
+  (red) between KRASmut and KRASwt (column). The consensus molecular subtypes 1–4
+  (CMS1–4) were also clustered (column). Blue to red denotes gene expression, with
+  blue implying low gene expression and red implying high gene expression. (B) Top
+  five pathways of BioPlanet and WikiPathways database sources enriched by DEGs with
+  their FDR values. (C) The IPA graphical summary of 92 statistically significant
+  DEG of KRASmut. (D) The IPA upstream regulator analysis reveal that TGFBR1 is the
+  upstream regulator associated with lymphocyte cell death.
+article_title: The KRAS-Mutant Consensus Molecular Subtype 3 Reveals an Immunosuppressive
+  Tumor Microenvironment in Colorectal Cancer.
+citation: Pariyada Tanjak, et al. Cancers (Basel). 2023 Feb;15(4):1098.
+
+doi: 10.3390/cancers15041098
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- KRAS mutation
+- colorectal cancer
+- tumor microenvironment
+- immunosuppressive tumor microenvironment
+- TGFβ signaling
+
+---

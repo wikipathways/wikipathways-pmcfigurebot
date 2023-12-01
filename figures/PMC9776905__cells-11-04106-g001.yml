@@ -1,0 +1,28 @@
+---
+pmcid: PMC9776905
+image_filename: cells-11-04106-g001.jpg
+figure_link: /pmc/articles/PMC9776905/figure/cells-11-04106-f001/
+number: Figure 1
+figure_title: ''
+caption: Identification of key enzymes for amino acid metabolism in colon TAMs. (A).
+  The mRNA expression levels of colon TAMs and control macrophages from the GSE18804
+  dataset. (B). The cellular metabolic pathway diagram from WikiPathways. (C). The
+  Venn diagram of TAM−related genes and amino acid metabolism-related enzymes. (D).
+  The survival analysis data of these eight genes in GEPIA2.
+article_title: The Role of Amino Acid Metabolism of Tumor Associated Macrophages in
+  the Development of Colorectal Cancer.
+citation: Manman Jiang, et al. Cells. 2022 Dec;11(24):4106.
+
+doi: 10.3390/cells11244106
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- colorectal cancer
+- tumor microenvironment (TME)
+- amino acid metabolism
+- tumor associated macrophages (TAM)
+- cell death
+
+---

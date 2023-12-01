@@ -1,0 +1,24 @@
+---
+pmcid: PMC9825745
+image_filename: btac726f3.jpg
+figure_link: /pmc/articles/PMC9825745/figure/btac726-F3/
+number: Fig 3
+figure_title: ''
+caption: Overlap in content among source databases. Only analytes mapping to pathways
+  are considered, as HMDB contains a large number of metabolites associated only with
+  ontologies, which are not relevant to Reactome and Wikipathways as pathway-centric
+  databases. (A) Overlap in metabolites associated with at least one pathway between
+  source databases in RaMP. (B) Overlap of genes associated with at least one pathway.
+  The filled circle(s) underneath each bar in the plots demonstrate the source databases
+  that the analyte counts are drawn from
+article_title: 'RaMP-DB 2.0: a renovated knowledgebase for deriving biological and
+  chemical insight from metabolites, proteins, and genes.'
+citation: John Braisted, et al. Bioinformatics. 2023 Jan;39(1):btac726.
+
+doi: 10.1093/bioinformatics/btac726
+journal_title: Bioinformatics
+journal_nlm_ta: Bioinformatics
+publisher_name: Oxford University Press
+
+keywords:
+---
