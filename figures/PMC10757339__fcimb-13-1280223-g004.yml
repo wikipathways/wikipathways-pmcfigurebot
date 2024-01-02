@@ -10,10 +10,20 @@ article_title: Discovering common pathogenetic processes between COVID-19 and tu
   by bioinformatics and system biology approach.
 citation: Tengda Huang, et al. Front Cell Infect Microbiol. 2023;13:1280223.
 
-doi: ''
-journal_title: ''
-journal_nlm_ta: ''
-publisher_name: ''
+doi: 10.3389/fcimb.2023.1280223
+journal_title: Frontiers in Cellular and Infection Microbiology
+journal_nlm_ta: Front Cell Infect Microbiol
+publisher_name: Frontiers Media S.A.
 
 keywords:
+- SARS-CoV-2
+- tuberculosis
+- differentially expressed genes
+- protein-protein interaction (PPI)
+- hub gene
+- drug molcule
+
+status: 'Discovering common pathogenetic processes between COVID-19 and tuberculosis
+  by bioinformatics and system biology approach. https://doi.org/10.3389/fcimb.2023.1280223 #SARS-CoV-2 #Tuberculosis #DifferentiallyExpressedGenes #PPI'
+media: PMC10757339__fcimb-13-1280223-g004.jpg
 ---
