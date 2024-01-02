@@ -1,0 +1,28 @@
+---
+pmcid: PMC9872754
+image_filename: 42003_2023_4478_Fig8_HTML.jpg
+figure_link: /pmc/articles/PMC9872754/figure/Fig8/
+number: Fig. 8
+figure_title: Comparison of cell-type pathway enrichment in myenteric ganglia (MG)
+  of porcine proximal and distal colon (p-pC, p-dC) with and without vagal nerve stimulation
+  (VNS)
+caption: The figures show the enrichment ratio of the same WikiPathway involving upregulated
+  and downregulated genes in each list of differentially expressed genes and only
+  show the enrichment ratio of the top five WikiPathways in cholinergic neurons a,
+  glutamatergic neurons b, nitrergic neurons c, SLC41A1-glia d, and SPC24- glia e.
+  The light blue color represents the cell-type enrichment ratio without VNS and the
+  orange color represents the cell-type enrichment ratio with VNS.
+article_title: Comparative transcriptomics reveals highly conserved regional programs
+  between porcine and human colonic enteric nervous system.
+citation: Tao Li, et al. Commun Biol. 2023;6:98.
+
+doi: 10.1038/s42003-023-04478-x
+journal_title: Communications Biology
+journal_nlm_ta: Commun Biol
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Enteric nervous system
+- Gastrointestinal models
+
+---

@@ -1,0 +1,33 @@
+---
+pmcid: PMC9957298
+image_filename: genes-14-00495-g004a.jpg
+figure_link: .na.character
+number: ''
+figure_title: Figure 4
+caption: Pathway enrichment from POAG/PACG candidate genes. The interactions of known
+  and candidate genes are represented. The node represents the GO, KEGG, WikiPathways
+  and REACTOME items. The size of the node represents the significance; smaller nodes
+  have higher and larger nodes have lower significance. The highlighted pathway is
+  labeled according to the highest significance. The color of the nodes is visualized
+  on the basis of different functional groups. Panel A is the genetic network map
+  from candidates genes of POAG families and panel B is the same from the PACG families.
+article_title: Whole Exome Sequencing Reveals Novel Candidate Genes in Familial Forms
+  of Glaucomatous Neurodegeneration.
+citation: Kiran Narta, et al. Genes (Basel). 2023 Feb;14(2):495.
+
+doi: 10.3390/genes14020495
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: MDPI
+
+keywords:
+- blindness
+- exome sequencing
+- genetics
+- genomics
+- glaucoma
+- PACG
+- POAG
+- SRFBP1
+
+---

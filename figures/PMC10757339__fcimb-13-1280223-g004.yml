@@ -1,0 +1,26 @@
+---
+pmcid: PMC10757339
+image_filename: fcimb-13-1280223-g004.jpg
+figure_link: /pmc/articles/PMC10757339/figure/f4/
+number: Figure 4
+figure_title: ''
+caption: The bar graphs of the pathway enrichment of the shared DEGs between TB and
+  COVID-19. (A) Bioplanet, (B) KEGG, and (C) WikiPathways.
+article_title: Discovering common pathogenetic processes between COVID-19 and tuberculosis
+  by bioinformatics and system biology approach.
+citation: Tengda Huang, et al. Front Cell Infect Microbiol. 2023;13:1280223.
+
+doi: 10.3389/fcimb.2023.1280223
+journal_title: Frontiers in Cellular and Infection Microbiology
+journal_nlm_ta: Front Cell Infect Microbiol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- SARS-CoV-2
+- tuberculosis
+- differentially expressed genes
+- protein-protein interaction (PPI)
+- hub gene
+- drug molecule
+
+---

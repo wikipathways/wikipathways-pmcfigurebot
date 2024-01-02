@@ -1,0 +1,23 @@
+---
+pmcid: PMC9086761
+image_filename: djac014f2.jpg
+figure_link: /pmc/articles/PMC9086761/figure/djac014-F2/
+number: Figure 2
+figure_title: ''
+caption: 'RNA sequencing analysis. A) Principle Component Analysis of University of
+  Texas Southwestern RNASeq Expression Data with k-means clustering assignment shown
+  in color. One point in cluster 2 is not shown PC1: 138, PC2: -43. B) Heatmap of
+  10 genes in the WikiPathways oxidative phosphorylation pathway upregulated in cluster
+  3. Z score of log counts per million shown in color; individual patients sorted
+  into clusters along x-axis.'
+article_title: Racial and Ethnic Differences in Genomic Profiling of Early Onset Colorectal
+  Cancer.
+citation: David M Hein, et al. J Natl Cancer Inst. 2022 May;114(5):775-778.
+
+doi: 10.1093/jnci/djac014
+journal_title: JNCI Journal of the National Cancer Institute
+journal_nlm_ta: J Natl Cancer Inst
+publisher_name: Oxford University Press
+
+keywords:
+---
