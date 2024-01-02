@@ -1,4 +1,3 @@
----
 pmcid: PMC10702019
 image_filename: 12885_2023_11595_Fig5_HTML.jpg
 figure_link: /pmc/articles/PMC10702019/figure/Fig5/
@@ -14,17 +13,18 @@ caption: A The bar chart displays DGSS of gene sets, which indicates that the fu
 article_title: Exploring extracellular matrix and prostaglandin pathway alterations
   across varying resection margin distances of right-sided colonic adenocarcinoma.
 citation: Tharathorn Suwatthanarak, et al. BMC Cancer. 2023;23:1202.
-
 doi: 10.1186/s12885-023-11595-7
 journal_title: BMC Cancer
 journal_nlm_ta: BMC Cancer
 publisher_name: BioMed Central
-
 keywords:
 - Different gene expression
 - Non-tumor tissues adjacent to the tumor
 - Surgical resection margin
 - Right-sided colonic adenocarcinoma
 - RNA analysis
-
----
+status: 'Exploring extracellular matrix and prostaglandin pathway alterations across
+  varying resection margin distances of right-sided colonic adenocarcinoma. https://doi.org/10.1186/s12885-023-11595-7
+  #DifferentGeneExpression #NonTumorTissuesAdjacentToTheTumor #SurgicalResectionMargin
+  #RightSidedColonicAdenocarcinoma #RnaAnalysis'
+media: PMC10702019__12885_2023_11595_Fig5_HTML.jpg
