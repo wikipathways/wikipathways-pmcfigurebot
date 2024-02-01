@@ -1,0 +1,29 @@
+---
+pmcid: PMC10369951
+image_filename: nihpp-2023.07.13.548937v3-f0001.jpg
+figure_link: /pmc/articles/PMC10369951/figure/F1/
+number: 'Figure 1:'
+figure_title: Aβ drives proteome-wide protein insolubility that resembles normal aging
+caption: 'A. Schematic of experimental procedure. B. Total insoluble protein Intensity
+  in worms expressing Aβ vs genotype control strain CL2122, all values normalized
+  to the average of the control in each experiment n = 4, error bars = SEM, Mann-Whitney
+  Test. C. Representative volcano plot from one experiment Absolute Log2(Fold Change)>0.58,
+  Q <0.01 D. Barplot of selected enriched GO terms, KEGG pathways and Wikipathways
+  in the Aβ insoluble proteome, Benjamini Hochberg FDR <5% (see  for complete list)
+  E. STRING protein-protein interaction network of insoluble proteins with annotations
+  for “Determination of Lifespan”, average fold change and Q values across both experiments,
+  STRING p < 1x10−16. F. left: F. Overlap of proteins enriched in the insoluble proteome
+  of old C. elegans from two publicly available datasets, p<0.0001 Fischer’s Exact
+  Test. right: Overlap of aging insoluble proteome with Aβ insoluble proteome, p<0.0001
+  Fischer’s Exact Test. G. Overlap of all GO annotations from the aging insoluble
+  proteome and Aβ insoluble proteome, p<0.0001 Fischer’s Exact Test.'
+article_title: Amyloid β accelerates age-related proteome-wide protein insolubility..
+citation: Edward Anderton, et al. bioRxiv. NaN  NaN [revised 2023 Dec 9]:2023.07.13.548937.
+
+doi: 10.1101/2023.07.13.548937
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+---

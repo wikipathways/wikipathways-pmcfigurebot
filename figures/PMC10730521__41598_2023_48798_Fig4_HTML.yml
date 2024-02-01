@@ -1,0 +1,30 @@
+---
+pmcid: PMC10730521
+image_filename: 41598_2023_48798_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC10730521/figure/Fig4/
+number: Figure 4
+figure_title: ''
+caption: 'The DEGs and pathway enrichment analysis acquired unsupervised hierarchical
+  clustering of LAMA3 stratified CCA sample of microarray dataset. (a) Heatmap image
+  and (b) PCA plot indicating the separation low and high LAMA3 expression. (c) DEGs
+  in high vs low LAMA3 expression group. Statistically significant DEGs cut-off are
+  with the adjusted P < 0.05 and the Log2 FC of 3.32. (d) Pathway enrichment analysis
+  of DEGs using EnrichR consolidated databases: BioPlanet, KEGG and Wikipathways.
+  DEGs were considered at FC > 2 and P < 0.05. Enriched pathway were considered when combined
+  score > 50.'
+article_title: Upregulated LAMA3 modulates proliferation, adhesion, migration and
+  epithelial‑to‑mesenchymal transition of cholangiocarcinoma cells.
+citation: Kittiya Islam, et al. Sci Rep. 2023;13:22598.
+
+doi: 10.1038/s41598-023-48798-8
+journal_title: Scientific Reports
+journal_nlm_ta: Sci Rep
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Cancer
+- Cell biology
+- Computational biology and bioinformatics
+- Oncology
+
+---

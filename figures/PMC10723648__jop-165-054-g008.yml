@@ -1,0 +1,53 @@
+---
+pmcid: PMC10723648
+image_filename: jop-165-054-g008.jpg
+figure_link: /pmc/articles/PMC10723648/figure/F8/
+number: Figure 8
+figure_title: ''
+caption: 'Mithramycin-rescue of differentially expressed genes and enriched pathways
+  in DRG. (A) Top differentially expressed genes (DEGs) with oxaliplatin-only (oxaliplatin
+  + vehicle = OV) as base, compared with oxaliplatin + mithramycin (OM) treatment.
+  Downregulated (blue) and upregulated (red) DEGs are shown. FDR <0.05, logFC > 0.38
+  (fold change greater than 1.5). (B) Enrichment analysis of MTM-rescue DRG (Metascape)
+  using ontology sources: GO Biological Processes, KEGG Pathway, Reactome Gene Sets,
+  CORUM, PaGenBase, WikiPathways and PANTHER Pathway. Log10(P) is the P value in log
+  base 10. (C) Enrichment analysis of MTM-rescue DRG by TRRUST (Transcriptional Regulatory
+  Relationships Unraveled by Sentence–based Text mining (https://www.grnpedia.org/trrust/).
+  DRG, dorsal root ganglion; MTM, mithramycin.'
+article_title: 'Chemotherapy for pain: reversing inflammatory and neuropathic pain
+  with the anticancer agent mithramycin A.'
+citation: Zheyun Xu, et al. Pain. 2024 Jan;165(1):54-74.
+
+doi: 10.1097/j.pain.0000000000002972
+journal_title: Pain
+journal_nlm_ta: Pain
+publisher_name: Wolters Kluwer
+
+keywords:
+- CFA
+- Chemotherapy
+- CIPN
+- Cisplatin
+- Cold pain
+- Cytoskeleton
+- Electron transport chain
+- HCT116
+- Heat pain, hyperalgesia
+- Intraepidermal nerve fiber
+- Mechanical pain
+- Mithramycin
+- Mitochondria
+- Nociceptor
+- OVCAR3
+- Oxaliplatin
+- RNAseq
+- Sp1
+- Sp4
+- Sex differences
+- Splice variant
+- Transcription
+- Transcriptome
+- TRPM8
+- TRPV1
+
+---

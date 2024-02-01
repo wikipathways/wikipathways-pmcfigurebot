@@ -1,0 +1,46 @@
+---
+pmcid: PMC10719496
+image_filename: ehad666f3.jpg
+figure_link: /pmc/articles/PMC10719496/figure/ehad666-F3/
+number: Figure 3
+figure_title: ''
+caption: 'Molecular determinants of anti-CXCR3 autoantibodies identified by a machine
+  learning approach. (A) Importance and direction of association of proteins selected
+  by regularized regression. Proteins selected by least absolute shrinkage and selection
+  operator graded according to variable importance (i.e. lambda ratio) and direction
+  of association. Fractional polynomials were applied to account for non-linear relationships.
+  Mixed association describes that transformation factors and direction do not indicate
+  a negative nor positive association. The model yielded a coefficient of variation
+  (R2) of 0.053 (10-fold cross-validated R2: 0.025). (B) Protein–protein interaction
+  network comprising selected proteins. Depicted is the protein–protein interaction
+  network based on protein–protein interaction enrichment analysis conducted with
+  Metascape. STRING, BioGrid, OmniPath, and InWeb_IM constituted the databases used
+  for analysis. Molecular Complex Detection algorithm was applied and identified cytokine–cytokine
+  interaction (GO term hsa04060) as functional cluster. Finally, the network was modeled
+  with Cytoscape. Proteins related to this cluster are marked in green. Dot size reflects
+  number of protein–protein interactions, and circle color identifies direction of
+  association. Date of Metascape query: 28 April 2022. (C) Pathway and process enrichment
+  analysis. Presented are the results of pathway and process enrichment analysis conducted
+  with Metascape using KEGG Pathway, GO Biological Processes, Reactome Gene Sets,
+  Canonical Pathways, Cell Type Signatures, CORUM, TRRUST, DisGeNET, PaGenBase, Transcription
+  Factor Targets, WikiPathways, PANTHER Pathway, and COVID as ontology sources. Input
+  variables were the proteins selected by regularized regression. P-values were calculated
+  based on the accumulative hypergeometric distribution. Date of Metascape query:
+  28 April 2022. A full legend of protein names is provided in   . aAbs, autoantibodies.'
+article_title: Autoantibodies against the chemokine receptor 3 predict cardiovascular
+  risk.
+citation: Felix S Müller, et al. Eur Heart J. 2023 Dec 14;44(47):4935-4949.
+
+doi: 10.1093/eurheartj/ehad666
+journal_title: European Heart Journal
+journal_nlm_ta: Eur Heart J
+publisher_name: Oxford University Press
+
+keywords:
+- Autoimmunity
+- Autoantibodies
+- G protein-coupled receptor
+- Chemokine receptor
+- Cardiovascular disease
+
+---

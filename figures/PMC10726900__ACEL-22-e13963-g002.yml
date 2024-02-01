@@ -1,0 +1,35 @@
+---
+pmcid: PMC10726900
+image_filename: ACEL-22-e13963-g002.jpg
+figure_link: /pmc/articles/PMC10726900/figure/acel13963-fig-0003/
+number: FIGURE 3
+figure_title: ''
+caption: 'Selected significantly enriched pathways (p‐adj <0.05) obtained by ranked
+  based gene set enrichment analysis. Genes were ranked by p‐value for the effect
+  of CR compared to AL on differential expression change over time. The left column
+  shows enriched pathways from four databases (H: Hallmark, R: Reactome, K: KEGG,
+  and W: WikiPathways) followed by functional pathways domain. The middle column shows
+  normalized enrichment score (NES) for each pathway (red upregulated pathways in
+  CR and green downregulated pathways in CR). The last column reports up to 10 top
+  significant genes (based on p‐value) in each domain, with red font indicating p < 0.01
+  and black font indicating 0.01 < p < 0.5. Star (*) symbol indicate that short name
+  of the pathway was used for illustration purpose, full name can be seen in Table .'
+article_title: 'Calorie restriction modulates the transcription of genes related to
+  stress response and longevity in human muscle: The CALERIE study.'
+citation: Jayanta Kumar Das, et al. Aging Cell. 2023 Dec;22(12):e13963.
+
+doi: 10.1111/acel.13963
+journal_title: Aging Cell
+journal_nlm_ta: Aging Cell
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- calorie restriction
+- FOXO
+- heat shock response
+- inflammation
+- mitochondrial biogenesis
+- skeletal muscle
+- splicing
+
+---
