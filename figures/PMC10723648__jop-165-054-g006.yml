@@ -1,4 +1,3 @@
----
 pmcid: PMC10723648
 image_filename: jop-165-054-g006.jpg
 figure_link: /pmc/articles/PMC10723648/figure/F6/
@@ -17,12 +16,10 @@ caption: 'Oxaliplatin-induced differentially expressed genes and enriched pathwa
 article_title: 'Chemotherapy for pain: reversing inflammatory and neuropathic pain
   with the anticancer agent mithramycin A.'
 citation: Zheyun Xu, et al. Pain. 2024 Jan;165(1):54-74.
-
 doi: 10.1097/j.pain.0000000000002972
 journal_title: Pain
 journal_nlm_ta: Pain
 publisher_name: Wolters Kluwer
-
 keywords:
 - CFA
 - Chemotherapy
@@ -49,5 +46,7 @@ keywords:
 - Transcriptome
 - TRPM8
 - TRPV1
-
----
+status: 'Chemotherapy for pain: reversing inflammatory and neuropathic pain with the
+  anticancer agent mithramycin A. https://doi.org/10.1097/j.pain.0000000000002972
+  #Cfa #Chemotherapy #Cipn #Cisplatin #ColdPain'
+media: PMC10723648__jop-165-054-g006.jpg
