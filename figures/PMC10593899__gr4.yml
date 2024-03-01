@@ -1,4 +1,3 @@
----
 pmcid: PMC10593899
 image_filename: gr4.jpg
 figure_link: /pmc/articles/PMC10593899/figure/fig4/
@@ -36,12 +35,10 @@ caption: Transcriptional changes associated with the protective effects of exerc
 article_title: Transcriptional Profile of Exercise-Induced Protection Against Relapse
   to Cocaine Seeking in a Rat Model.
 citation: Eleanor Blair Towers, et al. Biol Psychiatry Glob Open Sci. 2023 Oct;3(4):734-745.
-
 doi: 10.1016/j.bpsgos.2023.01.007
 journal_title: Biological Psychiatry Global Open Science
 journal_nlm_ta: Biol Psychiatry Glob Open Sci
 publisher_name: Elsevier
-
 keywords:
 - Cocaine seeking
 - Cocaine use disorder
@@ -49,5 +46,7 @@ keywords:
 - Extended-access cocaine self-administration
 - RNA sequencing
 - Treatment
-
----
+status: 'Transcriptional Profile of Exercise-Induced Protection Against Relapse to
+  Cocaine Seeking in a Rat Model. https://doi.org/10.1016/j.bpsgos.2023.01.007 #CocaineSeeking
+  #CocaineUseDisorder #Exercise #ExtendedAccessCocaineSelfAdministration #RnaSequencing'
+media: PMC10593899__gr4.jpg

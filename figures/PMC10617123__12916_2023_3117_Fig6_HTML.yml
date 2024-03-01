@@ -1,4 +1,3 @@
----
 pmcid: PMC10617123
 image_filename: 12916_2023_3117_Fig6_HTML.jpg
 figure_link: /pmc/articles/PMC10617123/figure/Fig6/
@@ -20,12 +19,10 @@ caption: 'Analysis of the composition and functional networks of miRNAs present 
 article_title: Hypoxia enhances anti-fibrotic properties of extracellular vesicles
   derived from hiPSCs via the miR302b-3p/TGFβ/SMAD2 axis.
 citation: Milena Paw, et al. BMC Med. 2023;21:412.
-
 doi: 10.1186/s12916-023-03117-w
 journal_title: BMC Medicine
 journal_nlm_ta: BMC Med
 publisher_name: BioMed Central
-
 keywords:
 - Extracellular vesicles
 - Induced pluripotent stem cells
@@ -33,5 +30,7 @@ keywords:
 - Low oxygen
 - Heart fibrosis
 - Therapy
-
----
+status: 'Hypoxia enhances anti-fibrotic properties of extracellular vesicles derived
+  from hiPSCs via the miR302b-3p/TGFβ/SMAD2 axis. https://doi.org/10.1186/s12916-023-03117-w
+  #ExtracellularVesicles #InducedPluripotentStemCells #Hypoxia #LowOxygen #HeartFibrosis'
+media: PMC10617123__12916_2023_3117_Fig6_HTML.jpg
