@@ -1,4 +1,3 @@
----
 pmcid: PMC10969799
 image_filename: ijms-25-03207-g005.jpg
 figure_link: /pmc/articles/PMC10969799/figure/ijms-25-03207-f005/
@@ -14,12 +13,10 @@ caption: Dot plot for overrepresentation analysis (ORA) based on different datab
 article_title: Identifying Differences in Molecular Characteristics Relevant for Remodeling
   of Periodontal Ligament Stem Cells from the Upper and Lower Jaw.
 citation: Hanna Malyaran, et al. Int J Mol Sci. 2024 Mar;25(6):3207.
-
 doi: 10.3390/ijms25063207
 journal_title: International Journal of Molecular Sciences
 journal_nlm_ta: Int J Mol Sci
 publisher_name: MDPI
-
 keywords:
 - kinase activity
 - periodontal ligament stem cells
@@ -27,5 +24,7 @@ keywords:
 - maxilla
 - tyrosine
 - serine/threonine
-
----
+status: 'Identifying Differences in Molecular Characteristics Relevant for Remodeling
+  of Periodontal Ligament Stem Cells from the Upper and Lower Jaw. https://doi.org/10.3390/ijms25063207
+  #KinaseActivity #PeriodontalLigamentStemCells #Mandible #Maxilla #Tyrosine'
+media: PMC10969799__ijms-25-03207-g005.jpg
