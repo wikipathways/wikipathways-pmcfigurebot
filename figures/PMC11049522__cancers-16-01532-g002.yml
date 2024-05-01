@@ -1,0 +1,53 @@
+---
+pmcid: PMC11049522
+image_filename: cancers-16-01532-g002.jpg
+figure_link: /pmc/articles/PMC11049522/figure/cancers-16-01532-f002/
+number: Figure 2
+figure_title: ''
+caption: Knockdown of KMT9α affects expression of proliferation- and migration-related
+  genes in MIBC cell lines. (A) Pie chart showing the number of differentially expressed
+  genes (DEGs) in CAL-29 (6122) and 5637 (6296) cells upon siRNA-mediated knockdown
+  of KMT9α (siKMT9α) with the number of upregulated and downregulated genes (p < 1
+  × 106). Gene expression changes were determined in comparison with cells treated
+  with a control siRNA (siCtrl). (B) Venn diagram showing overlap and number of DEGs
+  (3657) in CAL-29 and 5637 cells upon knockdown of KMT9α (p < 1 × 106). The value
+  in brackets (3245) gives the number of DEGs that are deregulated in the same direction
+  (up or down) in both cell lines. (C) Enriched gene sets for GO biological processes
+  (top) and WikiPathways (bottom) obtained for the 3245 commonly deregulated genes.
+  (D) Venn diagram showing overlap and number of downregulated genes (1581) in CAL-29
+  and 5637 cells upon knockdown of KMT9α (p < 1 × 106). (E) Enriched gene sets for
+  GO biological processes for these 1581 commonly downregulated genes. (F,G) Heat
+  maps displaying relative mRNA levels of genes involved in (F) “regulation of cell
+  cycle” (GO:0051726) or (G) “regulation of cell migration” (GO:0030334) in 5637 cells
+  treated with siCtrl or siKMT9α. (H) Quantitative real-time PCR analysis of mRNA
+  expression for selected genes presented in (F,G) after knockdown of KMT9α. Data
+  represent means + standard deviation. Statistical significance was evaluated by
+  a two-tailed t test (* p < 0.05; **, p < 0.01; ***, p < 0.001), n = 3. (I) Western
+  blots showing protein expression of KMT9α, EGFR, and AKT1 in 5637 and CAL-29 cells
+  after transfection with siCtrl, siKMT9α#1, or siKMT9α#2. Western blots were performed
+  with the indicated antibodies. Tubulin or GAPDH served as controls. The intensity
+  of each protein band was quantified by densitometry and normalized to the intensity
+  of the house keeping gene. The siCtrl value was set to 1. (J) Real-time proliferation
+  of 5637 cells (left) after treatment with DMSO, 3 µM, or 10 µM Erlotinib and CAL-29
+  cells (right) after treatment with DMSO, 10 µM, or 30 µM Erlotinib. (I) The original
+  Western blots with molecular weight markers and original data of densitometry scans
+  are presented in .
+article_title: Lysine Methyltransferase 9 (KMT9) Is an Actionable Target in Muscle-Invasive
+  Bladder Cancer.
+citation: Sainab Totonji, et al. Cancers (Basel). 2024 Apr;16(8):1532.
+
+doi: 10.3390/cancers16081532
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- KMT9
+- lysine methyltransferase
+- bladder cancer
+- proliferation
+- migration
+- invasion
+- inhibitor
+
+---
