@@ -23,6 +23,9 @@ formatKeywords <- function(kw){
 files <- list.files("figures", pattern = "\\.yml$")
 check <- list(approved =  NULL)
 
+outbox.files <- list.files("outbox", pattern = "\\.yml$")
+files <- setdiff(files,outbox.files) ##remove any that have been posted before
+
 for (f in files){
   social.nls <- yaml::read_yaml(file.path("figures",f))
   
