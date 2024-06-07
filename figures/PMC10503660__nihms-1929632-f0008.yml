@@ -1,4 +1,3 @@
----
 pmcid: PMC10503660
 image_filename: nihms-1929632-f0008.jpg
 figure_link: /pmc/articles/PMC10503660/figure/F8/
@@ -19,12 +18,10 @@ caption: ILC2s induce transcriptome changes in IL-33–activated eosinophils. IL
 article_title: Eosinophils promote effector functions of lung group 2 innate lymphoid
   cells in allergic airway inflammation in mice.
 citation: William E. LeSuer, et al. J Allergy Clin Immunol. ;152(2):469-485.e10.
-
 doi: 10.1016/j.jaci.2023.03.023
 journal_title: The Journal of allergy and clinical immunology
 journal_nlm_ta: J Allergy Clin Immunol
 publisher_name: ''
-
 keywords:
 - Eosinophil
 - group 2 innate lymphoid cell
@@ -35,5 +32,7 @@ keywords:
 - lung
 - inflammation
 - eosinophil deficient
-
----
+status: 'Eosinophils promote effector functions of lung group 2 innate lymphoid cells
+  in allergic airway inflammation in mice. https://doi.org/10.1016/j.jaci.2023.03.023
+  #Eosinophil #Group2InnateLymphoidCell #Asthma #Il33 #Il4'
+media: PMC10503660__nihms-1929632-f0008.jpg

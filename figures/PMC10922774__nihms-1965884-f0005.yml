@@ -1,4 +1,3 @@
----
 pmcid: PMC10922774
 image_filename: nihms-1965884-f0005.jpg
 figure_link: /pmc/articles/PMC10922774/figure/F5/
@@ -11,12 +10,10 @@ caption: (A) Top 10 targets affected by the 876 compounds in the Cayman Chemical
 article_title: Drug repurposing for neurodegenerative diseases using Zebrafish behavioral
   profiles.
 citation: Thaís Del Rosario Hernández, et al. Biomed Pharmacother. ;171:116096-116096.
-
 doi: 10.1016/j.biopha.2023.116096
 journal_title: Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie
 journal_nlm_ta: Biomed Pharmacother
 publisher_name: ''
-
 keywords:
 - Drug Discovery
 - Zebrafish larvae
@@ -24,5 +21,7 @@ keywords:
 - Neurodegenerative
 - High throughput
 - Behavior
-
----
+status: 'Drug repurposing for neurodegenerative diseases using Zebrafish behavioral
+  profiles. https://doi.org/10.1016/j.biopha.2023.116096 #DrugDiscovery #ZebrafishLarvae
+  #Alzheimer’sDisease #Neurodegenerative #HighThroughput'
+media: PMC10922774__nihms-1965884-f0005.jpg

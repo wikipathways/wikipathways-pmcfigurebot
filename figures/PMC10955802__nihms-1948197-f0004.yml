@@ -1,4 +1,3 @@
----
 pmcid: PMC10955802
 image_filename: nihms-1948197-f0004.jpg
 figure_link: /pmc/articles/PMC10955802/figure/F4/
@@ -23,11 +22,11 @@ caption: (A) Pathway enrichment analysis by ClueGO of 28.CT_LIV module genes and
 article_title: Integration of transcriptomes of senescent cell models with multi-tissue
   patient samples reveals reduced COL6A3 as an inducer of senescence.
 citation: Radoslav Savić, et al. Cell Rep. ;42(11):113371-113371.
-
 doi: 10.1016/j.celrep.2023.113371
 journal_title: Cell reports
 journal_nlm_ta: Cell Rep
 publisher_name: ''
-
-keywords:
----
+keywords: ~
+status: 'Integration of transcriptomes of senescent cell models with multi-tissue
+  patient samples reveals reduced COL6A3 as an inducer of senescence. https://doi.org/10.1016/j.celrep.2023.113371 '
+media: PMC10955802__nihms-1948197-f0004.jpg
