@@ -1,0 +1,28 @@
+---
+pmcid: PMC10494520
+image_filename: nihms-1914035-f0004.jpg
+figure_link: /pmc/articles/PMC10494520/figure/F4/
+number: Figure 4 |
+figure_title: Identification of biomarkers of resistance to PI3Kβ inhibition-induced
+  immunity in PTEN-deficient patient-derived xenografts (PDXs)
+caption: Mice bearing PTEN-deficient PDXs were treated with AZD6482 for four days.
+  Tumors were harvested and snap-frozen for RNA-Seq analysis (n = 4 tumors per condition
+  for each model). a, GSEA comparing AZD6482 treatment to the vehicle control for
+  each individual model. Plots show up- or down-regulation for the AZD6482-treated
+  condition. b, GSEA between PDX models (vehicles only). Statistical significance
+  of enrichment scores (p-values) was calculated by GSEA using a phenotype-based permutation
+  test. EMT, epithelial-to-mesenchymal transition; FGF, fibroblast growth factor;
+  FGFR, FGF receptor; GO, gene ontology; IGF1R, insulin-like growth factor 1 receptor;
+  MMPs, matrix metalloproteinases; NES, normalized enrichment score; OP, oncogenic
+  pathways; RTKs, receptor tyrosine kinases; TGFβ, transforming growth factor β; WP,
+  wikipathways
+article_title: PI3Kβ controls immune evasion in PTEN-deficient breast tumors.
+citation: Johann S. Bergholz, et al. Nature. ;617(7959):139-146.
+
+doi: 10.1038/s41586-023-05940-w
+journal_title: Nature
+journal_nlm_ta: Nature
+publisher_name: ''
+
+keywords:
+---

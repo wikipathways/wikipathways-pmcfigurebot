@@ -1,0 +1,33 @@
+---
+pmcid: PMC10955802
+image_filename: nihms-1948197-f0004.jpg
+figure_link: /pmc/articles/PMC10955802/figure/F4/
+number: Figure 4
+figure_title: COL6A3 is a predicted key driver gene of 28.CT_LIV SAM and a senescence-associated
+  gene
+caption: (A) Pathway enrichment analysis by ClueGO of 28.CT_LIV module genes and genes
+  from three liver COL6A3 target modules 37.TS_SF, 219.TS_BLOOD, and 61.TS_Blood.
+  Nodes (pathways) are colored according to functional groups revealed by the network
+  edges connecting terms with shared genes between the terms (default setting, Kappa
+  score Cytoscape, Bonferroni adj p < 0.01, KEGG, Reactome, WikiPathways, , tab S14.2).
+  Node size reflects pathway term adj p value (largest p < 0.0005, middle p = 0.0005–.005,
+  smallest p = 0.005–.05).(B) Expression by qRT-PCR of COL6A3 expression as normalized
+  to RPLP0 showing ~5-fold reduction in COL6A3 expression following short hairpin
+  RNA (shRNA)-targeted COL6A3 knockdown in IMR90 cells. Experimental protocol is shown
+  as inset.(C and D) Heatmaps summarizing the significance of enrichment (–log adj
+  p value) of DEGs after COL6A3 knockdown in IMR90 cells with respect to (C) senescence
+  DEGs or (D) select SAMs from (A). Genes either up-, down-, or up- + downregulated
+  were tested. A curated signature from Williams et al. included COL6A3 knockdown
+  in myofibroblasts following either 4 or 6 days of perturbation was also tested in
+  (D). Text in the heatmap in (C) are the fold enrichment values.
+article_title: Integration of transcriptomes of senescent cell models with multi-tissue
+  patient samples reveals reduced COL6A3 as an inducer of senescence.
+citation: Radoslav Savić, et al. Cell Rep. ;42(11):113371-113371.
+
+doi: 10.1016/j.celrep.2023.113371
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: ''
+
+keywords:
+---

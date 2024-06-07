@@ -1,0 +1,35 @@
+---
+pmcid: PMC9643635
+image_filename: nihms-1837102-f0009.jpg
+figure_link: /pmc/articles/PMC9643635/figure/F9/
+number: Figure 9
+figure_title: Microglial and leukocyte clusters are typified by unique transcriptional
+  pathways during S. aureus craniotomy infection
+caption: Pathways that were differentially expressed in (A) microglia, (B), monocyte/macrophage,
+  and (C) granulocyte clusters in the brain using total events (dsRed+ and dsRed−)
+  identified by scRNA-seq. Significance of the normalized enrichment scores (NES)
+  for gene set enrichment analysis (GSEA) is denoted (*, p < 0.05; **, p < 0.01; ***,
+  p < 0.001; and ****, p < 0.0001). H= Hallmark pathway; R= Reactome pathway; WP=
+  WikiPathways.
+article_title: Transcriptional profiling of phagocytic leukocytes and microglia reveals
+  a critical role for reactive oxygen species in biofilm containment during Staphylococcus
+  aureus craniotomy infection.
+citation: Joseph Menousek, et al. J Immunol. ;209(10):1973-1986.
+
+doi: 10.4049/jimmunol.2200503
+journal_title: 'Journal of immunology (Baltimore, Md. : 1950)'
+journal_nlm_ta: J Immunol
+publisher_name: ''
+
+keywords:
+- Staphylococcus aureus
+- biofilm
+- craniotomy infection
+- microglia
+- neutrophils
+- granulocytic myeloid-derived suppressor cells
+- scRNA-seq
+- reactive oxygen species
+- NOX2
+
+---

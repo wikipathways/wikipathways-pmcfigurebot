@@ -1,0 +1,31 @@
+---
+pmcid: PMC10213145
+image_filename: nihms-1893345-f0003.jpg
+figure_link: /pmc/articles/PMC10213145/figure/F2/
+number: Figure 2
+figure_title: Analysis of proteins
+caption: 'A. Volcano plot showing proteins over- and under-represented in PAD compared
+  to non-PAD according to effect size and level of significance. B. Heatmap of 96
+  mitochondria respiratory proteins in PAD and non-PAD. Participants are ordered according
+  to average protein level in ascending (non-PAD) and descending (PAD) order. C. Barchart
+  showing ribosomal-related proteins over- and under-represented in PAD compared to
+  non-PAD. D. Selected pathways enriched in PAD or non-PAD (q-value <0.05) (full list
+  in ). Gene set collections used were: Hallmark (HM), Reactome (RE), KEGG (KG), WikiPathways
+  (WP), Pathway Interaction Database (PID), and BioCarta (BC).'
+article_title: Transcriptomic and Proteomic of Gastrocnemius Muscle in Peripheral
+  Artery Disease.
+citation: Luigi Ferrucci, et al. Circ Res. ;132(11):1428-1443.
+
+doi: 10.1161/CIRCRESAHA.122.322325
+journal_title: Circulation research
+journal_nlm_ta: Circ Res
+publisher_name: ''
+
+keywords:
+- Biomarkers
+- Basic Science Research
+- Clinical Studies
+- Inflammation
+- Vascular biology
+
+---

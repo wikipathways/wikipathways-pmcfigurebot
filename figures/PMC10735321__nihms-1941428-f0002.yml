@@ -1,0 +1,42 @@
+---
+pmcid: PMC10735321
+image_filename: nihms-1941428-f0002.jpg
+figure_link: /pmc/articles/PMC10735321/figure/F2/
+number: Fig. 2
+figure_title: ''
+caption: 'Distinct proteomic profiles of SF EVs compared with plasma EVs of knee OA
+  participants. EVs from the matched SF and plasma of the knee OA ‘proteomics cohort’
+  (n = 16) were processed for proteomics. (A) Sample analysis plan and list of peptides
+  and their corresponding proteins enriched in SF compared with plasma (termed peptidesSF>PL,
+  proteinsSF>PL) based on differential missingness (none, some, or compete exclusivity
+  in one group). Comparisons of relative quantitative values were performed using
+  a paired t-test with FDR adjustment with the BH procedure; statistical significance
+  was defined as p < 0.05. For peptides with some or all values missing in a group,
+  comparisons of missing rates were performed using McNemar’s test with FDR adjustment
+  with BH procedure; statistical significance was defined as adjusted p < 0.05. Peptide
+  information is presented in –. (B-D) STRING network analysis of the identified proteinsSF>PL:
+  the bar graphs display the top 10 enriched cellular components based on the observed
+  gene counts (B), and the top 10 enriched Wikipathways, reactome pathways, biological
+  process and disease associations based on FDR (C); the graph displays the full STRING
+  network (D); the 469 edges indicate the functional and physical protein associations;
+  processes indicated by each node colors of the network are provided in the legend
+  (D).'
+article_title: Comprehensive characterization of pathogenic synovial fluid extracellular
+  vesicles from knee osteoarthritis.
+citation: Xin Zhang, et al. Clin Immunol. ;257:109812-109812.
+
+doi: 10.1016/j.clim.2023.109812
+journal_title: Clinical immunology (Orlando, Fla.)
+journal_nlm_ta: Clin Immunol
+publisher_name: ''
+
+keywords:
+- Extracellular vesicles
+- Knee osteoarthritis
+- Synovial fluid
+- Innate immune system
+- Surface markers
+- Chondrocytes
+- Immune cells
+
+---

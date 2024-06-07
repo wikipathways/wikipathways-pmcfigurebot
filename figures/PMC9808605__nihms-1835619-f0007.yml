@@ -1,0 +1,36 @@
+---
+pmcid: PMC9808605
+image_filename: nihms-1835619-f0007.jpg
+figure_link: /pmc/articles/PMC9808605/figure/F7/
+number: Figure 7
+figure_title: Population RNAseq of intestinal lymphocytes from recipients of Cd160−/−
+  or wildtype cells
+caption: '(A) Comparison of Cd160−/− T cells with matched controls resulted in the
+  detection of 216 differentially expressed genes. (B) Results from gene set enrichment
+  analysis (GSEA) performed on the comparison from panel (A). Notable and significant
+  (adjusted p-value < .05) results shown from tests on pathways from MSigDB, WikiPathways,
+  and Gene Ontology (GO) Consortium. (C) Protein expression of CD62L (left: frequency,
+  right: MFI) on colonic CD4+ T cells. (D) Gene expression of CD62L (encoded by Sell)
+  in colonic CD4+ T cells. (E) Heatmap depicting 216 differentially expressed genes
+  in Cd160−/− vs. wildtype colonic CD4+ T cells. Genes of particular interest are
+  indicated. Columns represent individual animals. (F) Signature scores computed using
+  the genes distinguishing LPL cluster 9 from other clusters (as in ) and evaluated
+  on population RNAseq samples separate the Cd160−/− samples from control samples
+  (p = 0.092, adjusted for additional comparisons involving the LPL-2 and LPL-7 cluster
+  signatures). (G) A signature created from the Cd160−/− vs. wildtype comparison was
+  used to score lamina propria lymphocytes from the single-cell results (). LPL-9
+  cluster exhibited a lower score than in the remainder of cell clusters (p < .001,
+  t test). In panels (C-D) mean ± s.e.m are shown and data points represent individual
+  animals. t-test was used. Statistical analysis for panels (F-G), see . See also
+  .'
+article_title: Induction of a colitogenic phenotype in Th1-like cells depends on interleukin
+  23 receptor signaling.
+citation: Mathias Pawlak, et al. Immunity. ;55(9):1663-1679.e6.
+
+doi: 10.1016/j.immuni.2022.08.007
+journal_title: Immunity
+journal_nlm_ta: Immunity
+publisher_name: ''
+
+keywords:
+---

@@ -1,0 +1,48 @@
+---
+pmcid: PMC10872342
+image_filename: nihms-1957137-f0007.jpg
+figure_link: /pmc/articles/PMC10872342/figure/F7/
+number: Fig. 7
+figure_title: ''
+caption: 'Comparative analysis of the effect of cancer vs effect of 9S1R-NulloPT treatment,
+  in mice mammary tissue: DEGs from a published study [] comparing 4T1.2-Luc TNBC
+  cells originating from BALB/c mammary gland vs normal BALB/c mammary tissue (group-b).
+  These were compared with the DEGs obtained from the present study of 4T1.2-Luc tumors
+  treated with 9S1R-NulloPT vs untreated tumors (group-a) to differentiate the drug-induced
+  changes vs cancer-induced changes on the mammary tissue. (A) 132 upregulated and
+  255 downregulated genes were unique to group-a as an effect of 9S1R-NulloPT treatment,
+  455 genes were commonly downregulated and 233 commonly upregulated in the two groups,
+  and thus attributed to cancer-related effects. (B) Cluster analysis of the unique
+  DEGs from our study (group a) emphasizes the drug-induced changes. No definite cluster
+  of upregulated genes were found; however, the downregulated genes show two prominent
+  clusters of Mitochondria related genes and Ribosome assembly/Translational machinery
+  related genes. (C) Results from cluster analysis of the common DEGs emphasizing
+  cancer induced gene expression, with focal adhesion related cluster upregulated
+  and at least three distinct downregulated clusters comprising Mitochondrial Electron
+  Transport Chain genes, Immune system-related genes, and Myofibril assembly genes.
+  (D) Analysis of unique clusters from group-a (effect of 9S1R-NulloPT) revealed a
+  list of top 10 up- and downregulated genes with Log2 fold change values (Y-axis)
+  and padj scores inside the columns; a list of unique GO-terms (including biological
+  processes, molecular function, cellular components) and pathways (including Kegg,
+  Reactome and Wikipathways) with number of genes (X-axis) and FDR values inside columns
+  for (E) Mitochondrial cluster and (F) Ribosomal cluster.'
+article_title: 9S1R nullomer peptide induces mitochondrial pathology, metabolic suppression,
+  and enhanced immune cell infiltration, in triple-negative breast cancer mouse model.
+citation: Nilufar Ali, et al. Biomed Pharmacother. ;170:115997-115997.
+
+doi: 10.1016/j.biopha.2023.115997
+journal_title: Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie
+journal_nlm_ta: Biomed Pharmacother
+publisher_name: ''
+
+keywords:
+- Mitochondria
+- Breast cancer
+- Triple negative breast cancer
+- TNBC
+- Nullomer
+- Peptide
+- Tumor microenvironment
+- Immune cell infiltration
+
+---

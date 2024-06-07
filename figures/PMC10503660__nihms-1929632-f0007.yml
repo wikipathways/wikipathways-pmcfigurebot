@@ -1,0 +1,39 @@
+---
+pmcid: PMC10503660
+image_filename: nihms-1929632-f0007.jpg
+figure_link: /pmc/articles/PMC10503660/figure/F7/
+number: FIG 7
+figure_title: ''
+caption: IL-33–activated eosinophils induce transcriptome changes in rested ILC2s.
+  ILC2s and eosinophils were cultured for 24 hours as in , then isolated for RNA-Seq.
+  Comparisons were made between ILC2s cultured alone or with IL-33 Act EOS. (A) The
+  1000 most variable genes are represented in a hierarchical clustering heat map.
+  (B) Parametric gene set enrichment (aka PGSEA) of WikiPathways. (C) MFA plot of
+  differentially expressed genes that are FDR < 0.05 and absolute log2-fold < 1. Representative
+  genes are labeled in MFA plot, and (D) upregulated DEG genes are shown in a table.
+  (E) DEG genes that were FDR < 0.05 log2-fold > 1 were used to identify significant
+  GO enrichment pathways. DEG genes that mapped to Reactome Immune System and Signal
+  Transduction data sets were analyzed in ToppGene to identify enrichment in significant
+  functional pathways that were both up- and downregulated between ILC2s with and
+  without IL-33 Act EOS. MFA, Multifactor analysis.
+article_title: Eosinophils promote effector functions of lung group 2 innate lymphoid
+  cells in allergic airway inflammation in mice.
+citation: William E. LeSuer, et al. J Allergy Clin Immunol. ;152(2):469-485.e10.
+
+doi: 10.1016/j.jaci.2023.03.023
+journal_title: The Journal of allergy and clinical immunology
+journal_nlm_ta: J Allergy Clin Immunol
+publisher_name: ''
+
+keywords:
+- Eosinophil
+- group 2 innate lymphoid cell
+- asthma
+- IL-33
+- IL-4
+- IL-13
+- lung
+- inflammation
+- eosinophil deficient
+
+---

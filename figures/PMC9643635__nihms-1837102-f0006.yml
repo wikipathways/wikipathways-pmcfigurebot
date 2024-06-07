@@ -1,0 +1,38 @@
+---
+pmcid: PMC9643635
+image_filename: nihms-1837102-f0006.jpg
+figure_link: /pmc/articles/PMC9643635/figure/F6/
+number: Figure 6
+figure_title: Pathway analysis of phagocytic cells in the galea during S. aureus craniotomy
+  infection
+caption: C57BL/6J mice (n=25) were sacrificed at day 3 following craniotomy infection
+  with a S. aureus-dsRed strain, whereupon viable phagocytic (dsRed+) vs. non-phagocytic
+  (dsRed−) CD45+ cells in the galea were purified by FACS for scRNA-seq. The heat
+  map depicts significantly enriched pathways in cells from each galea cluster that
+  phagocytosed S. aureus (dsRed+) in comparison to all other clusters. Significance
+  of the normalized enrichment scores (NES) for gene set enrichment analysis (GSEA)
+  is denoted (*, p < 0.05; **, p < 0.01; ***, p < 0.001; and ****, p < 0.0001). H=
+  Hallmark pathway; K= KEGG pathway; R= Reactome pathway; WP= WikiPathways; N= NABA
+  pathway.
+article_title: Transcriptional profiling of phagocytic leukocytes and microglia reveals
+  a critical role for reactive oxygen species in biofilm containment during Staphylococcus
+  aureus craniotomy infection.
+citation: Joseph Menousek, et al. J Immunol. ;209(10):1973-1986.
+
+doi: 10.4049/jimmunol.2200503
+journal_title: 'Journal of immunology (Baltimore, Md. : 1950)'
+journal_nlm_ta: J Immunol
+publisher_name: ''
+
+keywords:
+- Staphylococcus aureus
+- biofilm
+- craniotomy infection
+- microglia
+- neutrophils
+- granulocytic myeloid-derived suppressor cells
+- scRNA-seq
+- reactive oxygen species
+- NOX2
+
+---
