@@ -1,4 +1,3 @@
----
 pmcid: PMC11202239
 image_filename: cancers-16-02260-g001.jpg
 figure_link: /pmc/articles/PMC11202239/figure/cancers-16-02260-f001/
@@ -13,17 +12,17 @@ caption: Functional enrichment analysis of the transcripts (A) and genes (B) dif
 article_title: Transcript-Level Biomarkers of Early Lung Carcinogenesis in Bronchial
   Lesions.
 citation: Mikhail A. Pyatnitskiy, et al. Cancers (Basel). 2024 Jun;16(12):2260.
-
 doi: 10.3390/cancers16122260
 journal_title: Cancers
 journal_nlm_ta: Cancers (Basel)
 publisher_name: MDPI
-
 keywords:
 - bronchial premalignant lesion
 - transcriptomics
 - biomarker
 - WGCNA
 - cilium
-
----
+status: 'Transcript-Level Biomarkers of Early Lung Carcinogenesis in Bronchial Lesions.
+  https://doi.org/10.3390/cancers16122260 #BronchialPremalignantLesion #Transcriptomics
+  #Biomarker #Wgcna #Cilium'
+media: PMC11202239__cancers-16-02260-g001.jpg
