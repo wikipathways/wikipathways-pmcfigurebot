@@ -1,0 +1,26 @@
+---
+pmcid: PMC10940163
+image_filename: 41556_2024_1367_Fig9_ESM.jpg
+figure_link: /pmc/articles/PMC10940163/figure/Fig9/
+number: Extended Data Fig. 3
+figure_title: Signaling dynamics during human implantation
+caption: a, Average scaled WikiPathways module scores for combined human dataset between
+  lineages. b, Expression of WNT, FGF, BMP and NODAL associated genes plotted by stage
+  during human, macaque, and mouse pre-gastrulation development. c-d, CellphoneDB
+  dotplots for early post-implantation (c) and late post-implantation (d) stages depicting
+  the predicted activity of individual receptor-ligand pairs. Each ligand-receptor
+  pair is color matched to the expressing lineage on the x-axis.
+article_title: Distinct pathways drive anterior hypoblast specification in the implanting
+  human embryo.
+citation: Bailey A. T. Weatherbee, et al. Nat Cell Biol. 2024;26(3):353-365.
+
+doi: 10.1038/s41556-024-01367-1
+journal_title: Nature Cell Biology
+journal_nlm_ta: Nat Cell Biol
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Embryology
+- Embryonic induction
+
+---

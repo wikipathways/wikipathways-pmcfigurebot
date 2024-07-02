@@ -1,0 +1,41 @@
+---
+pmcid: PMC10715022
+image_filename: BCTT-15-899-g0006.jpg
+figure_link: /pmc/articles/PMC10715022/figure/f0006/
+number: Figure 6
+figure_title: ''
+caption: Inhibition of breast cancer cell growth by TQB3616 may have been enhanced
+  by increased apoptosis. (A) The colors in the cluster map showing the sequenced
+  samples indicate the gene expression levels as indicated by the correlation coefficients.
+  (B) A volcano plot showing gene expression with red lines representing upregulated
+  genes and blue lines representing downregulated genes. (C) Intersection of common
+  downregulated genes in the abemaciclib or TQB3616 groups compared with the blank
+  control group. (D) WikiPathways enrichment analysis of top 20 Down in abemaciclib
+  group compared with blank control group (Pathway entries correspond to more than
+  2 differentially expressed genes). E WikiPathways enrichment analysis of top 20
+  Down in TQB3616 group compared with blank control group (Pathway entries correspond
+  to more than 2 differentially expressed genes). (D–E) WikiPathways enrichment analysis
+  top 20 (Pathway entries corresponding to more than 2 differentially expressed genes).
+  (F) Subset of genes commonly altered by CDK4/6-targeted therapy in MCF-7 breast
+  cancer cell line xenograft studies. Values represent the mean percentage of gene
+  expression inhibition in the abemaciclib and TQB3616 groups compared to the vehicle
+  control group. (G) TQB3616-induced DEG enrichment in KEGG pathways in T47D cells
+  compared to control cells.
+article_title: 'The Potent Novel CDK4/6 Inhibitor TQB3616 in Hormone Receptor Positive
+  Breast Cancer: Preclinical Characterization with in vitro and Human Tumor Xenograft
+  Models.'
+citation: Wenyu Hu, et al. Breast Cancer (Dove Med Press). 2023;15:899-912.
+
+doi: 10.2147/BCTT.S434973
+journal_title: 'Breast Cancer : Targets and Therapy'
+journal_nlm_ta: Breast Cancer (Dove Med Press)
+publisher_name: Dove
+
+keywords:
+- breast cancer
+- endocrine therapy
+- CDK inhibitors
+- apoptosis
+- abemaciclib
+
+---

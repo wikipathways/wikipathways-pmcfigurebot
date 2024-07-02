@@ -1,0 +1,32 @@
+---
+pmcid: PMC10687199
+image_filename: fgene-14-1229741-g007.jpg
+figure_link: /pmc/articles/PMC10687199/figure/F7/
+number: FIGURE 7
+figure_title: ''
+caption: A graphical representation of the adjusted p-values in the negative log10
+  scale for enriched functions obtained from various databases, including Gene Ontology
+  Molecular Functions (GO:MF), Gene Ontology Cellular Components (GO:CC), Gene Ontology
+  Biological Processes (GO:BP), Kyoto Encyclopedia of Genes and Genomes (KEGG), Reactome
+  Pathway (REAC), micro-RNA target (MIRNA), Human phenotype ontology (HP), and WikiPathways
+  (WP). The enriched functions, namely, (1) nucleosome, (2) DNA packaging complex,
+  and (3) structural component of chromatin, are plotted against their respective
+  databases.
+article_title: Genetic diversity and breed-informative SNPs identification in domestic
+  pig populations using coding SNPs.
+citation: Ichrak Hayah, et al. Front Genet. 2023;14:1229741.
+
+doi: 10.3389/fgene.2023.1229741
+journal_title: Frontiers in Genetics
+journal_nlm_ta: Front Genet
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- single nucleotide polymorphisms
+- informative markers
+- discriminant analysis of principal components
+- pig breeds
+- genetic diversity
+- functional enrichment analysis
+
+---

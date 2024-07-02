@@ -1,0 +1,33 @@
+---
+pmcid: PMC10851551
+image_filename: 40246_2024_582_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC10851551/figure/Fig2/
+number: Fig. 2
+figure_title: ''
+caption: Differentially expressed genes (DEGs) in the selected studies. A Venn diagram
+  of DEGs from each study and their intersections. The genes presented are common
+  to at least 4 selected studies. B Heatmap of the DEGs common to at least 4 of the
+  studies. Class 1 and Class 2 correspond to microarrays and RNA-seq/single-cell studies,
+  respectively. Red and blue colors represent up- and downregulated genes, respectively.
+  C Bubble plot of the functional enriched pathways of the mRNA genes for each study.
+  The size and color of the dots represent the number of hits and the range of the
+  pathway’s p values, respectively. KEGG pathways are represented with no asterisk,
+  WikiPathways with *, and pathways common to both databases are represented with
+  **
+article_title: Gene expression analysis reveals diabetes-related gene signatures.
+citation: M. I. Farrim, et al. Hum Genomics. 2024;18:16.
+
+doi: 10.1186/s40246-024-00582-z
+journal_title: Human Genomics
+journal_nlm_ta: Hum Genomics
+publisher_name: BioMed Central
+
+keywords:
+- Diabetes
+- Integrative bioinformatics
+- lncRNAs
+- miRNAs
+- Genomics
+- Transdifferentiation
+
+---

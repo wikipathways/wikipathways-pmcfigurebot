@@ -1,0 +1,26 @@
+---
+pmcid: PMC10966774
+image_filename: gr6.jpg
+figure_link: /pmc/articles/PMC10966774/figure/fig6/
+number: Figure 6
+figure_title: ''
+caption: Network graph of the top 20 WikiPathways differentially enriched in the SCJ
+  of p16KO versus p16WT mice. In this graph, each dark blue node represents a WikiPathway,
+  and the size of the WikiPathway node is inversely proportional to the P value. The
+  differentially expressed genes are connected to each pathway by a line and are labelled
+  in red if increased in p16KO versus p16WT SCJ, and in green if decreased in p16KO
+  versus p16WT SCJ.
+article_title: CDKN2A-p16 Deletion and Activated KRASG12D Drive Barrett’s-Like Gland
+  Hyperplasia-Metaplasia and Synergize in the Development of Dysplasia Precancer Lesions.
+citation: Jing Sun, et al. Cell Mol Gastroenterol Hepatol. 2024;17(5):769-784.
+
+doi: 10.1016/j.jcmgh.2024.01.014
+journal_title: Cellular and Molecular Gastroenterology and Hepatology
+journal_nlm_ta: Cell Mol Gastroenterol Hepatol
+publisher_name: Elsevier
+
+keywords:
+- Barrett's metaplasia, CDKN2A-p16, KRAS, Dysplasia, Esophageal adenocarcinoma, Murine
+  genetic models, 3D organoids, Transcriptomics
+
+---

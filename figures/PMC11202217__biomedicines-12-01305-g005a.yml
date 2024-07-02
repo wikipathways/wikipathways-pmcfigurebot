@@ -1,3 +1,4 @@
+---
 pmcid: PMC11202217
 image_filename: biomedicines-12-01305-g005a.jpg
 figure_link: .na.character
@@ -12,10 +13,12 @@ caption: 'LncRNA-related pathways. (a) The counts of pathways (≥2) mapped to l
 article_title: Expanding and Enriching the LncRNA Gene–Disease Landscape Using the
   GeneCaRNA Database.
 citation: Shalini Aggarwal, et al. Biomedicines. 2024 Jun;12(6):1305.
+
 doi: 10.3390/biomedicines12061305
 journal_title: Biomedicines
 journal_nlm_ta: Biomedicines
 publisher_name: MDPI
+
 keywords:
 - non-coding RNA
 - long non-coding RNA
@@ -25,7 +28,5 @@ keywords:
 - subclassification
 - GeneCards
 - GeneCaRNA
-status: 'Expanding and Enriching the LncRNA Gene–Disease Landscape Using the GeneCaRNA
-  Database. https://doi.org/10.3390/biomedicines12061305 #NonCodingRna #LongNonCodingRna
-  #HumanNoncodingRna #Ncrna #Lncrna'
-media: PMC11202217__biomedicines-12-01305-g005a.jpg
+
+---

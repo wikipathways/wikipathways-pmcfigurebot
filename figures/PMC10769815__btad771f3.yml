@@ -1,0 +1,22 @@
+---
+pmcid: PMC10769815
+image_filename: btad771f3.jpg
+figure_link: /pmc/articles/PMC10769815/figure/btad771-F3/
+number: Figure 3
+figure_title: ''
+caption: Summarizing the result of query case 2 as a biological action, demonstrating
+  the main effects of ketamine on neurotransmitter pathways. Pathways are summarized
+  as their neurotransmitter and main interactions. The top panel shows the pathways
+  derived from the KEGG and WikiPathways databases, while the bottom panel illustrates
+  the effect of ketamine on these pathways as retrieved from KetFact.
+article_title: Mining literature and pathway data to explore the relations of ketamine
+  with neurotransmitters and gut microbiota using a knowledge-graph.
+citation: Ting Liu, et al. Bioinformatics. 2024 Jan;40(1):btad771.
+
+doi: 10.1093/bioinformatics/btad771
+journal_title: Bioinformatics
+journal_nlm_ta: Bioinformatics
+publisher_name: Oxford University Press
+
+keywords:
+---

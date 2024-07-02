@@ -1,0 +1,29 @@
+---
+pmcid: PMC11202239
+image_filename: cancers-16-02260-g001.jpg
+figure_link: /pmc/articles/PMC11202239/figure/cancers-16-02260-f001/
+number: Figure 1
+figure_title: ''
+caption: Functional enrichment analysis of the transcripts (A) and genes (B) differentially
+  expressed between normal and PML samples. Gene sets were obtained from the WikiPathways
+  resource [], and the 15 most enriched gene sets are visualized. GeneRatio is the
+  fraction of differentially expressed genes in the pathway of interest, contributing
+  to the enrichment signal. False-discovery rate (FDR) is the adjusted p-value of
+  the enrichment significance.
+article_title: Transcript-Level Biomarkers of Early Lung Carcinogenesis in Bronchial
+  Lesions.
+citation: Mikhail A. Pyatnitskiy, et al. Cancers (Basel). 2024 Jun;16(12):2260.
+
+doi: 10.3390/cancers16122260
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- bronchial premalignant lesion
+- transcriptomics
+- biomarker
+- WGCNA
+- cilium
+
+---

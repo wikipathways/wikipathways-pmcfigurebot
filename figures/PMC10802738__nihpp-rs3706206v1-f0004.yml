@@ -1,0 +1,33 @@
+---
+pmcid: PMC10802738
+image_filename: nihpp-rs3706206v1-f0004.jpg
+figure_link: /pmc/articles/PMC10802738/figure/F4/
+number: Figure 4
+figure_title: Functional enrichment analysis of APOE-dependent protein-protein interaction
+  partners
+caption: a) A scheme of the PPI partners selection, where first degree partners of
+  the APOE-dependent proteins were extracted from the InWeb database. b-c) Enrichment
+  of selected Gene Ontology terms for the PPI partner proteins shown as b) dotplot
+  and c) gene-concept network. d-e)Enrichment of top seven unique Wikipathways shown
+  as d) dotplot and e)gene-concept network.
+article_title: Serum proteomics reveals APOE dependent and independent protein signatures
+  in Alzheimer’s disease.
+citation: Valborg Gudmundsdottir, et al. Res Sq. 2024 Jan 9:rs.3.rs-3706206.
+
+doi: 10.21203/rs.3.rs-3706206/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+
+keywords:
+- Alzheimer’s disease
+- APOE
+- Proteomics
+- Mendelian randomization
+- Longitudinal study
+- Cross-sectional study
+- CSF
+- Brain
+- Network
+
+---

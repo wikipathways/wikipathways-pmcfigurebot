@@ -1,0 +1,33 @@
+---
+pmcid: PMC11199618
+image_filename: 41598_2024_65094_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC11199618/figure/Fig2/
+number: Figure 2
+figure_title: ''
+caption: Protein–protein interaction network of HDAC6 identified in CNS. The interactions
+  were derived from the literature using a semi-automated literature screen and were
+  classified into five compartments based on the reported type and function of the
+  interaction. The grey octagonal boxes represent protein complexes. The interactive
+  pathway is available on Zenodo (10.5281/zenodo.10082264) as well as WikiPathways
+  under the accession number WP5426.
+article_title: A novel insight into neurological disorders through HDAC6 protein–protein
+  interactions.
+citation: Nasim Bahram Sangani, et al. Sci Rep. 2024;14:14666.
+
+doi: 10.1038/s41598-024-65094-1
+journal_title: Scientific Reports
+journal_nlm_ta: Sci Rep
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Histone deacetylase 6 (HDAC6)
+- Protein–protein interactions
+- Central nervous system
+- Alzheimer’s disease
+- Parkinson’s disease
+- Amyotrophic lateral sclerosis
+- Molecular biology
+- Neuroscience
+- Literature mining
+
+---

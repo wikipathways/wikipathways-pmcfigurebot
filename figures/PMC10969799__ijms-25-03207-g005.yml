@@ -1,0 +1,31 @@
+---
+pmcid: PMC10969799
+image_filename: ijms-25-03207-g005.jpg
+figure_link: /pmc/articles/PMC10969799/figure/ijms-25-03207-f005/
+number: Figure 5
+figure_title: ''
+caption: Dot plot for overrepresentation analysis (ORA) based on different databases,
+  analysis with Gene Ontology (GO, (A)), Kyoto Encyclopedia of Genes and Genomes (KEGG,
+  (B)) and Wikipathways (C). Results are ranked according to kinase ration, and dot
+  size represents involved numbers/counts of kinases. Enriched pathways are visualized
+  as network plot (D). Dot size represents the number of protein-encoding genes enriched
+  in each pathway. Red color represents upregulated protein levels. White color represent
+  downregulated protein levels, and dot size represents involved kinases.
+article_title: Identifying Differences in Molecular Characteristics Relevant for Remodeling
+  of Periodontal Ligament Stem Cells from the Upper and Lower Jaw.
+citation: Hanna Malyaran, et al. Int J Mol Sci. 2024 Mar;25(6):3207.
+
+doi: 10.3390/ijms25063207
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- kinase activity
+- periodontal ligament stem cells
+- mandible
+- maxilla
+- tyrosine
+- serine/threonine
+
+---

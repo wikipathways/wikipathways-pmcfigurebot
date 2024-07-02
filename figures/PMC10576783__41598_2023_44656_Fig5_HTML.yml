@@ -1,0 +1,28 @@
+---
+pmcid: PMC10576783
+image_filename: 41598_2023_44656_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC10576783/figure/Fig5/
+number: Figure 5
+figure_title: ''
+caption: g:Profiler performs functional enrichment analysis, also known as over-representation
+  analysis (ORA) or gene set enrichment analysis, on DEGs list. In addition to Gene
+  Ontology, it includes pathways from KEGG Reactome and WikiPathways. Red represents
+  MF, orange represents BP, green represents CC, pink represents KEGG, blue represents
+  REAC.
+article_title: Copper metabolism-related Genes in entorhinal cortex for Alzheimer's
+  disease.
+citation: Yan Zhang, et al. Sci Rep. 2023;13:17458.
+
+doi: 10.1038/s41598-023-44656-9
+journal_title: Scientific Reports
+journal_nlm_ta: Sci Rep
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Computational biology and bioinformatics
+- Neuroscience
+- Diseases
+- Molecular medicine
+- Neurology
+
+---

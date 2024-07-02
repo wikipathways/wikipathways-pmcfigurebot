@@ -1,0 +1,29 @@
+---
+pmcid: PMC10940163
+image_filename: 41556_2024_1367_Fig8_ESM.jpg
+figure_link: /pmc/articles/PMC10940163/figure/Fig8/
+number: Extended Data Fig. 2
+figure_title: Generation of combined mouse dataset
+caption: a, Uniform Manifold Approximation Projection (UMAP) of mouse scRNA-seq datasets
+  colored by original publication. N = 16395 single cells. b, UMAP of mouse datasets
+  colored by age. c, UMAP of mouse datasets colored by assigned cell type. d, UMAPs
+  of mouse datasets colored by a gradient indicating gene expression for canonical
+  markers of epiblast (EPI), primitive endoderm/visceral endoderm (PrE/VE), primitive
+  streak, and trophectoderm/extraembryonic ectoderm (TE/ExE). e, Heatmap of average
+  WikiPathways signaling pathway module score split by cell type and stage. Visualized
+  value is calculated average scaled score from individual single-cell module scores.
+  Gene names were converted from mmus to hgnc gene symbols for module scoring.
+article_title: Distinct pathways drive anterior hypoblast specification in the implanting
+  human embryo.
+citation: Bailey A. T. Weatherbee, et al. Nat Cell Biol. 2024;26(3):353-365.
+
+doi: 10.1038/s41556-024-01367-1
+journal_title: Nature Cell Biology
+journal_nlm_ta: Nat Cell Biol
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Embryology
+- Embryonic induction
+
+---

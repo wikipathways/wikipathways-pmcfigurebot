@@ -1,0 +1,26 @@
+---
+pmcid: PMC10840405
+image_filename: 10.1177_11779322241227722-fig2.jpg
+figure_link: /pmc/articles/PMC10840405/figure/fig2-11779322241227722/
+number: Figure 2
+figure_title: ''
+caption: Pathway analysis results using KEGG and WikiPathways. (A) KEGG and (B) WikiPathways
+  significant pathways considering P < .05. Gene ratio refers to the relative number
+  of the involved genes in a pathway and all genes that were identified in significant
+  pathways.KEGG indicates Kyoto Encyclopedia of Genes and Genomes.
+article_title: Functional Enrichment Analysis of Tumor Microenvironment–Driven Molecular
+  Alterations That Facilitate Epithelial-to-Mesenchymal Transition and Distant Metastasis.
+citation: Mahnaz Abdolahi, et al. Bioinform Biol Insights. 2024;18:11779322241227722.
+
+doi: 10.1177/11779322241227722
+journal_title: Bioinformatics and Biology Insights
+journal_nlm_ta: Bioinform Biol Insights
+publisher_name: SAGE Publications
+
+keywords:
+- Hepatocellular carcinoma
+- epithelial-to-mesenchymal transition
+- metastasis
+- tumor microenvironment
+
+---

@@ -1,0 +1,33 @@
+---
+pmcid: PMC11096557
+image_filename: fphar-15-1373007-g003.jpg
+figure_link: /pmc/articles/PMC11096557/figure/F3/
+number: FIGURE 3
+figure_title: ''
+caption: Functional enrichment analysis. (A) Heatmap of gastric cancer driver genes
+  with oncogenic variants being part of oncogenes, tumor suppressor genes, cell cycle
+  genes, DNA-repair genes, kinome, metastatic genes, cancer immunotherapy genes, and
+  genes encoding RNA-binding proteins. (B) Most significant (Benjamini–Hochberg false
+  discovery rate (FDR) q-value <0.001) Gene Ontology (GO) biological processes, Kyoto
+  Encyclopedia of Genes and Genomes (KEGG) signaling pathways, WikiPathways, and Human
+  Phenotype Ontology annotations where the gastric cancer driver genes with oncogenic
+  variants were involved. (C) Manhattan plot of the most significant GO biological
+  processes, KEGG signaling pathways, Reactome signaling pathways, WikiPathways, and
+  Human Phenotype Ontology annotations.
+article_title: Gastric cancer actionable genomic alterations across diverse populations
+  worldwide and pharmacogenomics strategies based on precision oncology.
+citation: Gabriela Echeverría-Garcés, et al. Front Pharmacol. 2024;15:1373007.
+
+doi: 10.3389/fphar.2024.1373007
+journal_title: Frontiers in Pharmacology
+journal_nlm_ta: Front Pharmacol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- gastric cancer
+- precision oncology
+- ethnic groups
+- genomic alterations
+- therapeutic strategies
+
+---

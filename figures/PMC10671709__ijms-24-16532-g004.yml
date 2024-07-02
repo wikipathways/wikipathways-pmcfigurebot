@@ -1,0 +1,33 @@
+---
+pmcid: PMC10671709
+image_filename: ijms-24-16532-g004.jpg
+figure_link: /pmc/articles/PMC10671709/figure/ijms-24-16532-f004/
+number: Figure 4
+figure_title: ''
+caption: 'Identification of significant DEGs induced by sedanolide in luciferases-expressing
+  HepG2 cells. (A) The number of significant DEGs. Red: upregulation, blue: downregulation.
+  (B) Volcano plot of RNA-seq results of sedanolide-treated cells versus control cells.
+  Differential gene expression with log2-normalized fold changes (FCs) in sedanolide-treated
+  cells (n = 3) or control cells (n = 3) plotted against −log10 FDR. Red dots: upregulated
+  significant DEGs in sedanolide-treated cells (FC > 1.5, FDR < 0.05); blue dots:
+  downregulated significant DEGs in sedanolide-treated cells (FC < −1.5, FDR < 0.05).
+  (C) Pathway enrichment analysis in sedanolide-treated cells compared with control
+  cells, as determined by the WikiPathways analysis. Upregulated genes belonging to
+  the corresponding pathways are summarized in the right panel.'
+article_title: Sedanolide Activates KEAP1–NRF2 Pathway and Ameliorates Hydrogen Peroxide-Induced
+  Apoptotic Cell Death.
+citation: Yosuke Tabei, et al. Int J Mol Sci. 2023 Nov;24(22):16532.
+
+doi: 10.3390/ijms242216532
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- sedanolide
+- ARE
+- NRF2
+- oxidative stress
+- apoptosis
+
+---

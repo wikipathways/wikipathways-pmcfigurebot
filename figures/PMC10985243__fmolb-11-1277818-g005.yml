@@ -1,0 +1,28 @@
+---
+pmcid: PMC10985243
+image_filename: fmolb-11-1277818-g005.jpg
+figure_link: /pmc/articles/PMC10985243/figure/F5/
+number: FIGURE 5
+figure_title: ''
+caption: Gene set enrichment analysis (GSEA). (A) Four main biological features of
+  GSEA of genes among different subgroups in the aortic dissection (AD) group. The
+  vertical coordinate is the gene set name. (B–E) Genes in the AD group were significantly
+  enriched in the KEGG p53 signaling pathway (B), KEGG cell cycle (C), WikiPathways
+  Wnt signaling (D), and KEGG JAK-STAT signaling pathway (E). Significant enrichment
+  was assessed at p.adjust < 0.05 and FDR value (q.value) < 0.05.
+article_title: Roles of pyroptosis and immune infiltration in aortic dissection.
+citation: Xiaogang Ge, et al. Front Mol Biosci. 2024;11:1277818.
+
+doi: 10.3389/fmolb.2024.1277818
+journal_title: Frontiers in Molecular Biosciences
+journal_nlm_ta: Front Mol Biosci
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- aortic dissection
+- bioinformatics
+- pyroptosis
+- immune infiltration
+- database
+
+---

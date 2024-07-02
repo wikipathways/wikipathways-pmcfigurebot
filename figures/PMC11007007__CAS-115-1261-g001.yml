@@ -1,0 +1,30 @@
+---
+pmcid: PMC11007007
+image_filename: CAS-115-1261-g001.jpg
+figure_link: /pmc/articles/PMC11007007/figure/cas16089-fig-0003/
+number: FIGURE 3
+figure_title: ''
+caption: The results of gene set enrichment analysis (GSEA). (A) Top enriched pathway
+  in Kyoto Encyclopedia of Genes and Genomes (KEGG), Hallmark, Reactome, BioCarta,
+  Pathway Interaction Database (PID), and WikiPathways. (B) A heatmap of the gene
+  set variation analysis (GSVA) score of the GSEA pathways significantly correlated
+  with radiomic risk signature (RRS). (C) Bar plot of the top five enriched pathways
+  in each gene set. (D) Ridgeline plot of the top five enriched pathways in each gene
+  set.
+article_title: Radiomic profiling for insular diffuse glioma stratification with distinct
+  biologic pathway activities.
+citation: Wenchao Duan, et al. Cancer Sci. 2024 Apr;115(4):1261-1272.
+
+doi: 10.1111/cas.16089
+journal_title: Cancer Science
+journal_nlm_ta: Cancer Sci
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- biological pathway
+- insular glioma
+- machine learning
+- prognosis
+- radiomic features
+
+---

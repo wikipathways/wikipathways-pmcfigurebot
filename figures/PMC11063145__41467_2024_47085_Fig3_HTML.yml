@@ -1,0 +1,32 @@
+---
+pmcid: PMC11063145
+image_filename: 41467_2024_47085_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC11063145/figure/Fig3/
+number: Fig. 3
+figure_title: Transcriptomic analyses of differentially expressed genes in H and AC
+  iHLCs
+caption: A Integrative analysis of differentially expressed genes for the Wikipathways
+  gene set was performed using PIANO (Bioconductor). The most statistically significant
+  downregulated pathways (blue) associated with metabolism and cell fate. B Wikipathways
+  gene set analyses of upregulated pathways (red) associated with metabolism and cell
+  fate. C Analyses of differentially expressed genes for KEGG pathways using the COLOR
+  feature. Several genes associated with lipid pathways (red) were upregulated. D
+  KEGG COLOR analyses highlighted multiple genes interacting with oxidative phosphorylation
+  that were downregulated(blue), predicting lower NAD and ATP (blue). E KEGG COLOR
+  analyses also highlighted the electron transport chain in which several genes interacting
+  with mitochondrial complexes were downregulated (blue) in AC.
+article_title: A patient-based iPSC-derived hepatocyte model of alcohol-associated
+  cirrhosis reveals bioenergetic insights into disease pathogenesis.
+citation: Bani Mukhopadhyay, et al. Nat Commun. 2024;15:2869.
+
+doi: 10.1038/s41467-024-47085-y
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Stem-cell research
+- Hepatology
+- Translational research
+
+---

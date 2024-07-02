@@ -1,0 +1,34 @@
+---
+pmcid: PMC10693540
+image_filename: 10565_2023_9816_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC10693540/figure/Fig4/
+number: Fig. 4
+figure_title: ''
+caption: Pathway analysis. A Class-specific altered pathways. i. ORA analysis performed
+  with PathVisio, starting from the class-specific inhibition response. Asterisks
+  indicate pathways changed in the pathway analysis of the intersect gene list (Figure
+  B). Cuts-off of significance include Z-score > 2 and permuted p value < 0.05. Red
+  boxes indicate pathways below the threshold of significance. ii. ORA analysis performed
+  with IPA, starting from the class-specific inhibition response, cuts-off of significance
+  include absolute activation z-score > 2 and p value < 0.05. B Compound-specific
+  altered pathways. Displayed pathways are induced from at least four compounds. i.
+  Compound-specific pathway analysis performed with Pathvisio, cuts-off of significance
+  include Z-Score > 2 and permuted p value < 0.05. ii. Compound-specific pathway analysis
+  performed with IPA, cuts-off of significance include p value < 0.05
+article_title: Transcriptional landscape of mitochondrial electron transport chain
+  inhibition in renal cells.
+citation: Giada Carta, et al. Cell Biol Toxicol. 2023;39(6):3031-3059.
+
+doi: 10.1007/s10565-023-09816-7
+journal_title: Cell Biology and Toxicology
+journal_nlm_ta: Cell Biol Toxicol
+publisher_name: Springer Netherlands
+
+keywords:
+- Mitochondria
+- In vitro
+- Renal
+- Stress pathway
+- Transcriptomic
+
+---

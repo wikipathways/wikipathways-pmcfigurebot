@@ -1,0 +1,30 @@
+---
+pmcid: PMC11121660
+image_filename: ijms-25-05205-g006.jpg
+figure_link: /pmc/articles/PMC11121660/figure/ijms-25-05205-f006/
+number: Figure 6
+figure_title: ''
+caption: The ridge plots of GSEA results for CeAD against the GO BP (a), KEGG (b),
+  and WikiPathways (c) databases. The distribution of rank orders for the individual
+  genes is displayed on the x-axis. Similar pathways are located next to each other
+  on the y-axis.
+article_title: Peripheral Blood Gene Expression Profiling Reveals Molecular Pathways
+  Associated with Cervical Artery Dissection.
+citation: Polina S. Shlapakova, et al. Int J Mol Sci. 2024 May;25(10):5205.
+
+doi: 10.3390/ijms25105205
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- cervical artery dissection
+- undifferentiated connective tissue dysplasia
+- genome-wide association studies
+- bulk RNA sequencing
+- nucleolar stress
+- senescence-associated secretory phenotype
+- mitochondrial malfunction
+- epithelial–mesenchymal plasticity
+
+---

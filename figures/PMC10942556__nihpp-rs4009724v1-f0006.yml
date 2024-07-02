@@ -1,0 +1,32 @@
+---
+pmcid: PMC10942556
+image_filename: nihpp-rs4009724v1-f0006.jpg
+figure_link: /pmc/articles/PMC10942556/figure/F6/
+number: Figure 6
+figure_title: ''
+caption: PPARγ as a key regulating factor of cellular senescence in alveolar macrophages.
+  A, Six gene modules identified by the hdWGCNA analysis focused on Leiden cluster
+  1. B, Brown module was positively correlated with the difference in cellular senescence
+  between ACO and control groups. C, Top 30 hub genes withhigh correlations in the
+  brown module. D-F, Different pathways in the brown module were identified by WikiPathways
+  (D), Reactome (E)and KCGG (F). G, Top 10 specific regulons for Leiden cluster 1
+  ranked by score value generated from PySCENIC. H, Transcription factor enrichment
+  analysis within the brown module against the TRRUST database.
+article_title: PPARγ Attenuates Cellular Senescence of Alveolar Macrophages in Asthma-
+  COPD Overlap.
+citation: Rongjun Wan, et al. Res Sq. 2024 Mar 5:rs.3.rs-4009724.
+
+doi: 10.21203/rs.3.rs-4009724/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+
+keywords:
+- ACO
+- Asthma
+- COPD
+- Macrophages
+- Senescence
+- PPARγ
+
+---
