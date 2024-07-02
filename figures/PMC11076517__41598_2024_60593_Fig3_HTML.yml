@@ -1,4 +1,3 @@
----
 pmcid: PMC11076517
 image_filename: 41598_2024_60593_Fig3_HTML.jpg
 figure_link: /pmc/articles/PMC11076517/figure/Fig3/
@@ -12,12 +11,10 @@ caption: 'GO terms and pathways enriched among genes affected by C2A-2B-3-4 ove
 article_title: Transcriptome- and proteome-wide effects of a circular RNA encompassing
   four early exons of the spinal muscular atrophy genes.
 citation: Diou Luo, et al. Sci Rep. 2024;14:10442.
-
 doi: 10.1038/s41598-024-60593-7
 journal_title: Scientific Reports
 journal_nlm_ta: Sci Rep
 publisher_name: Nature Publishing Group UK
-
 keywords:
 - Spinal muscular atrophy, SMA
 - Survival Motor Neuron, SMN
@@ -27,5 +24,8 @@ keywords:
 - Alternative splicing
 - Proteomics
 - Transcriptomics
-
----
+status: 'Transcriptome- and proteome-wide effects of a circular RNA encompassing four
+  early exons of the spinal muscular atrophy genes. https://doi.org/10.1038/s41598-024-60593-7
+  #SpinalMuscularAtrophy,Sma #SurvivalMotorNeuron,Smn #CircularRna,Circrna #Proteome
+  #Transcriptome'
+media: PMC11076517__41598_2024_60593_Fig3_HTML.jpg

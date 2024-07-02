@@ -1,4 +1,3 @@
----
 pmcid: PMC11210591
 image_filename: pai-9-025-g004.jpg
 figure_link: /pmc/articles/PMC11210591/figure/F4/
@@ -13,12 +12,10 @@ caption: Selected statistically significant differentially expressed pathways an
 article_title: A Transcriptomic Biomarker Predicting Linezolid-Associated Neuropathy
   During Treatment of Drug-Resistant Tuberculosis.
 citation: Nika Zielinski, et al. Pathog Immun. 2024;9(2):25-42.
-
 doi: 10.20411/pai.v9i2.705
 journal_title: Pathogens and Immunity
 journal_nlm_ta: Pathog Immun
 publisher_name: Pathogens and Immunity
-
 keywords:
 - adverse events
 - linezolid
@@ -27,5 +24,7 @@ keywords:
 - SBSN
 - tuberculosis
 - multidrug resistance
-
----
+status: 'A Transcriptomic Biomarker Predicting Linezolid-Associated Neuropathy During
+  Treatment of Drug-Resistant Tuberculosis. https://doi.org/10.20411/pai.v9i2.705
+  #AdverseEvents #Linezolid #Neurotoxicity #PrecisionMedicine #Sbsn'
+media: PMC11210591__pai-9-025-g004.jpg

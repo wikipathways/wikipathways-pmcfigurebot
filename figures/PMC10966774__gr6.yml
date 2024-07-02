@@ -1,4 +1,3 @@
----
 pmcid: PMC10966774
 image_filename: gr6.jpg
 figure_link: /pmc/articles/PMC10966774/figure/fig6/
@@ -13,14 +12,13 @@ caption: Network graph of the top 20 WikiPathways differentially enriched in the
 article_title: CDKN2A-p16 Deletion and Activated KRASG12D Drive Barrett’s-Like Gland
   Hyperplasia-Metaplasia and Synergize in the Development of Dysplasia Precancer Lesions.
 citation: Jing Sun, et al. Cell Mol Gastroenterol Hepatol. 2024;17(5):769-784.
-
 doi: 10.1016/j.jcmgh.2024.01.014
 journal_title: Cellular and Molecular Gastroenterology and Hepatology
 journal_nlm_ta: Cell Mol Gastroenterol Hepatol
 publisher_name: Elsevier
-
-keywords:
-- Barrett's metaplasia, CDKN2A-p16, KRAS, Dysplasia, Esophageal adenocarcinoma, Murine
-  genetic models, 3D organoids, Transcriptomics
-
----
+keywords: Barrett's metaplasia, CDKN2A-p16, KRAS, Dysplasia, Esophageal adenocarcinoma,
+  Murine genetic models, 3D organoids, Transcriptomics
+status: 'CDKN2A-p16 Deletion and Activated KRASG12D Drive Barrett’s-Like Gland Hyperplasia-Metaplasia
+  and Synergize in the Development of Dysplasia Precancer Lesions. https://doi.org/10.1016/j.jcmgh.2024.01.014
+  #Barrett''sMetaplasia,Cdkn2aP16,Kras,Dysplasia,EsophagealAdenocarcinoma,MurineGeneticModels,3dOrganoids,Transcriptomics'
+media: PMC10966774__gr6.jpg

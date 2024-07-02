@@ -1,4 +1,3 @@
----
 pmcid: PMC11096557
 image_filename: fphar-15-1373007-g003.jpg
 figure_link: /pmc/articles/PMC11096557/figure/F3/
@@ -17,17 +16,17 @@ caption: Functional enrichment analysis. (A) Heatmap of gastric cancer driver ge
 article_title: Gastric cancer actionable genomic alterations across diverse populations
   worldwide and pharmacogenomics strategies based on precision oncology.
 citation: Gabriela Echeverría-Garcés, et al. Front Pharmacol. 2024;15:1373007.
-
 doi: 10.3389/fphar.2024.1373007
 journal_title: Frontiers in Pharmacology
 journal_nlm_ta: Front Pharmacol
 publisher_name: Frontiers Media S.A.
-
 keywords:
 - gastric cancer
 - precision oncology
 - ethnic groups
 - genomic alterations
 - therapeutic strategies
-
----
+status: 'Gastric cancer actionable genomic alterations across diverse populations
+  worldwide and pharmacogenomics strategies based on precision oncology. https://doi.org/10.3389/fphar.2024.1373007
+  #GastricCancer #PrecisionOncology #EthnicGroups #GenomicAlterations #TherapeuticStrategies'
+media: PMC11096557__fphar-15-1373007-g003.jpg

@@ -1,4 +1,3 @@
----
 pmcid: PMC11015698
 image_filename: 40001_2024_1814_Fig8_HTML.jpg
 figure_link: /pmc/articles/PMC11015698/figure/Fig8/
@@ -12,12 +11,10 @@ caption: Enrichment analysis of AP3S1 in ovarian cancer. A Gene Ontology (GO) en
 article_title: Functional analysis and validation of oncodrive gene AP3S1 in ovarian
   cancer through filtering of mutation data from whole-exome sequencing.
 citation: Deshui Kong, et al. Eur J Med Res. 2024;29:231.
-
 doi: 10.1186/s40001-024-01814-7
 journal_title: European Journal of Medical Research
 journal_nlm_ta: Eur J Med Res
 publisher_name: BioMed Central
-
 keywords:
 - Ovarian cancer
 - Somatic mutation
@@ -25,5 +22,7 @@ keywords:
 - Immune infiltration
 - TGF-β pathway
 - EMT
-
----
+status: 'Functional analysis and validation of oncodrive gene AP3S1 in ovarian cancer
+  through filtering of mutation data from whole-exome sequencing. https://doi.org/10.1186/s40001-024-01814-7
+  #OvarianCancer #SomaticMutation #Ap3s1 #ImmuneInfiltration #TgfΒPathway'
+media: PMC11015698__40001_2024_1814_Fig8_HTML.jpg

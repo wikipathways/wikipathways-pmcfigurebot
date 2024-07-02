@@ -1,4 +1,3 @@
----
 pmcid: PMC11121660
 image_filename: ijms-25-05205-g006.jpg
 figure_link: /pmc/articles/PMC11121660/figure/ijms-25-05205-f006/
@@ -11,12 +10,10 @@ caption: The ridge plots of GSEA results for CeAD against the GO BP (a), KEGG (b
 article_title: Peripheral Blood Gene Expression Profiling Reveals Molecular Pathways
   Associated with Cervical Artery Dissection.
 citation: Polina S. Shlapakova, et al. Int J Mol Sci. 2024 May;25(10):5205.
-
 doi: 10.3390/ijms25105205
 journal_title: International Journal of Molecular Sciences
 journal_nlm_ta: Int J Mol Sci
 publisher_name: MDPI
-
 keywords:
 - cervical artery dissection
 - undifferentiated connective tissue dysplasia
@@ -26,5 +23,8 @@ keywords:
 - senescence-associated secretory phenotype
 - mitochondrial malfunction
 - epithelial–mesenchymal plasticity
-
----
+status: 'Peripheral Blood Gene Expression Profiling Reveals Molecular Pathways Associated
+  with Cervical Artery Dissection. https://doi.org/10.3390/ijms25105205 #CervicalArteryDissection
+  #UndifferentiatedConnectiveTissueDysplasia #GenomeWideAssociationStudies #BulkRnaSequencing
+  #NucleolarStress'
+media: PMC11121660__ijms-25-05205-g006.jpg

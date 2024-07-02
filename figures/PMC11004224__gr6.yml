@@ -1,4 +1,3 @@
----
 pmcid: PMC11004224
 image_filename: gr6.jpg
 figure_link: /pmc/articles/PMC11004224/figure/fig6/
@@ -11,16 +10,16 @@ caption: WikiPathways diagram of adipogenesis genesIn blue, the genes participat
 article_title: 'PM2.5, component cause of severe metabolically abnormal obesity: An
   in silico, observational and analytical study.'
 citation: Sagrario Lobato, et al. Heliyon. 2024 Apr 15;10(7):e28936.
-
 doi: 10.1016/j.heliyon.2024.e28936
 journal_title: Heliyon
 journal_nlm_ta: Heliyon
 publisher_name: Elsevier
-
 keywords:
 - Metabolically abnormal obesity
 - Airborne particulate matter
 - Causality
 - Transcriptional signatures
-
----
+status: 'PM2.5, component cause of severe metabolically abnormal obesity: An in silico,
+  observational and analytical study. https://doi.org/10.1016/j.heliyon.2024.e28936
+  #MetabolicallyAbnormalObesity #AirborneParticulateMatter #Causality #TranscriptionalSignatures'
+media: PMC11004224__gr6.jpg

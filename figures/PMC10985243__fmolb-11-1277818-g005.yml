@@ -1,4 +1,3 @@
----
 pmcid: PMC10985243
 image_filename: fmolb-11-1277818-g005.jpg
 figure_link: /pmc/articles/PMC10985243/figure/F5/
@@ -12,17 +11,16 @@ caption: Gene set enrichment analysis (GSEA). (A) Four main biological features 
   was assessed at p.adjust < 0.05 and FDR value (q.value) < 0.05.
 article_title: Roles of pyroptosis and immune infiltration in aortic dissection.
 citation: Xiaogang Ge, et al. Front Mol Biosci. 2024;11:1277818.
-
 doi: 10.3389/fmolb.2024.1277818
 journal_title: Frontiers in Molecular Biosciences
 journal_nlm_ta: Front Mol Biosci
 publisher_name: Frontiers Media S.A.
-
 keywords:
 - aortic dissection
 - bioinformatics
 - pyroptosis
 - immune infiltration
 - database
-
----
+status: 'Roles of pyroptosis and immune infiltration in aortic dissection. https://doi.org/10.3389/fmolb.2024.1277818
+  #AorticDissection #Bioinformatics #Pyroptosis #ImmuneInfiltration #Database'
+media: PMC10985243__fmolb-11-1277818-g005.jpg

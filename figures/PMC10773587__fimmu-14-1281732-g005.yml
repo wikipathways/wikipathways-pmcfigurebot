@@ -1,4 +1,3 @@
----
 pmcid: PMC10773587
 image_filename: fimmu-14-1281732-g005.jpg
 figure_link: /pmc/articles/PMC10773587/figure/f5/
@@ -12,12 +11,10 @@ caption: 'Enrichment analyses of the 32 and 48 candidate serum biomarkers of α-
 article_title: Serum proteomics reveals a tolerant immune phenotype across multiple
   pathogen taxa in wild vampire bats.
 citation: Amanda Vicente-Santos, et al. Front Immunol. 2023;14:1281732.
-
 doi: 10.3389/fimmu.2023.1281732
 journal_title: Frontiers in Immunology
 journal_nlm_ta: Front Immunol
 publisher_name: Frontiers Media S.A.
-
 keywords:
 - Desmodus rotundus
 - bacteria
@@ -25,5 +22,7 @@ keywords:
 - protozoa
 - biomarker
 - shotgun proteomics
-
----
+status: 'Serum proteomics reveals a tolerant immune phenotype across multiple pathogen
+  taxa in wild vampire bats. https://doi.org/10.3389/fimmu.2023.1281732 #DesmodusRotundus
+  #Bacteria #Virus #Protozoa #Biomarker'
+media: PMC10773587__fimmu-14-1281732-g005.jpg

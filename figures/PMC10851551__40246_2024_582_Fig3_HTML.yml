@@ -1,4 +1,3 @@
----
 pmcid: PMC10851551
 image_filename: 40246_2024_582_Fig3_HTML.jpg
 figure_link: /pmc/articles/PMC10851551/figure/Fig3/
@@ -12,12 +11,10 @@ caption: Functional interaction of common differentially expressed proteins. A N
   with **
 article_title: Gene expression analysis reveals diabetes-related gene signatures.
 citation: M. I. Farrim, et al. Hum Genomics. 2024;18:16.
-
 doi: 10.1186/s40246-024-00582-z
 journal_title: Human Genomics
 journal_nlm_ta: Hum Genomics
 publisher_name: BioMed Central
-
 keywords:
 - Diabetes
 - Integrative bioinformatics
@@ -25,5 +22,6 @@ keywords:
 - miRNAs
 - Genomics
 - Transdifferentiation
-
----
+status: 'Gene expression analysis reveals diabetes-related gene signatures. https://doi.org/10.1186/s40246-024-00582-z
+  #Diabetes #IntegrativeBioinformatics #Lncrnas #Mirnas #Genomics'
+media: PMC10851551__40246_2024_582_Fig3_HTML.jpg

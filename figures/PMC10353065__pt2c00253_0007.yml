@@ -1,4 +1,3 @@
----
 pmcid: PMC10353065
 image_filename: pt2c00253_0007.jpg
 figure_link: /pmc/articles/PMC10353065/figure/fig6/
@@ -21,12 +20,10 @@ caption: Transcriptomic profiling of up-regulated targets of Analog 523. A) Venn
 article_title: Induction of Aryl Hydrocarbon Receptor-Mediated Cancer Cell-Selective
   Apoptosis in Triple-Negative Breast Cancer Cells by a High-Affinity Benzimidazoisoquinoline.
 citation: Daniel J. Elson, et al. ACS Pharmacol Transl Sci. 2023 Jul 14;6(7):1028-1042.
-
 doi: 10.1021/acsptsci.2c00253
 journal_title: ACS Pharmacology & Translational Science
 journal_nlm_ta: ACS Pharmacol Transl Sci
 publisher_name: American Chemical Society
-
 keywords:
 - aryl hydrocarbon receptor
 - apoptosis
@@ -37,5 +34,8 @@ keywords:
 - |-
   breast cancer
   stem cells
-
----
+status: |-
+  Induction of Aryl Hydrocarbon Receptor-Mediated Cancer Cell-Selective Apoptosis in Triple-Negative Breast Cancer Cells by a High-Affinity Benzimidazoisoquinoline. https://doi.org/10.1021/acsptsci.2c00253 #ArylHydrocarbonReceptor #Apoptosis #TripleNegative
+  BreastCancer #Benzimidazoisoquinoline #BreastCancer
+  StemCells
+media: PMC10353065__pt2c00253_0007.jpg

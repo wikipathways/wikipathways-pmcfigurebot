@@ -1,4 +1,3 @@
----
 pmcid: PMC10923674
 image_filename: gr3.jpg
 figure_link: /pmc/articles/PMC10923674/figure/fig3/
@@ -9,17 +8,17 @@ caption: Results of GSEA of POFUT1 in LGG. A. Hallmark gene sets. B. KEGG gene s
 article_title: 'Potential role of POFUT1 as a prognostic predictor in low-grade gliomas:
   Immune microenvironment insights from a pan-cancer analysis.'
 citation: Fan Yu, et al. Heliyon. 2024 Mar 15;10(5):e27004.
-
 doi: 10.1016/j.heliyon.2024.e27004
 journal_title: Heliyon
 journal_nlm_ta: Heliyon
 publisher_name: Elsevier
-
 keywords:
 - POFUT1
 - Low-grade gliomas
 - Tumor immune microenvironment
 - Pan-cancer
 - Tumor-associated macrophages
-
----
+status: 'Potential role of POFUT1 as a prognostic predictor in low-grade gliomas:
+  Immune microenvironment insights from a pan-cancer analysis. https://doi.org/10.1016/j.heliyon.2024.e27004
+  #Pofut1 #LowGradeGliomas #TumorImmuneMicroenvironment #PanCancer #TumorAssociatedMacrophages'
+media: PMC10923674__gr3.jpg

@@ -1,4 +1,3 @@
----
 pmcid: PMC10727545
 image_filename: medi-102-e35312-g009.jpg
 figure_link: /pmc/articles/PMC10727545/figure/F8/
@@ -10,16 +9,17 @@ article_title: Exploring the potential mechanism of Taohong Siwu decoction in th
   treatment of avascular necrosis of the femoral head based on network pharmacology
   and molecular docking.
 citation: Rui Chen, et al. Medicine (Baltimore). 2023 Dec 15;102(50):e35312.
-
 doi: 10.1097/MD.0000000000035312
 journal_title: Medicine
 journal_nlm_ta: Medicine (Baltimore)
 publisher_name: Lippincott Williams & Wilkins
-
 keywords:
 - avascular necrosis of the femoral head
 - molecular docking
 - network pharmacology
 - TaoHong SiWu decoction
-
----
+status: 'Exploring the potential mechanism of Taohong Siwu decoction in the treatment
+  of avascular necrosis of the femoral head based on network pharmacology and molecular
+  docking. https://doi.org/10.1097/MD.0000000000035312 #AvascularNecrosisOfTheFemoralHead
+  #MolecularDocking #NetworkPharmacology #TaohongSiwuDecoction'
+media: PMC10727545__medi-102-e35312-g009.jpg

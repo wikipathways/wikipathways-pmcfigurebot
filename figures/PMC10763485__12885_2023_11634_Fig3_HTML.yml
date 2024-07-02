@@ -1,4 +1,3 @@
----
 pmcid: PMC10763485
 image_filename: 12885_2023_11634_Fig3_HTML.jpg
 figure_link: /pmc/articles/PMC10763485/figure/Fig3/
@@ -12,12 +11,10 @@ caption: Comparison of biological processes underpinning radioresponse indicator
 article_title: Gene expression signature predicts radiation sensitivity in cell lines
   using the integral of dose–response curve.
 citation: Alona Kolnohuz, et al. BMC Cancer. 2024;24:2.
-
 doi: 10.1186/s12885-023-11634-3
 journal_title: BMC Cancer
 journal_nlm_ta: BMC Cancer
 publisher_name: BioMed Central
-
 keywords:
 - Radiation sensitivity
 - Radiotherapy
@@ -25,5 +22,7 @@ keywords:
 - Gene expression signature
 - OMICS
 - Radiobiological model
-
----
+status: 'Gene expression signature predicts radiation sensitivity in cell lines using
+  the integral of dose–response curve. https://doi.org/10.1186/s12885-023-11634-3
+  #RadiationSensitivity #Radiotherapy #DoseResponse #GeneExpressionSignature #Omics'
+media: PMC10763485__12885_2023_11634_Fig3_HTML.jpg

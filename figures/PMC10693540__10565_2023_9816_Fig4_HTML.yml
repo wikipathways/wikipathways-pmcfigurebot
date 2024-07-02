@@ -1,4 +1,3 @@
----
 pmcid: PMC10693540
 image_filename: 10565_2023_9816_Fig4_HTML.jpg
 figure_link: /pmc/articles/PMC10693540/figure/Fig4/
@@ -18,17 +17,17 @@ caption: Pathway analysis. A Class-specific altered pathways. i. ORA analysis pe
 article_title: Transcriptional landscape of mitochondrial electron transport chain
   inhibition in renal cells.
 citation: Giada Carta, et al. Cell Biol Toxicol. 2023;39(6):3031-3059.
-
 doi: 10.1007/s10565-023-09816-7
 journal_title: Cell Biology and Toxicology
 journal_nlm_ta: Cell Biol Toxicol
 publisher_name: Springer Netherlands
-
 keywords:
 - Mitochondria
 - In vitro
 - Renal
 - Stress pathway
 - Transcriptomic
-
----
+status: 'Transcriptional landscape of mitochondrial electron transport chain inhibition
+  in renal cells. https://doi.org/10.1007/s10565-023-09816-7 #Mitochondria #InVitro
+  #Renal #StressPathway #Transcriptomic'
+media: PMC10693540__10565_2023_9816_Fig4_HTML.jpg

@@ -1,4 +1,3 @@
----
 pmcid: PMC11012581
 image_filename: ijms-25-04019-g003.jpg
 figure_link: /pmc/articles/PMC11012581/figure/ijms-25-04019-f003/
@@ -12,12 +11,10 @@ caption: MetaboAnalyst enrichment analysis conducted using RaMP consisting of HM
 article_title: 'The Plight of the Metabolite: Oxidative Stress and Tear Film Destabilisation
   Evident in Ocular Allergy Sufferers across Seasons in Victoria, Australia.'
 citation: Esrin Aydin, et al. Int J Mol Sci. 2024 Apr;25(7):4019.
-
 doi: 10.3390/ijms25074019
 journal_title: International Journal of Molecular Sciences
 journal_nlm_ta: Int J Mol Sci
 publisher_name: MDPI
-
 keywords:
 - immunometabolism
 - human tears
@@ -28,5 +25,7 @@ keywords:
 - oxidative stress
 - inflammation
 - ocular allergy
-
----
+status: 'The Plight of the Metabolite: Oxidative Stress and Tear Film Destabilisation
+  Evident in Ocular Allergy Sufferers across Seasons in Victoria, Australia. https://doi.org/10.3390/ijms25074019
+  #Immunometabolism #HumanTears #Metabolomics #Lipidomics #MassSpectrometry'
+media: PMC11012581__ijms-25-04019-g003.jpg

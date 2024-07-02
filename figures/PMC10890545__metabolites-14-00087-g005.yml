@@ -1,4 +1,3 @@
----
 pmcid: PMC10890545
 image_filename: metabolites-14-00087-g005.jpg
 figure_link: /pmc/articles/PMC10890545/figure/metabolites-14-00087-f005/
@@ -15,12 +14,10 @@ article_title: Metabolomics Reveals Lysinibacillus capsici TT41-Induced Metabol
   Shifts Enhancing Drought Stress Tolerance in Kimchi Cabbage (Brassica rapa L. subsp.
   pekinensis).
 citation: Tae Jin Kim, et al. Metabolites. 2024 Feb;14(2):87.
-
 doi: 10.3390/metabo14020087
 journal_title: Metabolites
 journal_nlm_ta: Metabolites
 publisher_name: MDPI
-
 keywords:
 - drought stress
 - abiotic stress
@@ -28,5 +25,8 @@ keywords:
 - metabolomics
 - Brassica rapa L.
 - cabbage
-
----
+status: 'Metabolomics Reveals Lysinibacillus capsici TT41-Induced Metabolic Shifts
+  Enhancing Drought Stress Tolerance in Kimchi Cabbage (Brassica rapa L. subsp. pekinensis).
+  https://doi.org/10.3390/metabo14020087 #DroughtStress #AbioticStress #LacticAcid
+  #Metabolomics #BrassicaRapaL.'
+media: PMC10890545__metabolites-14-00087-g005.jpg

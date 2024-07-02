@@ -1,4 +1,3 @@
----
 pmcid: PMC10767877
 image_filename: gkad960fig1.jpg
 figure_link: /pmc/articles/PMC10767877/figure/F1/
@@ -12,11 +11,10 @@ caption: Recent growth of WikiPathways. The bar plot shows the total number of m
   we are not counting inferred, converted or incomplete pathways.
 article_title: 'WikiPathways 2024: next generation pathway database.'
 citation: Ayushi Agrawal, et al. Nucleic Acids Res. 2024 Jan 5;52(D1):D679-D689.
-
 doi: 10.1093/nar/gkad960
 journal_title: Nucleic Acids Research
 journal_nlm_ta: Nucleic Acids Res
 publisher_name: Oxford University Press
-
-keywords:
----
+keywords: ~
+status: 'WikiPathways 2024: next generation pathway database. https://doi.org/10.1093/nar/gkad960 '
+media: PMC10767877__gkad960fig1.jpg

@@ -1,4 +1,3 @@
----
 pmcid: PMC11003766
 image_filename: nihms-1970352-f0010.jpg
 figure_link: /pmc/articles/PMC11003766/figure/F10/
@@ -13,11 +12,11 @@ caption: '(a-d) Schematics of the depletion and enrichment of KOs within the (a)
   Subunits encoded by mitochondrial genes are not included in the visualization.'
 article_title: CRISPR screens decode cancer cell pathways that trigger γδ T cell detection.
 citation: Murad R. Mamedov, et al. Nature. ;621(7977):188-195.
-
 doi: 10.1038/s41586-023-06482-x
 journal_title: Nature
 journal_nlm_ta: Nature
 publisher_name: ''
-
-keywords:
----
+keywords: ~
+status: 'CRISPR screens decode cancer cell pathways that trigger γδ T cell detection.
+  https://doi.org/10.1038/s41586-023-06482-x '
+media: PMC11003766__nihms-1970352-f0010.jpg

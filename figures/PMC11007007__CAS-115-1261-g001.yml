@@ -1,4 +1,3 @@
----
 pmcid: PMC11007007
 image_filename: CAS-115-1261-g001.jpg
 figure_link: /pmc/articles/PMC11007007/figure/cas16089-fig-0003/
@@ -14,17 +13,17 @@ caption: The results of gene set enrichment analysis (GSEA). (A) Top enriched pa
 article_title: Radiomic profiling for insular diffuse glioma stratification with distinct
   biologic pathway activities.
 citation: Wenchao Duan, et al. Cancer Sci. 2024 Apr;115(4):1261-1272.
-
 doi: 10.1111/cas.16089
 journal_title: Cancer Science
 journal_nlm_ta: Cancer Sci
 publisher_name: John Wiley and Sons Inc.
-
 keywords:
 - biological pathway
 - insular glioma
 - machine learning
 - prognosis
 - radiomic features
-
----
+status: 'Radiomic profiling for insular diffuse glioma stratification with distinct
+  biologic pathway activities. https://doi.org/10.1111/cas.16089 #BiologicalPathway
+  #InsularGlioma #MachineLearning #Prognosis #RadiomicFeatures'
+media: PMC11007007__CAS-115-1261-g001.jpg

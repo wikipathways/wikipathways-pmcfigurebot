@@ -1,4 +1,3 @@
----
 pmcid: PMC11063234
 image_filename: fphys-15-1248276-g004.jpg
 figure_link: /pmc/articles/PMC11063234/figure/F4/
@@ -17,12 +16,10 @@ caption: Pathway enrichment maps for proteome data sets. Pathway interaction plo
 article_title: Proteomic and phosphoproteomic characterization of cardiovascular tissues
   after long term exposure to simulated space radiation.
 citation: Yared H. Kidane, et al. Front Physiol. 2024;15:1248276.
-
 doi: 10.3389/fphys.2024.1248276
 journal_title: Frontiers in Physiology
 journal_nlm_ta: Front Physiol
 publisher_name: Frontiers Media S.A.
-
 keywords:
 - galactic cosmic ray
 - cardiovascular degeneration
@@ -32,5 +29,7 @@ keywords:
 - ionizing radiation
 - cardiovascular disease
 - phosphoproteomics
-
----
+status: 'Proteomic and phosphoproteomic characterization of cardiovascular tissues
+  after long term exposure to simulated space radiation. https://doi.org/10.3389/fphys.2024.1248276
+  #GalacticCosmicRay #CardiovascularDegeneration #SpaceRadiation #Proteomics #MassSpectrometry'
+media: PMC11063234__fphys-15-1248276-g004.jpg

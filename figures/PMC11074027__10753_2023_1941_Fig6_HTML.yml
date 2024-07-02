@@ -1,4 +1,3 @@
----
 pmcid: PMC11074027
 image_filename: 10753_2023_1941_Fig6_HTML.jpg
 figure_link: /pmc/articles/PMC11074027/figure/Fig6/
@@ -13,16 +12,16 @@ caption: Exploration of macrophage activation in mice liver. a Hierarchical clus
 article_title: Treatment with β-Adrenoceptor Agonist Isoproterenol Reduces Non-parenchymal
   Cell Responses in LPS/D-GalN-Induced Liver Injury.
 citation: Yuchao Wu, et al. Inflammation. 2024;47(2):733-752.
-
 doi: 10.1007/s10753-023-01941-z
 journal_title: Inflammation
 journal_nlm_ta: Inflammation
 publisher_name: Springer US
-
 keywords:
 - proteomic
 - hepatic non-parenchymal cells
 - isoproterenol
 - acute liver failure.
-
----
+status: 'Treatment with β-Adrenoceptor Agonist Isoproterenol Reduces Non-parenchymal
+  Cell Responses in LPS/D-GalN-Induced Liver Injury. https://doi.org/10.1007/s10753-023-01941-z
+  #Proteomic #HepaticNonParenchymalCells #Isoproterenol #AcuteLiverFailure.'
+media: PMC11074027__10753_2023_1941_Fig6_HTML.jpg

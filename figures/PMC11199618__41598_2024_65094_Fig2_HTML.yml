@@ -1,4 +1,3 @@
----
 pmcid: PMC11199618
 image_filename: 41598_2024_65094_Fig2_HTML.jpg
 figure_link: /pmc/articles/PMC11199618/figure/Fig2/
@@ -13,12 +12,10 @@ caption: Protein–protein interaction network of HDAC6 identified in CNS. The i
 article_title: A novel insight into neurological disorders through HDAC6 protein–protein
   interactions.
 citation: Nasim Bahram Sangani, et al. Sci Rep. 2024;14:14666.
-
 doi: 10.1038/s41598-024-65094-1
 journal_title: Scientific Reports
 journal_nlm_ta: Sci Rep
 publisher_name: Nature Publishing Group UK
-
 keywords:
 - Histone deacetylase 6 (HDAC6)
 - Protein–protein interactions
@@ -29,5 +26,7 @@ keywords:
 - Molecular biology
 - Neuroscience
 - Literature mining
-
----
+status: 'A novel insight into neurological disorders through HDAC6 protein–protein
+  interactions. https://doi.org/10.1038/s41598-024-65094-1 #HistoneDeacetylase6 #Protein–ProteinInteractions
+  #CentralNervousSystem #Alzheimer’sDisease #Parkinson’sDisease'
+media: PMC11199618__41598_2024_65094_Fig2_HTML.jpg

@@ -1,4 +1,3 @@
----
 pmcid: PMC11032609
 image_filename: 12931_2024_2790_Fig6_HTML.jpg
 figure_link: /pmc/articles/PMC11032609/figure/Fig6/
@@ -15,12 +14,10 @@ caption: PPARγ as a key regulating factor of cellular senescence in alveolar ma
 article_title: PPARγ attenuates cellular senescence of alveolar macrophages in asthma-COPD
   overlap.
 citation: Rongjun Wan, et al. Respir Res. 2024;25:174.
-
 doi: 10.1186/s12931-024-02790-6
 journal_title: Respiratory Research
 journal_nlm_ta: Respir Res
 publisher_name: BioMed Central
-
 keywords:
 - ACO
 - Asthma
@@ -28,5 +25,7 @@ keywords:
 - Macrophages
 - Senescence
 - PPARγ
-
----
+status: 'PPARγ attenuates cellular senescence of alveolar macrophages in asthma-COPD
+  overlap. https://doi.org/10.1186/s12931-024-02790-6 #Aco #Asthma #Copd #Macrophages
+  #Senescence'
+media: PMC11032609__12931_2024_2790_Fig6_HTML.jpg
