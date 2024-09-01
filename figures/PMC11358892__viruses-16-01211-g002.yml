@@ -1,0 +1,36 @@
+---
+pmcid: PMC11358892
+image_filename: viruses-16-01211-g002.jpg
+figure_link: /pmc/articles/PMC11358892/figure/viruses-16-01211-f002/
+number: Figure 2
+figure_title: ''
+caption: (a) All differentially expressed genes (DEGs) were compared, such as “C vs.
+  NP”, “C vs. SP”, and “NP vs. SP, referring to the common 291 DEGs. Functional enrichment
+  analysis (Kyoto Encyclopedia of Genes and Genomes (KEGG), Gene Ontology (GO), WikiPathways
+  (WP), and the comprehensive resource of mammalian protein complexes (CORUM)) of
+  the common 291 DEGs. (b) Upregulated DEGs among all comparisons and 1436 extended
+  common upregulated genes. Functional enrichment analysis of common 1436 up-DEGs.
+  (c) Downregulated DEGs among all comparisons and 71 extended common downregulated
+  genes. Functional enrichment analysis of the common 71 down-DEGs. The green circle
+  in the Venn diagram represents DEGs in the “C vs. NP” comparison, the blue circle
+  represents DEGs in the “C vs. NP” comparison, and the red circle represents DEGs
+  in the “NP vs. SP” comparison.
+article_title: Comparative Transcriptomic Analyses of Peripheral Blood Mononuclear
+  Cells of COVID-19 Patients without Pneumonia and with Severe Pneumonia in the First
+  Year of Follow-Up.
+citation: Ozgecan Kayalar, et al. Viruses. 2024 Aug;16(8):1211.
+
+doi: 10.3390/v16081211
+journal_title: Viruses
+journal_nlm_ta: Viruses
+publisher_name: MDPI
+
+keywords:
+- COVID-19
+- transcriptomic analysis
+- peripheral blood mononuclear cells (PBMC)
+- long-term effects
+- inflammatory responses
+- pneumonia
+
+---

@@ -1,0 +1,31 @@
+---
+pmcid: PMC11357981
+image_filename: 41586_2024_7639_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC11357981/figure/Fig5/
+number: Fig. 5
+figure_title: Pathway enrichment of most variable genes
+caption: Enriched pathways in post-flight compared with pre-flight across various
+  assays and missions, analysed using fast gene set enrichment analysis (fGSEA). The
+  colour represents the normalized enrichment score, whereas the dot size indicates
+  Benjamini–Hochberg adjusted q values. Only the pathways with unadjusted P < 0.01
+  are shown. The barplot shows the total number of comparisons with q < 0.05 for every
+  pathway, coloured by the direction of the enrichment. The column ‘mixed cell type’
+  refers to whole blood for I4 data and lymphocyte-depleted cells for the NASA Twins
+  Study. GOBP, gene ontology and biological process; GOMF, gene ontology molecular
+  function; HP, human phenotype; LPS, lipopolysaccharides; NPC, neural progenitor
+  cells; PID, pathway interaction database; WP, wikipathways.
+article_title: The Space Omics and Medical Atlas (SOMA) and international astronaut
+  biobank.
+citation: Eliah G. Overbey, et al. Nature. 2024;632(8027):1145-1154.
+
+doi: 10.1038/s41586-024-07639-y
+journal_title: Nature
+journal_nlm_ta: Nature
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Molecular biology
+- Medical research
+- Genetics
+
+---
