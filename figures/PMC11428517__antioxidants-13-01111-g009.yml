@@ -1,4 +1,3 @@
----
 pmcid: PMC11428517
 image_filename: antioxidants-13-01111-g009.jpg
 figure_link: /pmc/articles/PMC11428517/figure/antioxidants-13-01111-f009/
@@ -14,12 +13,10 @@ caption: Here we report the oxidative stress and redox pathway from Wikipathways
 article_title: 'Bioactivated Glucoraphanin Modulates Genes Involved in Necroptosis
   on Motor-Neuron-like Nsc-34: A Transcriptomic Study.'
 citation: Aurelio Minuti, et al. Antioxidants (Basel). 2024 Sep;13(9):1111.
-
 doi: 10.3390/antiox13091111
 journal_title: Antioxidants
 journal_nlm_ta: Antioxidants (Basel)
 publisher_name: MDPI
-
 keywords:
 - glucosinolates
 - isothiocyanates
@@ -27,5 +24,7 @@ keywords:
 - pathway analysis
 - oxidative stress
 - necroptosis
-
----
+status: 'Bioactivated Glucoraphanin Modulates Genes Involved in Necroptosis on Motor-Neuron-like
+  Nsc-34: A Transcriptomic Study. https://doi.org/10.3390/antiox13091111 #Glucosinolates
+  #Isothiocyanates #TranscriptomicAnalysis #PathwayAnalysis #OxidativeStress'
+media: PMC11428517__antioxidants-13-01111-g009.jpg
