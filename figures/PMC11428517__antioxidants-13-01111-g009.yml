@@ -1,0 +1,31 @@
+---
+pmcid: PMC11428517
+image_filename: antioxidants-13-01111-g009.jpg
+figure_link: /pmc/articles/PMC11428517/figure/antioxidants-13-01111-f009/
+number: Figure 9
+figure_title: ''
+caption: Here we report the oxidative stress and redox pathway from Wikipathways.
+  DEGs from our data are reported in red (upregulated) or green (downregulated) according
+  to their expression behavior. The figure was obtained from Wikipathways website
+  and colored based on our data. The color intensity is based on a +9 to −9 scale
+  that summarizes in how many conditions each transcript was significantly dysregulated
+  (from upregulated at all time-steps and dosages to downregulated at all time-steps
+  and dosages).
+article_title: 'Bioactivated Glucoraphanin Modulates Genes Involved in Necroptosis
+  on Motor-Neuron-like Nsc-34: A Transcriptomic Study.'
+citation: Aurelio Minuti, et al. Antioxidants (Basel). 2024 Sep;13(9):1111.
+
+doi: 10.3390/antiox13091111
+journal_title: Antioxidants
+journal_nlm_ta: Antioxidants (Basel)
+publisher_name: MDPI
+
+keywords:
+- glucosinolates
+- isothiocyanates
+- transcriptomic analysis
+- pathway analysis
+- oxidative stress
+- necroptosis
+
+---
