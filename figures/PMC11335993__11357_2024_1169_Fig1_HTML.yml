@@ -1,3 +1,4 @@
+---
 pmcid: PMC11335993
 image_filename: 11357_2024_1169_Fig1_HTML.jpg
 figure_link: /pmc/articles/PMC11335993/figure/Fig1/
@@ -18,14 +19,15 @@ caption: 'Aβ drives proteome-wide protein insolubility that resembles normal ag
   core insoluble proteome, Benjamini Hochberg FDR < 5%'
 article_title: Amyloid β accelerates age-related proteome-wide protein insolubility.
 citation: Edward Anderton, et al. GeroScience. 2024 Oct;46(5):4585-4602.
+
 doi: 10.1007/s11357-024-01169-1
 journal_title: GeroScience
 journal_nlm_ta: GeroScience
 publisher_name: Springer International Publishing
+
 keywords:
 - Amyloid β
 - Proteostasis
 - Protein insolubility
-status: 'Amyloid β accelerates age-related proteome-wide protein insolubility. https://doi.org/10.1007/s11357-024-01169-1
-  #AmyloidΒ #Proteostasis #ProteinInsolubility'
-media: PMC11335993__11357_2024_1169_Fig1_HTML.jpg
+
+---

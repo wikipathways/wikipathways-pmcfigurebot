@@ -1,3 +1,4 @@
+---
 pmcid: PMC11259605
 image_filename: LSA-2024-02586_FigS1.jpg
 figure_link: /pmc/articles/PMC11259605/figure/figS1/
@@ -15,11 +16,11 @@ caption: (A) Analysis of genes up-regulated in Lo-CBX5 patients when compared to
 article_title: Defective Integrator activity shapes the transcriptome of patients
   with multiple sclerosis.
 citation: Yevheniia Porozhan, et al. Life Sci Alliance. 2024 Oct;7(10):e202402586.
+
 doi: 10.26508/lsa.202402586
 journal_title: Life Science Alliance
 journal_nlm_ta: Life Sci Alliance
 publisher_name: Life Science Alliance LLC
-keywords: ~
-status: 'Defective Integrator activity shapes the transcriptome of patients with multiple
-  sclerosis. https://doi.org/10.26508/lsa.202402586 '
-media: PMC11259605__LSA-2024-02586_FigS1.jpg
+
+keywords:
+---
