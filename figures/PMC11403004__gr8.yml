@@ -1,0 +1,32 @@
+---
+pmcid: PMC11403004
+image_filename: gr8.jpg
+figure_link: /pmc/articles/PMC11403004/figure/fig8/
+number: Figure 8
+figure_title: ''
+caption: Identification of core immune genes of head and neck squamous cell carcinoma.
+  (A, B) The optimal soft threshold was determined by WGCNA. (C) Dendrogram of all
+  differentially expressed genes based on dissimilarity measure (1-TOM) clustering.
+  (D) The four modules obtained by WGCNA. (E) Comparison of immune subtype scores
+  in different modules. (F) Multifactor Cox analysis of different module scores. (G)
+  Prognostic curves of MEblue. (H) The network diagram showing the relationship between
+  the enrichment pathways. (I) The bar chart showing the top 20 enriched functions
+  and pathways of genes, including Kyoto Encyclopedia of Genes and Genomes, Gene Ontology,
+  WikiPathways, and Reactome database enrichment analysis results.
+article_title: Identification of ferroptosis-associated tumor antigens as the potential
+  targets to prevent head and neck squamous cell carcinoma.
+citation: Qiming Zhai, et al. Genes Dis. 2024 Nov;11(6):101212.
+
+doi: 10.1016/j.gendis.2024.101212
+journal_title: Genes & Diseases
+journal_nlm_ta: Genes Dis
+publisher_name: Chongqing Medical University
+
+keywords:
+- Ferroptosis
+- Ferroptosis subtypes
+- Head and neck squamous cell carcinoma
+- Immunotherapy
+- Tumor antigens
+
+---

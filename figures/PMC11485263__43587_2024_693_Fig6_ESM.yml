@@ -1,0 +1,30 @@
+---
+pmcid: PMC11485263
+image_filename: 43587_2024_693_Fig6_ESM.jpg
+figure_link: /pmc/articles/PMC11485263/figure/Fig6/
+number: Extended Data Fig. 1
+figure_title: Functional enrichment analysis of APOE-ε4-dependent protein-protein
+  interaction partners
+caption: a) A scheme of the PPI partners selection, where first degree partners of
+  the APOE-ε4-dependent proteins were extracted from the InWeb database. b-c) Enrichment
+  of selected GO terms for the PPI partner proteins shown as b) dotplot and c) gene-concept
+  network. d-e) Enrichment of top seven unique Wikipathways shown as d) dotplot and
+  e) gene-concept network. BP, biological process; CC, cellular component; MF, molecular
+  function.
+article_title: Serum proteomics reveal APOE-ε4-dependent and APOE-ε4-independent protein
+  signatures in Alzheimer’s disease.
+citation: Elisabet A. Frick, et al. Nat Aging. 2024;4(10):1446-1464.
+
+doi: 10.1038/s43587-024-00693-1
+journal_title: Nature Aging
+journal_nlm_ta: Nat Aging
+publisher_name: Nature Publishing Group US
+
+keywords:
+- Proteomics
+- Biomarkers
+- Alzheimer's disease
+- Functional genomics
+- Ageing
+
+---

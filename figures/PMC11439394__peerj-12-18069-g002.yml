@@ -1,0 +1,30 @@
+---
+pmcid: PMC11439394
+image_filename: peerj-12-18069-g002.jpg
+figure_link: /pmc/articles/PMC11439394/figure/fig-2/
+number: Figure 2
+figure_title: RNA-seq analysis of differentially expressed Genes (DEGs) in hyperoxia-induced
+  acute lung injury (HALI)
+caption: (A) Volcano plot of DEGs between the model of HALI and the control group.
+  (B) Difference between up-regulated and down-regulated DEGs in mRNA and lncRNA.
+  (C–E) Enrichment analysis for differentially expressed genes, including Gene Ontology
+  (GO) enrichment analysis in biological process (C), Kyoto Encyclopedia of Genes
+  and Genomes (KEGG) pathway enrichment analysis (D), and the enrichment results of
+  WikiPathways (E).
+article_title: Deciphering regulatory patterns in a mouse model of hyperoxia-induced
+  acute lung injury.
+citation: Yundi Chen, et al. PeerJ. 2024;12:e18069.
+
+doi: 10.7717/peerj.18069
+journal_title: PeerJ
+journal_nlm_ta: PeerJ
+publisher_name: PeerJ Inc.
+
+keywords:
+- Hyperoxia acute lung injury
+- Pathogenesis
+- RNA-seq
+- Alternative splicing
+- ceRNA
+
+---

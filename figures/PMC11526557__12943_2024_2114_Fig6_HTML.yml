@@ -1,0 +1,47 @@
+---
+pmcid: PMC11526557
+image_filename: 12943_2024_2114_Fig6_HTML.jpg
+figure_link: /pmc/articles/PMC11526557/figure/Fig6/
+number: Fig. 6
+figure_title: ''
+caption: 'IL6ST signaling in PCa patients actives STAT3 signaling and upregulates
+  senescence, immune score and cytotoxicity. a Fast pre-ranked gene set enrichment
+  analysis (fGSEA) of significantly enriched HALLMARK gene sets with genes regulated
+  in IL6SThigh compared to IL6STlow expressing patients from the TCGA-PRAD data set.
+  Dotted line: adj. p-value (-log10(0.05)), blue: downregulated, red: upregulated;
+  b fGSEA of the previously described core SASP gene signature upon PICS “Core SASP
+  of PICS (Guccini)” (upper panel) and the curated gene set, class chemical and genetic
+  perturbations (CGP) “CGP: Fridman senescence up” (lower panel) with genes regulated
+  in IL6SThigh compared to IL6STlow expressing patients from the TCGA-PRAD data set.
+  Genes sorted based on their Wald statistics are represented as vertical lines on
+  the x-axis. NES: normalized enrichment score. c fGSEA of WikiPathways (WP) gene
+  sets “REACTOME: Cell cycle”, “REACTOME: G1/S transition” and “WP: p53 transcriptional
+  gene network” with genes regulated in IL6SThigh compared to IL6STlow expressing
+  patients from the TCGA-PRAD data set. Genes sorted based on their Wald statistics
+  are represented as vertical lines on the x-axis. NES: normalized enrichment score.
+  d Immune score from the ESTIMATE method for IL6STlow (red, n = 208) and IL6SThigh
+  (blue, n = 283) patients from the TCGA-PRAD data set, compared with Mann–Whitney
+  test. e fGSEA of the top 20 T-cell-, neutrophil-, and macrophage-associated Biological
+  Processes from Gene Ontology pathways (GO-BP) gene sets with genes significantly
+  regulated in IL6SThigh compared to IL6STlow expressing patients from the TCGA-PRAD
+  data set. Dotted line: adj. p-value (-log10(0.05)), red: upregulated;'
+article_title: Cell-autonomous IL6ST activation suppresses prostate cancer development
+  via STAT3/ARF/p53-driven senescence and confers an immune-active tumor microenvironment.
+citation: Christina Sternberg, et al. Mol Cancer. 2024;23:245.
+
+doi: 10.1186/s12943-024-02114-8
+journal_title: Molecular Cancer
+journal_nlm_ta: Mol Cancer
+publisher_name: BioMed Central
+
+keywords:
+- Prostate cancer
+- IL6ST/STAT3 signaling
+- L-gp130
+- Senescence
+- Senescence-associated secretory phenotype
+- Tumor microenvironment
+- Immune cell infiltration
+- Cytotoxic T-cells
+
+---

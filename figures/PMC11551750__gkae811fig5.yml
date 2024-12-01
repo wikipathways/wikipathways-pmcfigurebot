@@ -1,0 +1,72 @@
+---
+pmcid: PMC11551750
+image_filename: gkae811fig5.jpg
+figure_link: /pmc/articles/PMC11551750/figure/F5/
+number: Figure 5
+figure_title: ''
+caption: 'A NRF2-PARP1 axis connects redox homeostasis to replication fork integrity.
+  (A) Heatmap showing the Pearson correlation coefficient (r value) of RRM2B gene
+  expression (log2 normalized) against an antioxidant gene signature for 12 TCGA transcriptome
+  datasets (STAD: Stomach Adenocarcinoma; PRAD: Prostate Adenocarcinoma; BRCA: Breast
+  Invasive Carcinoma; PAAD: Pancreatic Adenocarcinoma; UCS: Uterine Carcinosarcoma;
+  SARC: Sarcoma; ESCA: Oesophageal Carcinoma; SKCM: Skin Cutaneous Melanoma; KIRC:
+  Kidney Renal Clear Cell Carcinoma; KICH: Kidney Chromophobe; HNSC: Head and Neck
+  Squamous Cell Carcinoma; OV: Ovarian Carcinoma). A negative r value indicates that
+  the variables tested are inversely related. All results are significant at P< 0.0001.
+  (B), The Pearson correlation coefficients of the expression of each gene in the
+  antioxidant gene signature (log2 normalized, 125 genes) against RRM2B expression
+  (log2 normalized) were calculated across 12 TCGA datasets (as described in A). Tumor
+  samples n = 4964. A hierarchical heatmap was constructed to depict the Pearson correlation
+  coefficient (r value). All results achieved significance at P< 0.001. (C) Genes
+  are clustered in (D), according to their Pearson correlation coefficient (r value).
+  STRING enrichment analysis (WikiPathways) of genes identified in cluster III in
+  (B) sorted by enrichment strength, Log10(observed/expected), with false discovery
+  rate and observed gene count indicated. Similar gene enrichment analysis was performed
+  using a p53 gene signature instead of RRM2B gene expression (). (D) Pearson correlation
+  coefficient (r value) between RRM2B gene expression and p53 gene signature score
+  that predicts for wildtype p53 functionality were calculated across 12 TCGA transcriptome
+  datasets used in (A) and (B) (tumor samples n = 4964). (E) Venn diagram showing
+  overlap of antioxidant genes that are enriched with reduced RRM2B gene expression
+  or reduced p53 gene signature score, identified by their Pearson correlation coefficient
+  (r value). Pearson correlation coefficient of r←0.1 (P< 0.001) was used as a cut-off.
+  Four NRF2 target antioxidant genes are commonly enriched (G6PD, PRDX1, PRDX6 and
+  TXN1). (F) Schematic of the fork degradation assay in HCT116 parental (WT) and p53KO
+  cells pretreated with an NRF2 inhibitor, ML385 (30 μM, 48 h). Cells were subjected
+  to HU (2 mM) in the presence of ATRi (2 μM). IdU/CIdU ratios for individual replication
+  forks plotted. Representative of n = 3 experiments. (G) Schematic of the fork degradation
+  assay in HCT116 parental (WT) and p53KO cells transfected with NRF2-targeted siRNAs.
+  Cells were subjected to HU (2 mM) in the presence of ATRi (2 μM). IdU/CIdU ratios
+  for individual replication forks plotted. Representative of n = 3 experiments. (H)
+  Schematic of the fork degradation assay in HCT116 parental (WT) stably transfected
+  with shp53 or empty vector (EV) control. As in (G), cells were transfected with
+  NRF2-targeted siRNAs. Cells were subjected to HU (2 mM) in the presence of ATRi
+  (2 μM). IdU/CIdU ratios for individual replication forks plotted. Representative
+  of n = 3 experiments. (I) Total PARylation in HCT116 (WT) and p53KO cells transfected
+  with NRF2-targeted siRNAs was analysed by western blot using an anti-PAR antibody
+  (CST, 83732). Total PARP1, NRF2, G6PD and p53 protein expression was also detected
+  in immunoblots. GAPDH was used as a loading control. (J) HCT116 parental (WT) cells
+  transfected with siNRF2 were immunostained for total PAR (anti-PAR [10H] antibody,
+  Abcam ab14459). Mean PAR intensity per nucleus were quantified and plotted. n ≥
+  200 in each condition (mean ± SD; n = 3; two-tailed t-test). (K) HCT116 parental
+  (WT) cells were treated with dimethyl fumarate (DMF, NRF2 activator) at 10 or 30
+  μM for 12 h. Total PARylation, G6PD and γH2AX protein expression analysed by western
+  blot. GAPDH used as a loading control. (L) Schematic of the fork degradation assay
+  in HCT116 parental (WT) and p53KO cells pretreated with Dimethyl Fumarate (DMF)
+  (10 or 30 μM, 12 h). Cells were subjected to HU (2 mM) in the presence or absence
+  of ATRi (2 μM). IdU/CIdU ratios for individual replication forks plotted. Representative
+  of n = 3 experiments. In (F), (G), (H) and (l) red horizontal bar represents mean
+  of CldU/IdU ratios; P value was calculated from n ≥ 100 DNA fibers using Mann–Whitney
+  test (P< 0.0001 ****; ns = not significant). Data Representative of n = 3 independent
+  experiments. Western blots in (I) and (J) were repeated independently at least three
+  times with similar results. GAPDH was used as loading control.'
+article_title: p53-dependent crosstalk between DNA replication integrity and redox
+  metabolism mediated through a NRF2-PARP1 axis.
+citation: Gamal Ahmed Elfar, et al. Nucleic Acids Res. 2024 Nov 11;52(20):12351-12377.
+
+doi: 10.1093/nar/gkae811
+journal_title: Nucleic Acids Research
+journal_nlm_ta: Nucleic Acids Res
+publisher_name: Oxford University Press
+
+keywords:
+---

@@ -1,0 +1,58 @@
+---
+pmcid: PMC11468939
+image_filename: ADHM-12-2101216-g001.jpg
+figure_link: /pmc/articles/PMC11468939/figure/adhm202101216-fig-0004/
+number: Figure 4
+figure_title: ''
+caption: 'Tenogenic mechano‐variant substrates abrogate TCP‐mediated inflammatory
+  programs and favor tendon‐specific expression signature. A) Heatmap of gene‐level
+  hierarchical clustering of the top 50 differentially expressed genes (DEG) in tendon
+  stromal fibroblasts cultured on tenogenic substrates (E. ≈35 kPa) versus TCP control.
+  Columns represent individual samples (N = 4 biological replicates from different
+  donors). Blue denotes downregulated genes; red denotes upregulated genes. B) Functional
+  annotation of S1 and S2 gene clusters in the heatmap (encompassing top 500 DEGs).
+  Bar plots depict the fisher‐weighted, average correlations of the cluster with the
+  annotation terms queried against MSigDB Hallmark database. C) RNA‐seq volcano plot
+  of DEGs of 35kPa‐cultured human tenocytes relative to TCP controls. Colored dots
+  show the 2787 significantly expressed genes, as determined by DESeq2 method, with
+  the horizontal line corresponding to an FDR ≤0.01 and vertical lines are at a cutoff
+  of log2[Fold change] ± 1. D) Enriched pathways analysis of a subset of DEGs using
+  Enrichr queried against BioPlanet 2019 (BP), Reactome (R), WikiPathways 2019 (WP),
+  and KEGG 2019 (K) Human databases. All hits had an adjusted p‐value < 0.05. E) Pre‐ranked
+  Gene Set Enrichment Analysis (GSEA) of positively and negatively enriched cellular
+  components by Normalized Enrichment Score (NES) in 35 kPa cultured cells (Adjusted
+  p‐value < 0.05). F,G) Overrepresentation analysis (ORA) of Molecular Functions GO
+  terms of F) upregulated and G) downregulated DEGs. Analysis was performed using
+  a hypergeometric over‐representation test against the GO database, with significance
+  achieved at q‐value < 0.05. H) Bar plot depicts the predicted top 10 most significantly
+  enriched transcription factors upstream of the DEGs. Predicted TFs are sorted by
+  significance level (adjusted p‐value < 0.05). I) Top 10 kinases upstream of predicted
+  TFs in (F) were identified using the Kinase Enrichment Analysis module of the Expression2Kinase
+  pipeline. J) GSEA enrichment plots of some of the top differentially expressed gene
+  sets. The Plot''s black vertical lines represent the ranked gene hits in the gene
+  set. The green line represents the normalized enrichment score (NES). The more the
+  NES curve is skewed to the upper left of the plot, the more the gene set is enriched
+  in the 35 kPa group. In contrast, when the curve shifts to the lower right, this
+  reflects a more enrichment in the TCP control group. The red‐to‐blue colored scale
+  at the bottom represents the degree of correlation of genes in the 35 kPa group
+  with the phenotype in the gene set (Red: positive correlation; blue: negative correlation)
+  or vice versa for the TCP control group. Note the significant negative regulation
+  of gene set terms related to EMT, cellular proliferation, ECM assembly, and inflammation.
+  K) GSEA enrichment plots of tendon‐specific (Top) and tendinopathy (bottom) signatures.'
+article_title: The Stiffness‐Sensitive Transcriptome of Human Tendon Stromal Cells.
+citation: Amro A. Hussien, et al. Adv Healthc Mater. 2023 Mar 13;12(7):2101216.
+
+doi: 10.1002/adhm.202101216
+journal_title: Advanced Healthcare Materials
+journal_nlm_ta: Adv Healthc Mater
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- connective tissues
+- fibroblasts
+- matrix stiffness
+- mechanobiology
+- soft matter
+- tendons
+
+---

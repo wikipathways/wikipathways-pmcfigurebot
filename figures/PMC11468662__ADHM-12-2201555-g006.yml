@@ -1,0 +1,43 @@
+---
+pmcid: PMC11468662
+image_filename: ADHM-12-2201555-g006.jpg
+figure_link: /pmc/articles/PMC11468662/figure/adhm202201555-fig-0006/
+number: Figure 6
+figure_title: ''
+caption: Transcriptional changes in the thyroid OoC model following benzo(k)fluoranthene
+  (BKF) exposure. A) Brightfield images of thyroid follicles after BKF exposure in
+  static versus flow conditions. Images were overlapped with the fluorescence signal
+  of the GFP flag. Scale bar, 100 µm. B) Venn diagram showing the overlap in sets
+  of differentially expressed genes upon BKF exposure in static and flow conditions
+  (n = 3). C,D) Top 15 significantly enriched (adjusted p < 0.05) gene ontology biological
+  processes C) and pathways D) in response to BKF treatment. The top 15 enriched terms
+  in flow and static condition are presented with respective adjusted P values (dotted
+  line, adjusted p value < 0.05). Enrichment analysis for gene ontology (GO) biological
+  processes and Wikipathways was performed using Enrichr. The complete list of significantly
+  enriched GO biological processes and pathways can be found in Figures  and  (Supporting
+  Information), respectively. E,F) Fold changes of differentially expressed (DE) genes
+  of the AhR pathway E) and the TH generation F) in response to BKF exposure as compared
+  to control samples (n = 3). Y‐axis shown in log scale. Differential expression analysis
+  was performed with R using the DESeq2[] and edgeR[] packages. **p < 0.01, ****p
+  < 0.0001. Cyp1a1, cytochrome P450 family 1 subfamily A member 1; Cyp1b1, cytochrome
+  P450 family 1 subfamily B member 1; Ahrr, aryl hydrocarbon receptor repressor; Tiparp,
+  TCDD inducible poly(ADP‐Ribose) polymerase. Nis, sodium iodide symporter; Tpo, thyroperoxidase;
+  Duoxa2, dual oxidase maturation factor 2.
+article_title: 'Thyroid‐on‐a‐Chip: An Organoid Platform for In Vitro Assessment of
+  Endocrine Disruption.'
+citation: Daniel J. Carvalho, et al. Adv Healthc Mater. 2023 Mar 24;12(8):2201555.
+
+doi: 10.1002/adhm.202201555
+journal_title: Advanced Healthcare Materials
+journal_nlm_ta: Adv Healthc Mater
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- microfluidics
+- mouse thyroid follicles
+- organoids
+- reversible sealing
+- thermoformed carriers
+- thyroid functionality
+
+---

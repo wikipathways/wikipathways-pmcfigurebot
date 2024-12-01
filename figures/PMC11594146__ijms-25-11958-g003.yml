@@ -1,0 +1,43 @@
+---
+pmcid: PMC11594146
+image_filename: ijms-25-11958-g003.jpg
+figure_link: /pmc/articles/PMC11594146/figure/ijms-25-11958-f003/
+number: Figure 3
+figure_title: ''
+caption: Bioinformatics analysis of key genes and corresponding transcription factors
+  involved in the development of influenza virus infection. (A,B) Graphs showing the
+  dynamics of DEG expression levels during the course of influenza infection in the
+  most representative GSE dataset, obtained through the STEM clusterization analysis.
+  Only DEGs in the same profile as indicated by STEM are shown on the graphs. Different
+  graph colors indicate different genes. (C,D) Functional analysis of the DEGs in
+  the STEM clusterization profiles. Enrichment for Gene Ontology (biological processes),
+  KEGG, REACTOME, and WikiPathways terms were performed using ClueGO plugin in Cytoscape.
+  Only pathways with p < 0.05 after Bonferroni step-down correction for multiple testing
+  were included. (E) Venn diagram demonstrating common genes between DEGs identified
+  at 10–12 d.p.i. (upper Venn diagram) and 7 d.p.i. (lower Venn diagram), and heatmap
+  showing expression levels of identified DEGs in all analyzed datasets. (F) Identification
+  of transcription factors regulating the expression of identified DEGs through iRegulon
+  plugin in Cytoscape software. Only transcription factors and DEGs present in motifs
+  with NES higher than 10 are shown. Green nodes—transcription factors, blue nodes—DEGs
+  identified in (E), pink—DEGs absent in performed Venn diagram analysis. Numbers
+  under lines near transcription factors indicate NES scores.
+article_title: Novel Core Gene Signature Associated with Inflammation-to-Metaplasia
+  Transition in Influenza A Virus-Infected Lungs.
+citation: Innokenty A. Savin, et al. Int J Mol Sci. 2024 Nov;25(22):11958.
+
+doi: 10.3390/ijms252211958
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- influenza A virus
+- SARS-CoV-2
+- inflammation
+- metaplasia
+- regeneration
+- bioinformatics
+- in vivo
+- lung neoplasms
+
+---

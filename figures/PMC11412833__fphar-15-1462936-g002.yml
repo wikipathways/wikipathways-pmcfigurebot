@@ -1,0 +1,37 @@
+---
+pmcid: PMC11412833
+image_filename: fphar-15-1462936-g002.jpg
+figure_link: /pmc/articles/PMC11412833/figure/F2/
+number: FIGURE 2
+figure_title: ''
+caption: High dose EC treatment alters the expression of complement regulators, favoring
+  a hyperactive alternative complement pathway. (A) Kyoto Encyclopedia of Genes and
+  Genomes (KEGG), (B) WikiPathways, and (C) Rat Genome Database (RGD) pathway enrichment
+  analyses of differentially expressed genes in renal transcriptome derived from high
+  dose ethyl carbamate (EC)-treated rats versus normal control rats highlights the
+  most affected pathways with significant statistical difference and high enrichment
+  score. (D) The KEGG pathway map hsa04610 is involved in EC-induced kidney injury.
+  The rectangle in red color indicates the EC-perturbed genes. (E) Heatmap representation
+  and hierarchical cluster analysis of the differentially expressed genes enriched
+  in complement pathway in kidneys from high dose EC-injured rats. Color scale represents
+  the relative gene expression value for each gene using log2 median-centered intensity
+  values. (F) Renal expression of mRNA levels of indicated genes in EC-treated rats
+  and control rats (n = 2). (G) DEGs with statistical significance were subjected
+  to enrichment analysis based on disease ontology (DO).
+article_title: 'Glomerular injury induced by vinyl carbamate in A/J inbred mice: a
+  novel model of membranoproliferative glomerulonephritis.'
+citation: Athena Y. Gong, et al. Front Pharmacol. 2024;15:1462936.
+
+doi: 10.3389/fphar.2024.1462936
+journal_title: Frontiers in Pharmacology
+journal_nlm_ta: Front Pharmacol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- complement
+- C3 glomerulonephritis
+- C3 glomerulopathy
+- glomerular endothelial cells
+- dense deposit disease
+
+---

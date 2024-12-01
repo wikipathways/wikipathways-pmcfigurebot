@@ -1,0 +1,36 @@
+---
+pmcid: PMC11530135
+image_filename: jciinsight-9-178645-g119.jpg
+figure_link: /pmc/articles/PMC11530135/figure/F4/
+number: Figure 4
+figure_title: GSEA volcanos and pathway heatmaps
+caption: GSEA reveals pathways altered in mitochondrial disease. Volcano plot of GSEA
+  in groups versus controls in (A) All Mitochondrial Patients (MitoPatients); (B)
+  CI; (C) MtGenExp, and (D) CIV. Circle diameter denotes set size while color denotes
+  annotation source (blue, GO:BP; red, Reactome; green, WikiPathways). Differentially
+  enriched gene sets are labeled according to a normalized enrichment score (NES)
+  > 1.3 or < –1.3 and a q value < 0.05 (presented as –Log10q value). Enriched gene
+  sets were further investigated and protein heatmaps were prepared for (E) Mitochondrial
+  Complex I Assembly (WP4324); (F) Mitochondrial Complex IV Assembly (WP4922); (G)
+  Response to External Stimulus (GO:0032101), including Regulation of Inflammatory
+  Response (GO:0050727); (H) Arachidonic Acid Metabolism (R-HSA-2142753); (I) Glycosphingolipid
+  Metabolism (R-HSA-1660662); (J) Metabolism of Noncoding RNA (R-HSA-194441) and (K)
+  Mitochondrial Protein Import (R-HSA-1268020). Individual gene set proteins are colored
+  by Log2 FC versus average control (Log2FC) and further annotated with (+) if significantly
+  differentially expressed (adj. P < 0.05) in the specific comparison.
+article_title: Quantitative proteomics of patient fibroblasts reveal biomarkers and
+  diagnostic signatures of mitochondrial disease.
+citation: Sandrina P. Correia, et al. JCI Insight. 2024 Oct 22;9(20):e178645.
+
+doi: 10.1172/jci.insight.178645
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+
+keywords:
+- Metabolism
+- Mitochondria
+- Molecular diagnosis
+- Proteomics
+
+---

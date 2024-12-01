@@ -1,0 +1,37 @@
+---
+pmcid: PMC11555629
+image_filename: GTC-29-1052-g001.jpg
+figure_link: /pmc/articles/PMC11555629/figure/gtc13166-fig-0004/
+number: FIGURE 4
+figure_title: ''
+caption: Hypothetical ovarian cholesterol biosynthesis pathway in protogynous fishes.
+  The pathway was visualized using PathVisio (https://pathvisio.org), referencing
+  several fish cholesterol synthesis pathways. Gene products are represented in black
+  text, while metabolites are in blue text. Gene product annotations follow Ensembl
+  Zebrafish gene symbols. Red‐filled boxes represent gene products with confirmed
+  upregulated expression in this study, while blue‐filled boxes denote gene products
+  with downregulated expression. Open boxes represent gene products with no expression
+  variation. Light green‐filled boxes represent gene products not included among the
+  7289 genes but confirmed to be present in at least the three‐spot wrasse transcriptome.
+  Dark gray‐filled boxes indicate gene products that could not be identified within
+  the three‐spot wrasse transcriptome. Circles extending from gene products represent
+  catalytic reactions, while black arrows indicate the conversion of metabolites.
+  The dashed arrows indicate indirect pathways summarizing multi‐step processes.
+article_title: Meta‐analysis of gonadal transcriptome provides novel insights into
+  sex change mechanism across protogynous fishes.
+citation: Ryo Nozu, et al. Genes Cells. 2024 Nov;29(11):1052-1068.
+
+doi: 10.1111/gtc.13166
+journal_title: Genes to Cells
+journal_nlm_ta: Genes Cells
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- genome
+- gonad
+- meta‐analysis
+- protogynous fishes
+- sex change
+- transcriptome
+
+---

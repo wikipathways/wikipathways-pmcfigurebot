@@ -1,0 +1,38 @@
+---
+pmcid: PMC11399446
+image_filename: 41467_2024_52306_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC11399446/figure/Fig3/
+number: Fig. 3
+figure_title: snRNA-seq analysis showing the clustering signature and composition
+caption: a Uniform Manifold Approximation and Projection (UMAP) plot shows the 78,979
+  nuclei, mapping to 18 clusters. b Dot plot showing cluster identities aligned to
+  canonical cell types in the adult mouse kidney based on a variety of cell type-specific
+  marker genes. PT proximal tubules, LH(DL) Loop of Henle (Descending loop), LH(AL)
+  Loop of Henle (Ascending loop), DCT distal convoluted tubule, CNT connecting tubule,
+  CD-PC collecting duct principal cell, IC intercalated cell, Mø macrophage, PEC parietal
+  epithelial cell, Prolif.PT Proliferating proximal tubules, Mes mesangial, Endo endothelial,
+  Pod podocyte. Dot plot of all significantly (c) upregulated and (d) downregulated
+  genes in the podocyte cluster between KLF6PODTA vs NPHS2-rtTA mice under diabetic
+  conditions. Expression level of these genes is shown by the heat map and the percentage
+  of cells expressing the gene in the cluster is shown by the size. The default statistical
+  test (Wilcoxon Rank Sum test, adjusted p-value based on Bonferroni correction) in
+  Seurat package was used. Significantly expressed genes are determined by adjusted
+  p < 0.05. Reactome, WikiPathways and KEGG enrichment analysis of these (e) upregulated
+  and (f) downregulated genes in the podocyte cluster between KLF6PODTA vs NPHS2-rtTA
+  mice under diabetic conditions. The default statistical test (fisher’s exact test)
+  in Enrichr was used.
+article_title: Podocyte-specific KLF6 primes proximal tubule CaMK1D signaling to attenuate
+  diabetic kidney disease.
+citation: Nehaben A. Gujarati, et al. Nat Commun. 2024;15:8038.
+
+doi: 10.1038/s41467-024-52306-5
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Diabetic nephropathy
+- Chronic kidney disease
+- Podocytes
+
+---

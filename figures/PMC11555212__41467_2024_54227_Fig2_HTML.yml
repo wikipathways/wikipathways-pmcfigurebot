@@ -1,0 +1,43 @@
+---
+pmcid: PMC11555212
+image_filename: 41467_2024_54227_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC11555212/figure/Fig2/
+number: Fig. 2
+figure_title: Activation of mice and human DCs in the presence of COFs and RNA-seq
+  dataset
+caption: a In the presence of LPS, mouse DCs treated with COF1 with OVA expressed
+  higher CD86 + , in vitro (mean ± s.d, n = 6 technical replicate; one-way ANOVA test).
+  b DCs treated with COF1 with OVA had lower gMFI CD163+ in CD11c+ compared to other
+  treatments, with inflammation, in vitro (mean ± s.d, n = 6 technical replicate;
+  one-way ANOVA test). c High expression of CD206+ in CD11c+ in presence of COF1 with
+  OVA compared to COF 5 with OVA, LPS, and soluble OVA, in vitro (mean ± s.d, n = 6
+  technical replicate; one-way ANOVA test). d COF 1 with OVA increase cross-presentation
+  of 257–264 SIINFEKL OVA peptide in DC, with inflammation, in vitro (mean ± s.d,
+  n = 6 technical replicate; one-way ANOVA test). e Volcano plot of COF3 vs COF1,
+  n = 3 biological replicate; one-way ANOVA test. COF1. f Volcano plot of COF5 vs.
+  COF1, n = 3; one-way ANOVA test. g Volcano plot of COF5 vs. COF3, n = 3; one-way
+  ANOVA test. h–j WikiPathways of COF3 vs. COF1, COF5 vs. COF1, COF3 vs. COF5 respectively,
+  n = 3; one-way ANOVA test. k–m Gene Ontology (GO) analysis of COF3 vs. COF1, COF5
+  vs. COF1, COF3 vs. COF5 respectively, n = 3 biological replicate; one-way ANOVA
+  test. n Higher expression of CD86+ in human dendritic cells treated with COF1 compared
+  to COF5 (in presence of soluble OVA and LPS, mean ± s.d, n = 6 biological replicate;
+  one-way ANOVA test). o COF1 with LPS and soluble OVA can upregulate expression of
+  CD206+ (mean ± s.d, n = 6 biological replicate; one-way ANOVA test). p An increase
+  of the ratio of CD86+ gMFI to CD206+ gMFI in COF1 with ova compared to COF5 (mean ± s.d,
+  n = 6 biological replicate; one-way ANOVA test). All significant differences are
+  not shown for clarity.
+article_title: Crystallinity of covalent organic frameworks controls immune responses.
+citation: Arezoo Esrafili, et al. Nat Commun. 2024;15:9739.
+
+doi: 10.1038/s41467-024-54227-9
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Biomedical engineering
+- Biomaterials - vaccines
+- Tumour vaccines
+- Tumour immunology
+
+---

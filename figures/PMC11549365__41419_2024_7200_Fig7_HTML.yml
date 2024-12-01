@@ -1,0 +1,39 @@
+---
+pmcid: PMC11549365
+image_filename: 41419_2024_7200_Fig7_HTML.jpg
+figure_link: /pmc/articles/PMC11549365/figure/Fig7/
+number: Fig. 7
+figure_title: TMEM232 deficiency leads to the accumulation of ribosomal proteins in
+  mouse testis
+caption: A Bar graph of the pathway enrichment for upregulated proteins in Tmem232−/−
+  spermatozoa identified via proteomic analysis using the Metascape database. Only
+  significant GO terms (P < 0.05) are shown in rows. Terms with the prefix “R-HSA”
+  are from the Reactome, the prefix “GO” from the Gene Ontology consortium, and the
+  prefix “WP” from the WikiPathways. B Number of significantly upregulated or downregulated
+  ribosomal subunit proteins identified using proteomic analysis. C Western blotting
+  analysis revealed the protein levels of large and small ribosomal subunits, respectively,
+  in the testes of Tmem232+/+ (n = 2) and Tmem232−/− (n = 2) male mice at 2-months-old.
+  α-Tubulin served as a loading control. The representative image of biological duplicates
+  is shown. D Immunofluorescent staining (IF) of ribosomal proteins RPL3 and RPS6
+  on frozen sections of Tmem232+/+ (n = 3) and Tmem232−/− (n = 3) male mice testis.
+  Blue, DAPI; green, RPL3 or RPS6. A detailed explanation of the schematic diagram
+  is given in the text. Scale bars, 20 μm. E ATP levels were significantly decreased
+  in Tmem232−/− mouse sperm compared with those in the controls. Tmem232+/+, 6.78 ± 0.18;
+  Tmem232−/−, 2.92 ± 0.56. Data are presented as mean ± SEM. **** indicates P < 0.0001;
+  n = 3 for each genotype. F Fluorescence microscopy observation of sperm obtained
+  from Tmem232+/+ (n = 2) and Tmem232−/− (n = 2) male mice after JC-1 staining, DiOC6,
+  or Mito-Tracker staining. Scale bars, 100 μm.
+article_title: TMEM232 is required for the formation of sperm flagellum and male fertility
+  in mice.
+citation: Xinying Cai, et al. Cell Death Dis. 2024 Nov;15(11):806.
+
+doi: 10.1038/s41419-024-07200-9
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Infertility
+- Protein-protein interaction networks
+
+---

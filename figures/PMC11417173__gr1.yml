@@ -1,0 +1,35 @@
+---
+pmcid: PMC11417173
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC11417173/figure/fig1/
+number: Fig. 1
+figure_title: ''
+caption: Analysis of necroptosis-related genes in HCC using single-cell and bulk RNA
+  sequencing data.(A) Distribution of 55,023 cells across 13 cell types in the HCC
+  single-cell RNA (scRNA) dataset. (B) Assessment of necroptosis scores in single-cell
+  RNA data using the AddModuleScore method. (C) Boxplot illustrating variations in
+  necroptosis scores across 13 cell types. (D) Expression profiles of necroptosis
+  genes in the scRNA dataset. (E) Necroptosis score expression in various cancer cell
+  clusters from the scRNA dataset. (F) Differential gene expression between cluster
+  1 and other clusters in cancer cells. (G) Venn diagram (VeenPlot) showing the overlap
+  of 168 DEGs among scRNA DEGs, ICGC-LIHC, and GEO14520 datasets. (H) Expression of
+  125 DEGs between normal and tumor samples in the TCGA-LIHC cohort. (I) Gene Ontology
+  Biological Process (GO-BP), Kyoto Encyclopedia of Genes and Genomes (KEGG), and
+  WikiPathways analysis for the 125 DEGs, comparing high and low necroptosis-related
+  scores.
+article_title: A necroptosis-regulated model from single-cell analysis that predicts
+  survival and identifies the Pivotal role of MAGEA6 in hepatocellular carcinoma.
+citation: Youcheng Zhang, et al. Heliyon. 2024 Sep 30;10(18):e37711.
+
+doi: 10.1016/j.heliyon.2024.e37711
+journal_title: Heliyon
+journal_nlm_ta: Heliyon
+publisher_name: Elsevier
+
+keywords:
+- Hepatocellular carcinoma
+- Necroptosis
+- Prognostic signature
+- Single-cell
+
+---

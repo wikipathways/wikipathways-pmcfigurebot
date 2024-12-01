@@ -1,0 +1,55 @@
+---
+pmcid: PMC11468939
+image_filename: ADHM-12-2101216-g005.jpg
+figure_link: /pmc/articles/PMC11468939/figure/adhm202101216-fig-0003/
+number: Figure 3
+figure_title: ''
+caption: 'Global transcriptomic characteristics of tenocytes phenotypic drift on TCP.
+  A) Heatmap of gene‐level hierarchical clustering of the top 50 differentially expressed
+  genes (DEG) in tendon stromal fibroblasts cultured on tissue culture plastic (TCP)
+  versus vehicle control. Columns represent individual samples (N = 4 biological replicates
+  from different donors). Blue denotes downregulated genes; red denotes upregulated
+  genes. B) Functional annotation of S1 and S2 gene clusters in the heatmap (encompassing
+  top 500 DEGs). Bar plots depict the fisher‐weighted, average correlations of the
+  cluster with the annotation terms queried against MSigDB Hallmark database. C) RNA‐seq
+  volcano plot of DEGs of TCP‐cultured human tenocytes relative to native tendons.
+  Colored dots show the 8684 significantly expressed genes, as determined by DESeq2
+  methods, with the horizontal line corresponding to an FDR ≤0.01 and vertical lines
+  are at a cutoff of log2[Fold change] ± 1. D) Enriched pathways analysis of a subset
+  of DEGs using Enrichr queried against BioPlanet 2019 (BP), Reactome (R), WikiPathways
+  2019 (WP), and KEGG 2019 (K) Human databases. All hits had an adjusted p‐value <
+  0.05. E) Overrepresentation analysis (ORA) of Molecular Functions GO terms of upregulated
+  and downregulated DEGs. Analysis was performed using a hypergeometric overrepresentation
+  test against the GO database, with significance achieved at q‐value < 0.05. F) Bar
+  plot depicts the predicted top 10 most significantly enriched transcription factors
+  upstream of the DEGs. Predicted TFs are sorted by significance level (adjusted p‐value
+  < 0.05). G) Top 10 kinases upstream of predicted TFs in (F) were identified using
+  the Kinase Enrichment Analysis module of the Expression2Kinase pipeline. H) GSEA
+  enrichment plots of some of the top differentially expressed gene sets. The plot''s
+  black vertical lines represent the ranked gene hits in the gene set. The green line
+  represents the normalized enrichment score (NES). The more the NES curve is skewed
+  to the upper left of the plot, the more the gene set is enriched in the TCP group.
+  In contrast, when the curve shifts to the lower right, this reflects a more enrichment
+  in the Native Tendon control group. The red‐to‐blue colored scale at the bottom
+  represents the degree of correlation of genes in the TCP group with the phenotype
+  in the gene set (Red: positive correlation; blue: negative correlation) or vice
+  versa for the Native Tendon control group. Note the significant regulation of gene
+  set terms related to EMT, cellular proliferation, metabolism, and angiogenesis.
+  I) GSEA enrichment plots of tendon‐specific (Top) and tendinopathy (bottom) signatures.'
+article_title: The Stiffness‐Sensitive Transcriptome of Human Tendon Stromal Cells.
+citation: Amro A. Hussien, et al. Adv Healthc Mater. 2023 Mar 13;12(7):2101216.
+
+doi: 10.1002/adhm.202101216
+journal_title: Advanced Healthcare Materials
+journal_nlm_ta: Adv Healthc Mater
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- connective tissues
+- fibroblasts
+- matrix stiffness
+- mechanobiology
+- soft matter
+- tendons
+
+---

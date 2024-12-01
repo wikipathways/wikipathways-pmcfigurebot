@@ -1,0 +1,59 @@
+---
+pmcid: PMC11405688
+image_filename: 44318_2024_182_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC11405688/figure/Fig2/
+number: Figure 2
+figure_title: Defective Relb or Nfkb2 functions enhance the expression and activity
+  of Raldh2 in DCs
+caption: (A) Immunoblot charting the abundance of p52 and p100 in whole-cell extracts
+  (top) or RelB and p52 in nuclear extracts (bottom) in cells harvested from BMDC-differentiating
+  culture at the indicated days. (B) Enrichment analyses revealing top ten enriched
+  DC-relevant biological pathways among genes differentially expressed between Nfkb2−/−
+  and WT BMDCs. For each genotype, RNA-seq data from three independent biological
+  replicates were used. Benjamini–Hochberg method was used to calculate the P value.
+  WikiPathways subset of cellular processes available at the Molecular Signatures
+  Database was used for the enrichment analysis. (C) GSEA comparing Nfkb2−/− and WT
+  BMDCs for the enrichment of RA targets among differentially expressed genes (top).
+  Fold change (FC) in the basal mRNA level between these genotypes was considered
+  to create a ranked gene list, which was subjected to GSEA using a previously published
+  list of RA-target genes (see “Methods” for details). Benjamini–Hochberg method was
+  used to calculate the P value. Vertical lines represent individual RA targets. ES
+  and NES denote enrichment and normalized enrichment scores, respectively. (D) A
+  cartoon describing the RA metabolism pathway and its functions in DCs. (E) Heatmap
+  showing the expression of selected RA metabolism-associated genes in WT and Nfkb2−/−
+  BMDCs, as determined in RNA-seq. (F) RT-qPCR comparing untreated or LPS-treated
+  BMDCs derived from Relbfl/fl and Relb∆CD11c mice (left, ***P = 0.0007, 0.0001, **P = 0.003,
+  *P = 0.012) or Nfkb2fl/fl and Nfkb2∆CD11c mice (right, **P = 0.0012, 0.002, ns=0.33,
+  P = 0.16) for gene expressions (n = 5). (G) Representative immunoblot revealing
+  the abundance of Raldh2 in Relbfl/fl and RelbΔCD11c BMDCs. Corresponding band intensities
+  were quantified and presented as a barplot below (n = 3, ***P = 0.001). (H) Histograms
+  showing the Raldh enzymatic activity measured by Aldefluor assay in BMDCs. The Raldh
+  inhibitor DEAB was used as a control. For a given genotype, ∆MFI was calculated
+  as = MFIno DEAB - MFIDEAB, and presented in a barplot (n = 3, **P = 0.0037). (I)
+  Flow cytometry analyses demonstrating the generation of Foxp3+ CD4 Treg in DC-T-cell
+  co-culture ex vivo. Briefly, BMDCs were cultured with naive T cells, isolated from
+  the spleen of WT mice, in the presence of CD3 and TGF-β for 3.5 days. In specified
+  sets, the RAR inhibitor BMS493 was added. The frequency of Foxp3+ Treg as a percentage
+  of CD4 cells was determined and presented in the barplot (bottom) (n = 3, *P = 0.017,
+  **P = 0.005). “n” represents the number of biological replicates. Data represent
+  mean ± SEM. Two-tailed Student’s t test was performed. ns-not significant. .
+article_title: Non-canonical NF-κB signaling limits the tolerogenic β-catenin-Raldh2
+  axis in gut dendritic cells to exacerbate intestinal pathologies.
+citation: Alvina Deka, et al. EMBO J. 2024 Sep;43(18):3895-3915.
+
+doi: 10.1038/s44318-024-00182-6
+journal_title: The EMBO Journal
+journal_nlm_ta: EMBO J
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- IgA
+- Inflammation
+- Inflammatory Bowel Disease
+- RelB
+- Retinoic Acid
+- Digestive System
+- Immunology
+- Signal Transduction
+
+---

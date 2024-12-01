@@ -1,0 +1,31 @@
+---
+pmcid: PMC11590648
+image_filename: JIR-17-9511-g0002.jpg
+figure_link: /pmc/articles/PMC11590648/figure/f0002/
+number: Figure 2
+figure_title: ''
+caption: General characteristics of the immune signatures in HCC. (A). Volcano plot
+  showed the different enrichment results of all immune signatures used in the study.
+  (B). General view of the enrichment results in GO-BP, GO-CC, GO-MF, KEGG, Reactome
+  and WikiPathways. (C). PPI showed the various clustered immune cells of myeloid
+  cells and lymphocytes, and their potential connection with Ku70/Ku80. (D). GO enrichment
+  showed the cell types of the immune signatures. (E). Dependency wheel showed the
+  KEGG enrichment of the immune signatures. (F). Dependency wheel showed the GO-CC
+  enrichment of the immune signatures.
+article_title: Higher Expression of Ku80 and Ku70 Indicates Hotter Tumor Immune Microenvironment
+  in Hepatocellular Carcinoma and Better CTL-Centered Immunotherapy.
+citation: Lukun Yang, et al. J Inflamm Res. 2024;17:9511-9525.
+
+doi: 10.2147/JIR.S496123
+journal_title: Journal of Inflammation Research
+journal_nlm_ta: J Inflamm Res
+publisher_name: Dove
+
+keywords:
+- hepatocellular carcinoma
+- XRCC6/Ku70
+- XRCC5/Ku80
+- CTL-centered immunotherapy
+- tumor immune microenvironment
+
+---

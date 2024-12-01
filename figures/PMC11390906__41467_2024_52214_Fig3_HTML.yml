@@ -1,0 +1,34 @@
+---
+pmcid: PMC11390906
+image_filename: 41467_2024_52214_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC11390906/figure/Fig3/
+number: Fig. 3
+figure_title: FXII deficiency induces differential gene expression in DKD
+caption: 'a Principal component analysis (PCA) on gene sets of normoglycemic (C) and
+  hyperglycemic (DM) WT and F12-/- mice kidneys. b Heatmap of the RNA-seq data showing
+  the differentially expressed genes (DEGs) in WT-DM and F12-/--DM mice. Each column
+  represents data from an individual mouse. Color intensity represents row Z-score.
+  c Gene set enrichment analysis (GSEA) plots of the hallmark gene sets representing
+  key negatively enriched pathways when comparing F12-/--DM to WT-DM kidneys. Significance
+  is represented by the false discovery rate (FDR). d Bar graph representing the top
+  enriched pathways based on the downregulated differentially expressed genes (DEGs)
+  in F12-/--DM compared to WT-DM kidneys using KEGG (Kyoto Encyclopedia of Genes and
+  Genomes), WikiPathways, Reactome, PID (Pathway Interaction Database), and GO (Gene
+  Ontology: Biological processes) databases. The pathways were ranked by the false
+  discovery rate (FDR). Source data are provided as a “Source Data” file.'
+article_title: Factor XII signaling via uPAR-integrin β1 axis promotes tubular senescence
+  in diabetic kidney disease.
+citation: Ahmed Elwakiel, et al. Nat Commun. 2024;15:7963.
+
+doi: 10.1038/s41467-024-52214-8
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Chronic kidney disease
+- Molecular biology
+- Risk factors
+- Experimental models of disease
+
+---

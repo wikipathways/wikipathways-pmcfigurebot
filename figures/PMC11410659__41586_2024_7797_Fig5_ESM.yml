@@ -1,0 +1,31 @@
+---
+pmcid: PMC11410659
+image_filename: 41586_2024_7797_Fig5_ESM.jpg
+figure_link: /pmc/articles/PMC11410659/figure/Fig5/
+number: Extended Data Fig. 1
+figure_title: Characterisation of dose-dependent response to RAS expression at single
+  cell level in the liver model
+caption: a,b, Projection of single cells coloured by pseudotime (a) or cluster as
+  in Fig.  (b). c, Top 50 genes driving pseudotime ordering, arranged in order of
+  similarity of expression pattern across pseudotime. d, Heatmap of average gene expression
+  across single cells in each cluster for 899 secretome genes. The top 5 enriched
+  KEGG pathways in each of the clusters are shown. Values, -log10(FDR), red dotted
+  line indicates significance level of 0.05. e, Expression of all DNA damage-related
+  gene sets from entire MsigDB across clusters. Terms were manually trimmed but the
+  full descriptions are in Supplementary Table . GOBP = Gene Ontology Biological Process,
+  REAC = Reactome, GOMF = Gene Ontology Molecular Function, WP = WikiPathways. f,
+  Distribution of geneset scores for target genes of the indicated RAS downstream
+  transcription factors across clusters.
+article_title: Titration of RAS alters senescent state and influences tumour initiation.
+citation: Adelyne S. L. Chan, et al. Nature. 2024;633(8030):678-685.
+
+doi: 10.1038/s41586-024-07797-z
+journal_title: Nature
+journal_nlm_ta: Nature
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Senescence
+- Tumour heterogeneity
+
+---

@@ -1,0 +1,27 @@
+---
+pmcid: PMC11502746
+image_filename: 41538_2024_328_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC11502746/figure/Fig2/
+number: Fig. 2
+figure_title: Enrichment analysis of differentially expressed proteins (DEPs) identified
+  in the high-concentration MGO-treated group (1000 μM MGO) compared to control using
+  DAVID
+caption: a GO enrichment analysis for the categories of biological process (BP), cellular
+  component (CC), and molecular function (MF); the top six enriched terms for each
+  category are shown, selected based on the p values. b KEGG pathway enrichment analysis.
+  c WikiPathways enrichment analysis (top 20 enriched terms are shown according to
+  the p values).
+article_title: An integrated proteomics and metabolomics analysis of methylglyoxal-induced
+  neurotoxicity in a human neuroblastoma cell line.
+citation: Haomiao Wang, et al. NPJ Sci Food. 2024;8:84.
+
+doi: 10.1038/s41538-024-00328-0
+journal_title: NPJ Science of Food
+journal_nlm_ta: NPJ Sci Food
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Protein-protein interaction networks
+- Metabolomics
+
+---

@@ -1,0 +1,57 @@
+---
+pmcid: PMC11468939
+image_filename: ADHM-12-2101216-g002.jpg
+figure_link: /pmc/articles/PMC11468939/figure/adhm202101216-fig-0002/
+number: Figure 2
+figure_title: ''
+caption: Transcriptomic comparison of stiffness‐sensing in human tendon stromal cells.
+  A) Schematic overview of the range of substrate stiffnesses that were used to interrogate
+  stiffness‐sensing in this study. Healthy human tendon‐derived cells were isolated
+  from patients who underwent autograft tendon transfer for the repair of knee anterior
+  cruciate ligament (ACL). Freshly dissociated cells were directly seeded on PDMS
+  substrates without the standard expansion on tissue culture plastics. B) RNA‐seq
+  volcano plots of DEGs across different stiffness comparisons. Differential expression
+  was determined by DESeq2 method. Colored values represent significant DEGs, which
+  are defined with cut‐off values of |fold change| ± 1 and p‐value < 0.01. C) Venn
+  diagram depicting the overlapped significantly expressed genes (DEGs) between the
+  different stiffness comparisons. D,E) Top 10 enriched pathways for each stiffness
+  comparison; D) 35 kPa versus 180 kPa, E) 2 kPa versus 180 kPa. Enrichment analysis
+  was performed in Enrichr using both up‐regulated and down‐regulated genes. DEGs
+  were interrogated against BioPlanet 2019 (BP), Reactome (R), WikiPathways 2019 (WP),
+  KEGG 2019 (K) databases. The list of significantly enriched pathways was manually
+  curated, and it is listed according to the smallest p‐values obtained across all
+  the databases. F) Shared enriched biological processes (BP) GO terms between the
+  indicated stiffness comparisons using gProfiler over‐representation analysis of
+  both upregulated and downregulated DEGs. G,H) Top enriched biological processes
+  (BP) GO terms in each stiffness comparison; G) 35 kPa versus 180 kPa, H) 2 kPa versus
+  180 kPa. Overrepresentation analysis was performed using hypergeometric overrepresentation
+  test against the GO database with both upregulated and downregulated DEGs. Significance
+  achieved at q‐value < 0.05. I–K) Bar plots show the predicted top 10 most significantly
+  enriched transcription factors upstream of the DEGs. Predicted TFs are sorted by
+  significance level (adjusted p‐value < 0.05), and were inferred using the TF Enrichment
+  Analysis modules of the Expression2Kinase tool. L) ISMARA inferred regulatory motif
+  analysis of predicted TFs activity at proximal promoter regions, as a function of
+  the substrate stiffness. Dot plots depict ISMARA‐predicted activity of SMAD3, ZNF148,
+  AND TEAD3‐TEAD1 motifs. M–O) Bar plots indicate the predicted top 10 most significantly
+  enriched kinases upstream of the DEGs. Predicted kinases are ranked by significance
+  level (adjusted p‐value < 0.05). Kinases were predicted using the Kinase Enrichment
+  Analysis modules of the Expression2Kinase tool. P) Representative immunoblot and
+  quantification of Phospho‐Akt(Ser473) kinase. Data are from two independent biological
+  donors. All data is shown as fold change to TCP.
+article_title: The Stiffness‐Sensitive Transcriptome of Human Tendon Stromal Cells.
+citation: Amro A. Hussien, et al. Adv Healthc Mater. 2023 Mar 13;12(7):2101216.
+
+doi: 10.1002/adhm.202101216
+journal_title: Advanced Healthcare Materials
+journal_nlm_ta: Adv Healthc Mater
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- connective tissues
+- fibroblasts
+- matrix stiffness
+- mechanobiology
+- soft matter
+- tendons
+
+---

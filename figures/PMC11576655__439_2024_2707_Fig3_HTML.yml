@@ -1,0 +1,30 @@
+---
+pmcid: PMC11576655
+image_filename: 439_2024_2707_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC11576655/figure/Fig3/
+number: Fig. 3
+figure_title: ''
+caption: 'Significantly over-represented pathways for candidate genes derived from
+  duplication-only (DUP) and loss of function (LOF) CNV_GWAS. Significantly enriched
+  pathways are ordered by adjusted p-value (most-to-least significant) of 58 and 116
+  candidate genes derived from duplication-only and loss of function GWAS. Reactome
+  (REAC) (Fabregat et al., 2018), KEGG (Kanehisa et al., 2019), WikiPathways (WP)
+  (Slenter et al., 2018), Gene Ontology (GO) (Ashburner et al., 2011), Human Phenotype
+  Ontology (HP) (Köhler et al., 2019) were selected as annotation databases. Heatmap
+  on left depicts which CNV-GWAS candidate genes were overrepresented. Gene sets on
+  right side of figure encompass multiple genes: 16p11.2A = SPN, QRPT, C16orf54, ZG16,
+  MAZ, MVP, CDIPT, SEZ6L2, ASPHD1, KCTD13, TMEM219, HIRIP3, DOC2A, C16orf92, ALDOA,
+  TBX6, GDPD. Stress = CYP1B1, FGF12, PPARA, BCLAF1, POLQ, FANCM, ERCC2, GML. Membrane = SLC6A3,
+  SLCO1B3, DLG2, TMEM231, SLC19A1, SLC4A7. Genes denoted with * denote additional
+  gene loci identified via recurrent 16p deletion identified in LOF CNV-GWAS but were
+  also represented in other enriched pathways'
+article_title: Germline copy number variants and endometrial cancer risk.
+citation: Cassie E. Stylianou, et al. Hum Genet. 2024;143(12):1481-1498.
+
+doi: 10.1007/s00439-024-02707-9
+journal_title: Human Genetics
+journal_nlm_ta: Hum Genet
+publisher_name: Springer Berlin Heidelberg
+
+keywords:
+---

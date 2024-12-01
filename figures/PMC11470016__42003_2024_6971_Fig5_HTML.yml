@@ -1,0 +1,44 @@
+---
+pmcid: PMC11470016
+image_filename: 42003_2024_6971_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC11470016/figure/Fig5/
+number: Fig. 5
+figure_title: RNA sequencing of molecular changes in Clec14a−/− lysates
+caption: A–E Clustering and gene ontology analysis of Clec14a+/+ (WT) and Clec14a−/−
+  pup calvaria lysates. A, B Unsupervised hierarchical clustering, (dendrogram – A;
+  principal component analysis – B) of log2 normalised counting reads over exons (RPM-reads
+  per million) for all detected genes, N = 4 for both groups. Clec14a−/− samples (blue),
+  Clec14a+/+ samples (WT - orange). Each sample represents a different individual
+  animal. C) Differentially expressed gene counts. Raw counts were analysed with DESeq2,
+  significantly expressed genes were cut off at log2FC values > 0.5, adjusted p (padj)
+  < 0.05, p value was corrected for multiple comparisons (Benjamini–Hochberg); Orange = genes
+  upregulated in Clec14a−/− samples; Blue = genes downregulated in Clec14a−/− samples.
+  D GSEA analysis enrichment score for pathways related to endochondral ossification.
+  ES-enrichment score, FDR -false discovery rate. Gene expression is presented as
+  a Z score (scale). E GSEA heatmap showing the list of leading-edge genes enriched
+  at the top of the Wikipathways ‘Endochondral Ossification’ gene set. Heatmap presents
+  upregulation of transcripts relevant to endochondral ossification in Clec14a−/−
+  (blue) samples compared to WT control (orange). Gene expression is presented as
+  a Z score. Transcripts presented were identified as statistically significant by
+  GSEA analysis, FDR (q-value) < 0.05, nominal p < 0.01. F Analysis of expression
+  of genes linked to osteoblast maturation and osteogenic activity. P4 pup calvarial
+  lysates were subjected to RT qPCR analysis to dissect expression patterns of genes
+  known to regulate commitment to osteoblast lineage and osteoblast maturation, gene
+  expression was normalised to Gapdh, shown as arbitrary units (2^-ΔCT). Data is presented
+  as median ± IQR, a Mann–Whitney test was used to analyse the results. Plots represent
+  results from two independent experiments (n = 7 Clec14a+/+, n = 4–5 Clec14a−/−),
+  data points in each graph are biological replicates.
+article_title: Type-H endothelial cell protein Clec14a orchestrates osteoblast activity
+  during trabecular bone formation and patterning.
+citation: Georgiana Neag, et al. Commun Biol. 2024;7:1296.
+
+doi: 10.1038/s42003-024-06971-3
+journal_title: Communications Biology
+journal_nlm_ta: Commun Biol
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Bone development
+- Extracellular matrix
+
+---

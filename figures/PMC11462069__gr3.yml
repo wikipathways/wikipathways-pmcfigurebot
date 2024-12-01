@@ -1,0 +1,47 @@
+---
+pmcid: PMC11462069
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC11462069/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: 'Acetate and ACSS2 drive quiescence in HGSC models. (A) Ovcar8 cells were
+  transduced with lentivirus expressing empty vector control (EV control) or HA-tagged
+  ACSS2 (ACSS2 OE). ACSS2 and HA protein expression was determined by western blotting.
+  β-actin was used as a loading control. Immunoblots shown are representative data
+  from at least 2 independent experiments. (B) Percent proliferation relative to EV
+  control was assessed after 4 days. Cell counts were assessed using the Incucyte
+  Live Cell Imaging system at endpoint. Pooled data from 3 independent biological
+  replicates (n = 4). Graphs represent mean ± SD. (C) Real time imaging of the proliferation
+  of Ovcar8 and Kuramochi cells treated with the indicated doses of acetate. Cell
+  numbers were normalized to the 0 h timepoint. Data represent 1 biological replicate
+  (n = 3) of at least 3 independent experiments. (D) Summary of endpoint proliferation
+  data from (C). Ovcar8: 10 mM acetate; Kuramochi: 20 mM acetate. Pooled data from
+  at least 3 independent experiments (n = 3–4). (E) Proliferation as assessed by real
+  time imaging. Cell numbers were normalized to the 0 h timepoint. Data represent
+  1 biological replicate (n = 3) of at least 3 independent experiments. Horizontal
+  dotted line indicates when media was replaced with fresh media without acetate.
+  Ovcar8: 10 mM acetate; Kuramochi: 20 mM acetate. (F) Ovcar8 and Kuramochi cells
+  were transduced with a modified FUCCI reporter construct and treated with acetate.
+  Ovcar8: 10 mM acetate; Kuramochi: 20 mM acetate. Quiescence (cells in G0) was assessed
+  by flow cytometry. Shown is the CDT1/p27 double positive G0 population normalized
+  to control. Pooled data from 3 independent experiments is shown. (G–H) Ovcar8 cells
+  were treated with 10 mM acetate for 72h, and RNA-Seq was performed. (G) Negatively
+  enriched Wikipathways (WP), Hallmark, and KEGG gene signatures in acetate vs. control.
+  (H) Heatmap of genes in a published G0 signature []. Graphs represent mean ± SD.
+  ∗∗∗∗p < 0.001.'
+article_title: Acetate drives ovarian cancer quiescence via ACSS2-mediated acetyl-CoA
+  production.
+citation: Allison C. Sharrow, et al. Mol Metab. 2024 Nov;89:102031.
+
+doi: 10.1016/j.molmet.2024.102031
+journal_title: Molecular Metabolism
+journal_nlm_ta: Mol Metab
+publisher_name: Elsevier
+
+keywords:
+- Metabolism
+- Cell cycle
+- ACSS2
+- G0 phase
+
+---

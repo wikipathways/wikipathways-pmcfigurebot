@@ -1,0 +1,34 @@
+---
+pmcid: PMC11436735
+image_filename: 41598_2024_73783_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC11436735/figure/Fig2/
+number: Fig. 2
+figure_title: ''
+caption: Pathway enrichment analysis of target genes regulated by the top 50 differentially
+  expressed miRNAs. (A) KEGG analysis of potential target genes regulated by these
+  miRNAs,. (B) WikiPathways analysis of potential target genes regulated by these
+  miRNAs. (C) Network plot of enriched target genes depicting the linkages of genes
+  and selected KEGG pathways,. (D) Network plot of enriched target genes depicting
+  the linkages of genes and selected WikiPathways. For (A) and (B), the gene ratio
+  (no. of mapped genes / total no. of genes) is shown on the x-axis; bubble size is
+  gene count and bubble color reflects adjusted p value.
+article_title: Noninvasive multi-cancer detection using blood-based cell-free microRNAs.
+citation: Jason Zhang, et al. Sci Rep. 2024;14:22136.
+
+doi: 10.1038/s41598-024-73783-0
+journal_title: Scientific Reports
+journal_nlm_ta: Sci Rep
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Multi-cancer early detection
+- MicroRNA
+- Noninvasive
+- Blood-based diagnostic model
+- Cancer
+- Computational biology and bioinformatics
+- Biomarkers
+- Molecular medicine
+- Oncology
+
+---

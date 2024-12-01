@@ -1,0 +1,26 @@
+---
+pmcid: PMC11409134
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC11409134/figure/fig3/
+number: Fig. 3
+figure_title: ''
+caption: Functional enrichment analysis. (A) Heatmap of lung cancer driver genes with
+  oncogenic variants being part of oncogenes, tumor suppressor genes, cell cycle genes,
+  DNA repair genes, kinome, metastatic genes, cancer immunotherapy genes, and genes
+  encoding RNA-binding proteins. (B) Manhattan plot of the most significant GO biological
+  processes (n = 201), KEGG signaling pathways (n = 47), Reactome signaling pathways
+  (n = 20), and WikiPathways (n = 38). (C) Most relevant (Benjamini-Hochberg FDR q-value
+  <0.001) GO biological processes, KEGG signaling pathways, Reactome signaling pathways,
+  and WikiPathways where the lung cancer driver genes with oncogenic variants were
+  involved.
+article_title: Worldwide analysis of actionable genomic alterations in lung cancer
+  and targeted pharmacogenomic strategies.
+citation: Gabriela Echeverría-Garcés, et al. Heliyon. 2024 Sep 15;10(17):e37488.
+
+doi: 10.1016/j.heliyon.2024.e37488
+journal_title: Heliyon
+journal_nlm_ta: Heliyon
+publisher_name: Elsevier
+
+keywords:
+---

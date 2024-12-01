@@ -1,0 +1,34 @@
+---
+pmcid: PMC11471957
+image_filename: bbae499f6.jpg
+figure_link: /pmc/articles/PMC11471957/figure/f6/
+number: Figure 6
+figure_title: ''
+caption: Illustration of sex-specific differential gene expression in the ‘Neural
+  Crest Differentiation’ pathway from the WikiPathways database in Alzheimer’s disease
+  prefrontal cortex RNA-seq data (shown is a segment of the adapted pathway diagram
+  enriched in male-specific changes). Each box represents a gene, and the colors reflect
+  the estimated log fold change in patients versus controls for females (left side)
+  and males (right side). Over- and under-expression is indicated by a blue to red
+  color gradient (see legend on the right), lack of significant expression changes
+  is indicated by a white color. The diagram shows a male-specific overrepresentation
+  of underexpressed genes in patients (in female patients either no significant change
+  in expression is observed or an increased expression, as for the gene ASCL1).
+article_title: Bioinformatics approaches for studying molecular sex differences in
+  complex diseases.
+citation: Rebecca Ting Jiin Loo, et al. Brief Bioinform. 2024 Nov;25(6):bbae499.
+
+doi: 10.1093/bib/bbae499
+journal_title: Briefings in Bioinformatics
+journal_nlm_ta: Brief Bioinform
+publisher_name: Oxford University Press
+
+keywords:
+- molecular sex differences
+- complex diseases
+- pathway and network analysis
+- bioinformatics
+- biomarker signature modeling
+- personalized medicine
+
+---

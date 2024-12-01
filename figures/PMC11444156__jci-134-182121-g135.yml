@@ -1,0 +1,43 @@
+---
+pmcid: PMC11444156
+image_filename: jci-134-182121-g135.jpg
+figure_link: /pmc/articles/PMC11444156/figure/F4/
+number: Figure 4
+figure_title: GPR75 is highly expressed in the brain and directly binds to Gαq to
+  regulate various downstream signaling pathways
+caption: (A) Relative Gpr75 mRNA levels in different mouse tissues normalized by Polr2a
+  (n = 3 mice). (B) Generation of 3xFlag-tagged Gpr75-knockin mice by CRISPR. Ex1,
+  exon 1; Ex2, exon 2. (C) Immunoblot analysis of 3xFlag-Gpr75 protein expression
+  in different mouse tissues (8-week-old males) by immunoprecipitation (IP). GAPDH
+  was used as a loading control. IB, immunoblot. (D) Immunoblot analysis of 3xFlag-Gpr75
+  protein expression in various brain regions (8-week-old males) by immunoprecipitation.
+  GAPDH was used as a loading control. (E) Mass spectrometric identification of GPR75-interacting
+  proteins from Flag immunoprecipitates of Gpr75-3xFlag–knockin brain lysates. (F)
+  Immunoblot analysis of immunoprecipitates (top and middle) and lysates (bottom)
+  of 293T cells expressing HA-tagged Gnaq and 3xFlag-tagged Gpr75. (G) Summary of
+  significantly changed genes (FDR <0.05) from RNA-Seq of hypothalamus from 8-week-old
+  male WT and Gpr75–/– mice fed a chow diet or a HFD for 2 weeks (n = 3 mice for each
+  group). (H and I) Volcano plots of differentially expressed genes in the hypothalamus
+  of Gpr75–/– versus WT mice on a chow diet (H) or a 2-week HFD (I). Differentially
+  expressed genes (FDR <0.05) are colored in red and blue indicating upregulation
+  and downregulation, respectively. (J) Manhattan-like plot of pathways significantly
+  associated (P < 0.05) with the loss of GPR75 on HFD feeding identified from a pathway
+  overrepresentation analysis that mapped significant genes to the Reactome and WikiPathways
+  databases. (K) Visualization of significantly associated pathways (P < 0.05) from
+  J. Data are presented as the mean ± SD. Data points represent individual mice in
+  A, and data are representative of 3 independent experiments.
+article_title: Central regulation of feeding and body weight by ciliary GPR75.
+citation: Yiao Jiang, et al. J Clin Invest. 2024 Oct 1;134(19):e182121.
+
+doi: 10.1172/JCI182121
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+
+keywords:
+- Cell biology
+- Metabolism
+- G protein&ndash;coupled receptors
+- Obesity
+
+---

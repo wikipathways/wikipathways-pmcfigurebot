@@ -1,0 +1,33 @@
+---
+pmcid: PMC11522702
+image_filename: 41419_2024_7178_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC11522702/figure/Fig5/
+number: Fig. 5
+figure_title: Transcriptomic sequencing with participant inclusion
+caption: A Volcano plot illustrating differential gene expression. Gray indicates
+  genes with non-significant differential expression, while red and blue denote genes
+  with significant differential expression. B Heatmap of differentially expressed
+  genes. Red signifies relatively high expression of protein-coding genes, whereas
+  blue represents relatively low expression of protein-coding genes. Enrichment analysis.
+  C Differential gene enrichment analysis using Gene Ontology (GO) (NC-SH). D Enrichment
+  analysis of differential genes using Kyoto Encyclopedia of Genes and Genomes (KEGG)
+  pathways (NC-SH). The horizontal axis represents the Enrichment Score, while the
+  vertical axis represents the categories. Bubble size reflects the number of differentially
+  expressed protein-coding genes, and color changes from blue to red indicate the
+  significance of enrichment p-values, with larger bubbles being more significant.
+  E Enrichment analysis of differential genes using Reactome pathways (NC-SH). F Enrichment
+  analysis of differential genes using WikiPathways (SH-NIC).
+article_title: Nicotine-induced CHRNA5 activation modulates CES1 expression, impacting
+  head and neck squamous cell carcinoma recurrence and metastasis via MEK/ERK pathway.
+citation: Chen Feng, et al. Cell Death Dis. 2024 Oct;15(10):785.
+
+doi: 10.1038/s41419-024-07178-4
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Head and neck cancer
+- Diagnostic markers
+
+---

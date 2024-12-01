@@ -1,0 +1,38 @@
+---
+pmcid: PMC11441936
+image_filename: medi-103-e39867-g002.jpg
+figure_link: /pmc/articles/PMC11441936/figure/F2/
+number: Figure 2
+figure_title: ''
+caption: 'Pathway enrichment analyses highlighting distinct metabolic and cellular
+  responses in sepsis compared to healthy controls. (A–F) Gene set enrichment analysis
+  (GSEA) conducted on all genes between sepsis patients and healthy controls, revealing
+  various pathways: (A) KEGG “Oxidative Phosphorylation” (NES = 1.627, FDR = 0.031),
+  (B) WikiPathways “Oxidative Stress Response” (NES = 1.096, FDR = 0.065), (C) WikiPathways
+  “Glutathione Metabolism” (NES = 1.570, FDR = 0.156), (D) KEGG “PPAR Signaling Pathway”
+  (NES = −0.634, FDR = 0.057), (E) Reactome “Cellular Response to Stress” (NES = −2.422,
+  FDR < 0.001), (F) KEGG “Wnt Signaling Pathway” (NES = −1.522, FDR = 0.016). (G)
+  Gene Ontology (GO) analysis represented as a dot plot, illustrating various biological
+  processes such as carbohydrate catabolism and glycolytic activity. The size of each
+  dot indicates gene count, while the color gradient denotes the adjusted P value
+  (P adj). (H) KEGG pathway analysis depicted as a dot plot, emphasizing pathways
+  including HIF-1 signaling and glycolysis/gluconeogenesis. Each dot’s color gradient
+  signifies the adjusted P value (P adj), and the size represents the number of genes
+  associated with each pathway.'
+article_title: 'Unveiling the glycolysis in sepsis: Integrated bioinformatics and
+  machine learning analysis identifies crucial roles for IER3, DSC2, and PPARG in
+  disease pathogenesis.'
+citation: Dongqing Cui, et al. Medicine (Baltimore). 2024 Sep 27;103(39):e39867.
+
+doi: 10.1097/MD.0000000000039867
+journal_title: Medicine
+journal_nlm_ta: Medicine (Baltimore)
+publisher_name: Lippincott Williams & Wilkins
+
+keywords:
+- glycolytic signaling
+- immune response
+- machine learning
+- sepsis
+
+---

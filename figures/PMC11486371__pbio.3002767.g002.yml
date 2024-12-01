@@ -1,0 +1,27 @@
+---
+pmcid: PMC11486371
+image_filename: pbio.3002767.g002.jpg
+figure_link: /pmc/articles/PMC11486371/figure/pbio.3002767.g002/
+number: Fig 2
+figure_title: Cellular pathways influencing SARS-CoV-2 infection
+caption: 'GSEA was performed on the screen data (). The individual genes for some
+  of the top pathways are shown here. The full names of the plotted pathways are as
+  follows: translation initiation, “REACTOME EUKARYOTIC TRANSLATION INITIATION”; negative
+  rRNA regulation, “REACTOME NEGATIVE EPIGENETIC REGULATION OF RRNA EXPRESSION”; cholesterol
+  biosynthesis, “REACTOME REGULATION OF CHOLESTEROL BIOSYNTHESIS BY SREBP SREBF”;
+  pre-mRNA processing, “REACTOME PROCESSING OF CAPPED INTRON CONTAINING PRE MRNA”;
+  cellular respiration, “WP ELECTRON TRANSPORT CHAIN OXPHOS SYSTEM IN MITOCHONDRIA”;
+  RNA Pol III transcription, “REACTOME RNA POLYMERASE III TRANSCRIPTION INITIATION
+  FROM TYPE 3 PROMOTER.” Pathways are from the Reactome [] and Wikipathways [] databases.
+  The data underlying this Figure can be found in .'
+article_title: A genome-wide arrayed CRISPR screen identifies PLSCR1 as an intrinsic
+  barrier to SARS-CoV-2 entry that recent virus variants have evolved to resist.
+citation: Jérémie Le Pen, et al. PLoS Biol. 2024 Sep;22(9):e3002767.
+
+doi: 10.1371/journal.pbio.3002767
+journal_title: PLOS Biology
+journal_nlm_ta: PLoS Biol
+publisher_name: Public Library of Science
+
+keywords:
+---

@@ -1,0 +1,38 @@
+---
+pmcid: PMC11569608
+image_filename: 12935_2024_3573_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC11569608/figure/Fig2/
+number: Fig. 2
+figure_title: ''
+caption: 'Functional enrichment analysis using g: Profiler software (version e94_eg41_p11)
+  and western blot analysis. (A) The significantly enriched terms according to the
+  GO and WikiPathways (WP) databases. Statistical significance was determined using
+  a threshold of p < 0.05. (B-C) The normalized abundance values were derived from
+  Progenesis QI for Proteomics software, which quantifies proteins on the basis of
+  peptide ion signal peak intensity. The criteria for significance included a p value < 0.05,
+  a q value < 0.05, and a fold change (FC) ≥ 2. (D) Western blot analysis of phospho-LAT1
+  (pLATS1) and LATS1 in lysates from three representative xenograft tumor samples
+  from treated and control groups. β-actin served as a loading control. Western blot
+  quantifications were performed with ImageJ software. Densitometric analysis values
+  are reported as ratios relative to the corresponding β-actin levels. The graph represents
+  the means +/- SD of the values for pLATS1 and LATS1 in treated and control groups.
+  The figure was created using https://www.BioRender.com'
+article_title: Integrated proteomics and metabolomics analyses reveal new insights
+  into the antitumor effects of valproic acid plus simvastatin combination in a prostate
+  cancer xenograft model associated with downmodulation of YAP/TAZ signaling.
+citation: Federica Iannelli, et al. Cancer Cell Int. 2024;24:381.
+
+doi: 10.1186/s12935-024-03573-1
+journal_title: Cancer Cell International
+journal_nlm_ta: Cancer Cell Int
+publisher_name: BioMed Central
+
+keywords:
+- Drug repurposing
+- Valproic acid
+- Simvastatin
+- Proteomics
+- Metabolomics
+- Prostate cancer
+
+---
