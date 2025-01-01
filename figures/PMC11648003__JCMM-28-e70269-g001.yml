@@ -1,0 +1,40 @@
+---
+pmcid: PMC11648003
+image_filename: JCMM-28-e70269-g001.jpg
+figure_link: /pmc/articles/PMC11648003/figure/jcmm70269-fig-0002/
+number: FIGURE 2
+figure_title: ''
+caption: Integrate network pharmacology and pharmacological analysis identifying the
+  active ingredient of Jisuikang (JSK). (A) The chemical compounds of 6 herbs in JSK
+  were retrieved from Traditional Chinese Medicine System Pharmacology Database (TCMSP,
+  http://lsp.nwu.edu.cn/tcmsp.php). Differentially expressed genes between spinal
+  cord injury samples and normal control samples were obtained based on GSE42828 and
+  GSE5296. The intersection of these sets highlights 239 overlapping genes. Among
+  them, 231 genes were consistently differentially expressed in the two GSE sets.
+  (B) Protein–protein interaction (PPI) network of the 231 DEGs shows significant
+  interactions between the target genes identified using the STRING database with
+  a confidence score > 0.7. The nodes represent target genes, and the edges represent
+  the interactions between them. (C) Gene Ontology (GO) enrichment analysis of the
+  231 DEGs, indicating processes such as inflammatory response, DNA biosynthetic process
+  regulation, and chemokine responses. (D) KEGG pathway enrichment analysis shows
+  significant pathways like NF‐kappa B signalling, TNF signalling, and apoptosis.
+  (E) WikiPathways enrichment analysis displaying key pathways involved in spinal
+  cord injury and apoptosis.
+article_title: Pharmacological Network Analysis of the Functions and Mechanism of
+  Quercetin From Jisuikang (JSK) in Spinal Cord Injury (SCI).
+citation: Lini Dong, et al. J Cell Mol Med. 2024 Dec;28(24):e70269.
+
+doi: 10.1111/jcmm.70269
+journal_title: Journal of Cellular and Molecular Medicine
+journal_nlm_ta: J Cell Mol Med
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- Huangqi
+- IL1R1
+- Jisuikang
+- microglia
+- quercetin
+- spinal cord injury
+
+---

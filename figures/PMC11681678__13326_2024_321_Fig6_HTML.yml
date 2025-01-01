@@ -1,0 +1,27 @@
+---
+pmcid: PMC11681678
+image_filename: 13326_2024_321_Fig6_HTML.jpg
+figure_link: /pmc/articles/PMC11681678/figure/Fig6/
+number: Fig. 6
+figure_title: ''
+caption: 'Molecular features identified in the TWOC demonstrator dataset. Overlap
+  in proteomic and transcriptomic features as extracted from a COVID-19-relevant pathway:
+  “SARS-CoV-2 innate immunity evasion and cell-specific immune response”, from WikiPathways'
+article_title: FAIR Data Cube, a FAIR data infrastructure for integrated multi-omics
+  data analysis.
+citation: Xiaofeng Liao, et al. J Biomed Semantics. 2024;15:20.
+
+doi: 10.1186/s13326-024-00321-2
+journal_title: Journal of Biomedical Semantics
+journal_nlm_ta: J Biomed Semantics
+publisher_name: BioMed Central
+
+keywords:
+- FAIR
+- Multi-omics
+- Data sovereignty
+- FAIR Data Cube
+- Metadata
+- Federated analysis
+
+---

@@ -1,0 +1,47 @@
+---
+pmcid: PMC11628629
+image_filename: 44321_2024_166_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC11628629/figure/Fig2/
+number: Figure 2
+figure_title: RNA profiling of EGFR-deficient hair follicle stem cells identifies
+  hallmarks of scarring hair follicle destruction
+caption: (A) Representative FACS plot of sorting strategy for CD34+ScaI- HFSCs (red
+  box) of WT and EGFRΔEgr2 mice at 1 M of age. (B) DoRothEA transcription factor analysis
+  of the HFSC RNAseq dataset. (C) Heatmap with z-scores of selected differentially
+  expressed genes of the HFSC RNAseq dataset from WT and EGFRΔEgr2 mice. (D) IF analysis
+  and quantification of proliferation (Ki67, red) in HFSCs (CD34, green) from skin
+  sections of WT and EGFRΔEgr2 mice at 1 M and 2 M of age (n = 13, 5 hair follicles
+  per n). The white arrowheads mark examples for double-positive Ki67- and CD4-positive
+  cells. Asterisk (*) highlights the additional proliferative bulb. WT vs EGFRΔEgr2
+  2 M p = 0.0397. (E) Top 20 gene set enrichment analysis (GSEA) WikiPathways from
+  the HFSC RNAseq dataset. (F) Skin section IF staining of apoptosis (Caspase 8, red;
+  n = 16, 3 hair follicles per n) and intermediate filament (Vimentin, red, E-Cadherin,
+  green) expression in the hair follicle of WT and EGFRΔEgr2 mice at 3 M of age (n = 8,
+  5 hair follicles per n). The white arrowheads mark double-positive Casp8- and CD34-positive
+  or Vimentin- and E-Cadherin-positive cells. Asterisk (*) highlights Vimentin+ dermal
+  cells associated around the hair follicle. Casp8+ WT vs EGFRΔEgr2p < 0.0001. Vim+
+  WT vs EGFRΔEgr2p = 0.018. (G) H&E histochemistry of WT and EGFRΔEgr2 at 5 M, red
+  arrows indicate follicular plugging and a fibrotic hair follicle (indicated with
+  a dotted line). WT vs EGFRΔEgr2p = 0.0179. (H) Number of hair follicle units per
+  1500 μm of H&E stained sections of WT and EGFRΔEgr2 skin at 10 M of age. Data is
+  presented in ±SEM, *p < 0.05, ****p < 0.0001 by unpaired t-test, n ≥ 3. .
+article_title: JAK-STAT1 as therapeutic target for EGFR deficiency-associated inflammation
+  and scarring alopecia.
+citation: Karoline Strobl, et al. EMBO Mol Med. 2024 Dec;16(12):3142-3168.
+
+doi: 10.1038/s44321-024-00166-3
+journal_title: EMBO Molecular Medicine
+journal_nlm_ta: EMBO Mol Med
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Cicatricial Alopecia
+- EGFR
+- Hair Follicle
+- Immune Privilege
+- JAK Inhibitors
+- Immunology
+- Skin
+- Stem Cells & Regenerative Medicine
+
+---

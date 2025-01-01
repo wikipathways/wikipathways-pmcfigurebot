@@ -1,0 +1,33 @@
+---
+pmcid: PMC11611756
+image_filename: CAS-115-4034-g001.jpg
+figure_link: /pmc/articles/PMC11611756/figure/cas16355-fig-0004/
+number: FIGURE 4
+figure_title: ''
+caption: Gene expression analysis with TCGA data. (A–C) Heatmaps showing the top 1000
+  statistical genes analyzed by hierarchical cluster analysis ((A) ESCC; WT n = 64,
+  KEAP1 n = 2, NRF2 n=14, (B) LUSC; WT n = 388, KEAP1 n = 47, NRF2 n = 67, (C) LUAD;
+  WT n = 430, KEAP1 n = 95, NRF2 n = 8). (D) The number of significant gene expression
+  differences between WT and KEAP1 or NRF2, KEAP1 and NRF2, or DEG and ETGE based
+  on DEG analysis in each cohort. (E) Wikipathways enrichment analysis according to
+  significant gene expression differences between WT and KEAP1 or NRF2. Larger bubbles
+  signify a higher number of genes associated with a particular process or pathway,
+  while smaller bubbles indicate fewer genes involved. The colors of the bubble plots
+  correspond to the −log10(q‐value) of the respective genes.
+article_title: 'Specific cancer types and prognosis in patients with variations in
+  the KEAP1‐NRF2 system: A retrospective cohort study.'
+citation: Tomoyuki Iwasaki, et al. Cancer Sci. 2024 Dec;115(12):4034-4044.
+
+doi: 10.1111/cas.16355
+journal_title: Cancer Science
+journal_nlm_ta: Cancer Sci
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- C‐CAT data
+- CGP test
+- KEAP1
+- NRF2
+- solid tumor
+
+---
