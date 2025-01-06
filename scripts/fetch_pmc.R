@@ -232,9 +232,12 @@ if(!length(image_filename) > 0){
     write("---", yml.path, append = T)
     
     ## download image from PMC, politely
-    img.from.path = paste0("https://www.ncbi.nlm.nih.gov/pmc/articles/",
-                           article.data$pmcid,
-                           "/bin/",article.data$image_filename)
+    # img.from.path = paste0("https://www.ncbi.nlm.nih.gov/pmc/articles/",
+    #                        article.data$pmcid,
+    #                        "/bin/",article.data$image_filename)
+    
+    img.from.path = paste0("https://www.ncbi.nlm.nih.gov/",
+                           article.data$figure_link)
     img.to.path = file.path('figures',paste(fn, "jpg", sep = "."))
     headers = c(
       `user-agent` = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36'
